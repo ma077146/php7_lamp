@@ -1,0 +1,662 @@
+----audit_log_boundary--20170612_11:05:04--4c40675fd6dd9f78817b1a95d0009f74
+GET /admin/dashboard.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/select_client.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:05:04--4c40675fd6dd9f78817b1a95d0009f74--
+----audit_log_boundary--20170612_11:05:12--59841c85f17f2bc10086ec0c605724f0
+GET /admin/personal_settings.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/dashboard.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:05:12--59841c85f17f2bc10086ec0c605724f0--
+----audit_log_boundary--20170612_11:05:22--01d2a6027486c0b083fe31745c23399d
+GET /admin/state_config.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/personal_settings.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:05:22--01d2a6027486c0b083fe31745c23399d--
+----audit_log_boundary--20170612_18:37:01--212f29d853416907e18cc0a0fa475243
+GET /admin/dashboard.php?ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/select_client.php?ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_18:37:01--212f29d853416907e18cc0a0fa475243--
+----audit_log_boundary--20170613_10:40:21--f765fd8db391c32a8139fc727fe075a5
+GET /admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/dashboard.php?ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:40:21--f765fd8db391c32a8139fc727fe075a5--
+----audit_log_boundary--20170613_10:40:34--d54a7d6b4ed13855256590ad222990a8
+POST /admin/update_query_results.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 218
+Accept: application/xml, text/xml, */*; q=0.01
+Origin: http://i9.local
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+ERCSESSID=38eda49df46c3a572662aadc3b706acd&filter=&interfaceId=employee_list-Employee&fromLink=0&resultsPerPage=25&startRecord=0&sortCol=2&sortOrder=DESC&lastName=&empId=&formStatus=&locationId=0&positionId=0&dBoardId=
+----audit_log_boundary--20170613_10:40:34--d54a7d6b4ed13855256590ad222990a8--
+----audit_log_boundary--20170613_10:40:41--249e57a6b7347a53645b07eb1f968dc7
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:40:41--249e57a6b7347a53645b07eb1f968dc7--
+----audit_log_boundary--20170613_10:41:09--c49a4a61cddcc8359d975d7fab5cd416
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Location&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:41:09--c49a4a61cddcc8359d975d7fab5cd416--
+----audit_log_boundary--20170613_10:42:06--71c305e017bfb452550c1556a15fd2c4
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 1710
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAilisN9rhg9HNbXL
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Location&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="wizardStep"
+
+0
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="wizardKey"
+
+E5YU94dAo8
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="parentId"
+
+0
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="locationName"
+
+Dogland
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="businessName"
+
+Dog Inc.
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="clientCode"
+
+d
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="country"
+
+USA
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="address"
+
+123 Street
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="city"
+
+Sandy
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="state"
+
+UT
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="postalCode"
+
+84070
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="contactName"
+
+Fido
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="contactPhone"
+
+801-111-2222
+------WebKitFormBoundaryAilisN9rhg9HNbXL
+Content-Disposition: form-data; name="contactEmail"
+
+fido@mailinator.com
+------WebKitFormBoundaryAilisN9rhg9HNbXL--
+----audit_log_boundary--20170613_10:42:06--71c305e017bfb452550c1556a15fd2c4--
+----audit_log_boundary--20170613_10:42:10--c66a6809343f48cdc4934b0ecb109ea9
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 584
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryIDSrGnPFVQMeIvok
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundaryIDSrGnPFVQMeIvok
+Content-Disposition: form-data; name="wizardStep"
+
+1
+------WebKitFormBoundaryIDSrGnPFVQMeIvok
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+------WebKitFormBoundaryIDSrGnPFVQMeIvok
+Content-Disposition: form-data; name="wizardKey"
+
+E5YU94dAo8
+------WebKitFormBoundaryIDSrGnPFVQMeIvok
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundaryIDSrGnPFVQMeIvok
+Content-Disposition: form-data; name="wizardObjectId"
+
+-1
+------WebKitFormBoundaryIDSrGnPFVQMeIvok--
+----audit_log_boundary--20170613_10:42:10--c66a6809343f48cdc4934b0ecb109ea9--
+----audit_log_boundary--20170613_10:42:13--1836210a355bbfdebd8a400a10079ea7
+GET /admin/dashboard.php?ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:42:13--1836210a355bbfdebd8a400a10079ea7--
+----audit_log_boundary--20170613_10:42:26--e514dc5053a55749bbecf9281325f665
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:42:26--e514dc5053a55749bbecf9281325f665--
+----audit_log_boundary--20170613_10:42:49--a127343921c45e8e185f2dd3814a6a49
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Position&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:42:49--a127343921c45e8e185f2dd3814a6a49--
+----audit_log_boundary--20170613_10:43:04--60a4c48bf23fdd3d8ba03bbdf2152505
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 794
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Position&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="wizardStep"
+
+0
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="wizardKey"
+
+7N4ZJs1FY331U7Y
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="parentId"
+
+0
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="positionName"
+
+Dead Bird Eater
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL
+Content-Disposition: form-data; name="clientCode"
+
+dbe
+------WebKitFormBoundaryWl1wFsM7DLwtvGVL--
+----audit_log_boundary--20170613_10:43:04--60a4c48bf23fdd3d8ba03bbdf2152505--
+----audit_log_boundary--20170613_10:43:07--efdb0c8c9c38637a7f63cfac16e64d32
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 589
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryJzJhNcU4SFB1Bovk
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundaryJzJhNcU4SFB1Bovk
+Content-Disposition: form-data; name="wizardStep"
+
+1
+------WebKitFormBoundaryJzJhNcU4SFB1Bovk
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+------WebKitFormBoundaryJzJhNcU4SFB1Bovk
+Content-Disposition: form-data; name="wizardKey"
+
+7N4ZJs1FY331U7Y
+------WebKitFormBoundaryJzJhNcU4SFB1Bovk
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundaryJzJhNcU4SFB1Bovk
+Content-Disposition: form-data; name="wizardObjectId"
+
+-1
+------WebKitFormBoundaryJzJhNcU4SFB1Bovk--
+----audit_log_boundary--20170613_10:43:07--efdb0c8c9c38637a7f63cfac16e64d32--
+----audit_log_boundary--20170613_10:43:11--6aac3d645bbd7e08a192fdc991abe700
+GET /admin/dashboard.php?ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:43:11--6aac3d645bbd7e08a192fdc991abe700--
+----audit_log_boundary--20170613_10:43:16--ce2e7cde3ef50e4cc27fb9d93cf242f3
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:43:16--ce2e7cde3ef50e4cc27fb9d93cf242f3--
+----audit_log_boundary--20170613_10:43:36--659154f7f77224d89a233275874d7ae2
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 1315
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryE0YcIvkc5ifVno6s
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="wizardStep"
+
+0
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="wizardKey"
+
+s16J8MELz0yGspU
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="firstName"
+
+Dog
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="lastName"
+
+Brain
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="hireDate"
+
+2017-06-09
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="ssn"
+
+123456789
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="locationId"
+
+1
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="positionId"
+
+1
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="phoneNumber"
+
+801-222-2222
+------WebKitFormBoundaryE0YcIvkc5ifVno6s
+Content-Disposition: form-data; name="emailAddress"
+
+dogbrain@mailinator.com
+------WebKitFormBoundaryE0YcIvkc5ifVno6s--
+----audit_log_boundary--20170613_10:43:36--659154f7f77224d89a233275874d7ae2--
+----audit_log_boundary--20170613_10:43:46--3eeedd648362700d3e84d328fc427dbb
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:43:46--3eeedd648362700d3e84d328fc427dbb--
+----audit_log_boundary--20170613_10:43:51--ef3b7cc9141e2a42fb7641ce873a66c0
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 1315
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="wizardStep"
+
+0
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="wizardKey"
+
+4733Q0chw05e96T
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="firstName"
+
+Dog
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="lastName"
+
+Brain
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="hireDate"
+
+2017-06-09
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="ssn"
+
+123456789
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="locationId"
+
+1
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="positionId"
+
+1
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="phoneNumber"
+
+801-222-2222
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR
+Content-Disposition: form-data; name="emailAddress"
+
+dogbrain@mailinator.com
+------WebKitFormBoundaryEwoVoV9p2tj2CcKR--
+----audit_log_boundary--20170613_10:43:51--ef3b7cc9141e2a42fb7641ce873a66c0--
+----audit_log_boundary--20170613_10:43:53--dc2926b41df01aff71c50b620af2bc01
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170613_10:43:53--dc2926b41df01aff71c50b620af2bc01--
+----audit_log_boundary--20170613_10:44:17--35b29e6d61207c29866d5040d4e37f71
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 1314
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary3JffzG3DUWN2DCz7
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="wizardStep"
+
+0
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="wizardKey"
+
+25VB9u7DklJJpE
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="firstName"
+
+Dog
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="lastName"
+
+Brain
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="hireDate"
+
+2017-06-09
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="ssn"
+
+123456789
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="locationId"
+
+1
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="positionId"
+
+1
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="phoneNumber"
+
+801-222-2222
+------WebKitFormBoundary3JffzG3DUWN2DCz7
+Content-Disposition: form-data; name="emailAddress"
+
+dogbrain@mailinator.com
+------WebKitFormBoundary3JffzG3DUWN2DCz7--
+----audit_log_boundary--20170613_10:44:17--35b29e6d61207c29866d5040d4e37f71--
+----audit_log_boundary--20170613_10:47:19--5dcc3a9ecca0b8892e7469d328b8a907
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: XDEBUG_SESSION=netbeans-xdebug
+
+----audit_log_boundary--20170613_10:47:19--5dcc3a9ecca0b8892e7469d328b8a907--
+----audit_log_boundary--20170613_10:47:22--7aa4518aae5907a929db30e2f0370155
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Content-Length: 1314
+Cache-Control: max-age=0
+Origin: http://i9.local
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarynjV9BckB9M78p7pJ
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=38eda49df46c3a572662aadc3b706acd
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: XDEBUG_SESSION=netbeans-xdebug
+
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="wizardStep"
+
+0
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="wizardKey"
+
+Y8lQVvt82hcKJF
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="ERCSESSID"
+
+38eda49df46c3a572662aadc3b706acd
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="firstName"
+
+Dog
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="lastName"
+
+Brain
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="hireDate"
+
+2017-06-09
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="ssn"
+
+123456789
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="locationId"
+
+1
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="positionId"
+
+1
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="phoneNumber"
+
+801-222-2222
+------WebKitFormBoundarynjV9BckB9M78p7pJ
+Content-Disposition: form-data; name="emailAddress"
+
+dogbrain@mailinator.com
+------WebKitFormBoundarynjV9BckB9M78p7pJ--
+----audit_log_boundary--20170613_10:47:22--7aa4518aae5907a929db30e2f0370155--

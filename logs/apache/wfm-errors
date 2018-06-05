@@ -1,0 +1,6 @@
+[Tue Jun 05 16:42:12.463778 2018] [ssl:warn] [pid 6] AH01906: wfm.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:42:12.680176 2018] [ssl:warn] [pid 6] AH01906: wfm.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:44:51.065699 2018] [ssl:warn] [pid 6] AH01906: wfm.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:44:51.131842 2018] [ssl:warn] [pid 6] AH01906: wfm.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:52:27.355248 2018] [ssl:warn] [pid 6] AH01906: wfm.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:52:27.482056 2018] [ssl:warn] [pid 6] AH01906: wfm.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)

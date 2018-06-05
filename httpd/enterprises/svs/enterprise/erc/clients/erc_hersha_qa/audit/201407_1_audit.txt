@@ -1,0 +1,811 @@
+----audit_log_boundary--20140706_18:57:51--56b93a672dd2dc0fc7e2eb5fe0bff670
+GET /admin/dashboard.php?ERCSESSID=u9k66b0ksq5in6avikmsp4ad14 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=u9k66b0ksq5in6avikmsp4ad14
+Connection: keep-alive
+
+----audit_log_boundary--20140706_18:57:51--56b93a672dd2dc0fc7e2eb5fe0bff670--
+----audit_log_boundary--20140707_00:41:46--4f161ec38b4fb067102c5e137ee3f102
+GET /admin/dashboard.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4
+Connection: keep-alive
+
+----audit_log_boundary--20140707_00:41:46--4f161ec38b4fb067102c5e137ee3f102--
+----audit_log_boundary--20140707_00:41:52--66044fc9c2fdc37e29ac23bb178dc093
+GET /admin/personal_settings.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4
+Connection: keep-alive
+
+----audit_log_boundary--20140707_00:41:52--66044fc9c2fdc37e29ac23bb178dc093--
+----audit_log_boundary--20140707_00:42:01--b4f8732d583ad33510767358bad0388c
+GET /admin/user_list.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/personal_settings.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4
+Connection: keep-alive
+
+----audit_log_boundary--20140707_00:42:01--b4f8732d583ad33510767358bad0388c--
+----audit_log_boundary--20140707_00:42:06--d9b68ea6247df33f24dee4d95489d6e4
+GET /admin/user_management.php?userId=1224&ERCSESSID=jdil08reaqekgr7dbb17h5ink4 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/user_list.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4
+Connection: keep-alive
+
+----audit_log_boundary--20140707_00:42:06--d9b68ea6247df33f24dee4d95489d6e4--
+----audit_log_boundary--20140708_19:05:50--6646b1d559771c9216c0ad7828c90701
+GET /admin/sign_off.php?ERCSESSID=jdil08reaqekgr7dbb17h5ink4 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/user_management.php?userId=1224&ERCSESSID=jdil08reaqekgr7dbb17h5ink4
+Connection: keep-alive
+
+----audit_log_boundary--20140708_19:05:50--6646b1d559771c9216c0ad7828c90701--
+----audit_log_boundary--20140710_10:09:06--24cfe2120202bad311e23efc55c3a6e7
+GET /admin/dashboard.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6
+Connection: keep-alive
+
+----audit_log_boundary--20140710_10:09:06--24cfe2120202bad311e23efc55c3a6e7--
+----audit_log_boundary--20140710_10:09:15--e6b07f895ce3b2b861570046093a5aaa
+GET /admin/personal_settings.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6
+Connection: keep-alive
+
+----audit_log_boundary--20140710_10:09:15--e6b07f895ce3b2b861570046093a5aaa--
+----audit_log_boundary--20140710_10:13:33--fddaf8f8955361e34ae69d77b1985099
+GET /admin/dashboard.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/personal_settings.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6
+Connection: keep-alive
+
+----audit_log_boundary--20140710_10:13:33--fddaf8f8955361e34ae69d77b1985099--
+----audit_log_boundary--20140710_10:13:47--6dcecf8aa8f8411e3f068cbf8815775c
+GET /admin/personal_settings.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6
+Connection: keep-alive
+
+----audit_log_boundary--20140710_10:13:47--6dcecf8aa8f8411e3f068cbf8815775c--
+----audit_log_boundary--20140713_23:53:15--adc74e6d1e763b5b10ef73e7f6508153
+GET /admin/sign_off.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/personal_settings.php?ERCSESSID=3ja5k5h4a4amu07gth2f516bc6
+Connection: keep-alive
+
+----audit_log_boundary--20140713_23:53:15--adc74e6d1e763b5b10ef73e7f6508153--
+----audit_log_boundary--20140716_10:01:36--5f9d492c4095ab870efb76bb2a5b2f4f
+GET /admin/dashboard.php?ERCSESSID=annbi7949q35hd29khmibjal21 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=annbi7949q35hd29khmibjal21
+Connection: keep-alive
+
+----audit_log_boundary--20140716_10:01:36--5f9d492c4095ab870efb76bb2a5b2f4f--
+----audit_log_boundary--20140716_10:01:42--41533ff00924aff789ca8c2575973af4
+GET /admin/sign_off.php?ERCSESSID=annbi7949q35hd29khmibjal21 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=annbi7949q35hd29khmibjal21
+Connection: keep-alive
+
+----audit_log_boundary--20140716_10:01:42--41533ff00924aff789ca8c2575973af4--
+----audit_log_boundary--20140716_20:39:17--8ac55a5916a9238c66f8907b3ceecf3c
+GET /admin/dashboard.php?ERCSESSID=5pkcft80takcrhmqu0ms1a73a2 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=5pkcft80takcrhmqu0ms1a73a2
+Connection: keep-alive
+
+----audit_log_boundary--20140716_20:39:17--8ac55a5916a9238c66f8907b3ceecf3c--
+----audit_log_boundary--20140716_20:39:25--f7cb7b9493256c3241a970fdc48b8496
+GET /admin/employee_list.php?&ERCSESSID=5pkcft80takcrhmqu0ms1a73a2 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=5pkcft80takcrhmqu0ms1a73a2
+Connection: keep-alive
+
+----audit_log_boundary--20140716_20:39:25--f7cb7b9493256c3241a970fdc48b8496--
+----audit_log_boundary--20140716_20:39:30--311a5a0adf8f2684b13998c907137f0a
+GET /admin/employee_management.php?id=78&ERCSESSID=5pkcft80takcrhmqu0ms1a73a2 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=5pkcft80takcrhmqu0ms1a73a2
+Connection: keep-alive
+
+----audit_log_boundary--20140716_20:39:30--311a5a0adf8f2684b13998c907137f0a--
+----audit_log_boundary--20140716_20:39:35--def2432891d3a751036b9fd79bd05eec
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=78&ERCSESSID=5pkcft80takcrhmqu0ms1a73a2
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=5pkcft80takcrhmqu0ms1a73a2&id=78&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20140716_20:39:35--def2432891d3a751036b9fd79bd05eec--
+----audit_log_boundary--20140716_20:39:43--485f10cd538ea8193b9c0678af9a13d2
+GET /admin/sign_off.php?ERCSESSID=5pkcft80takcrhmqu0ms1a73a2 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140716_20:39:43--485f10cd538ea8193b9c0678af9a13d2--
+----audit_log_boundary--20140729_09:46:38--ad9255f0ce382dd8bb01ca40dfbb43ca
+GET /admin/dashboard.php?ERCSESSID=2ehccatc4jqslsv9vfmcf2lip7 HTTP/1.1
+Host: i9.fedora.erc.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=2ehccatc4jqslsv9vfmcf2lip7
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20140729_09:46:38--ad9255f0ce382dd8bb01ca40dfbb43ca--
+----audit_log_boundary--20140729_10:46:42--f15665d9eff6f6e980dd439ed651f5ae
+GET /admin/sign_off.php?ERCSESSID=2ehccatc4jqslsv9vfmcf2lip7 HTTP/1.1
+Host: i9.fedora.erc.local
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=2ehccatc4jqslsv9vfmcf2lip7
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20140729_10:46:42--f15665d9eff6f6e980dd439ed651f5ae--
+----audit_log_boundary--20140729_11:10:31--9610b68f6f37d0279c4f142e841a37f4
+GET /admin/dashboard.php?ERCSESSID=ekf6137hmtg3jogd5mn9jmon74 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=ekf6137hmtg3jogd5mn9jmon74
+Connection: keep-alive
+
+----audit_log_boundary--20140729_11:10:31--9610b68f6f37d0279c4f142e841a37f4--
+----audit_log_boundary--20140731_14:41:18--8fef9a8cd4e81f2caacfb22ded943ecd
+GET /admin/dashboard.php?ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_14:41:18--8fef9a8cd4e81f2caacfb22ded943ecd--
+----audit_log_boundary--20140731_14:41:26--b600106a4ab5b781f08bd52c8620c647
+GET /admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_14:41:26--b600106a4ab5b781f08bd52c8620c647--
+----audit_log_boundary--20140731_14:41:43--548a6974096477872fa8258a3abf001a
+GET /admin/user_list.php?ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_14:41:43--548a6974096477872fa8258a3abf001a--
+----audit_log_boundary--20140731_22:47:17--06a0560d14d2f9812edfc38ea602c379
+GET /admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/user_list.php?ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:47:17--06a0560d14d2f9812edfc38ea602c379--
+----audit_log_boundary--20140731_22:47:31--eb5d127007f015859f2130a02ee05c1e
+GET /admin/employee_management.php?id=75&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:47:31--eb5d127007f015859f2130a02ee05c1e--
+----audit_log_boundary--20140731_22:47:36--bfb94467ce68604b689c7a4c76b2c639
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=75&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=75&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20140731_22:47:36--bfb94467ce68604b689c7a4c76b2c639--
+----audit_log_boundary--20140731_22:47:43--43d181c4ebacda48166a2371874e2e40
+GET /admin/download_form.php?eid=75&efid=77&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:47:43--43d181c4ebacda48166a2371874e2e40--
+----audit_log_boundary--20140731_22:47:58--d2c1853c29ddff79b2dfded5aaf617f2
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=75&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=75&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20140731_22:47:58--d2c1853c29ddff79b2dfded5aaf617f2--
+----audit_log_boundary--20140731_22:48:06--8291f60fcb939b6930aa35fba8e49449
+GET /admin/employee_list.php?filter=stored&view=stored&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:48:06--8291f60fcb939b6930aa35fba8e49449--
+----audit_log_boundary--20140731_22:48:12--87fcba1d4706907d1f64760f44eaf7bd
+GET /admin/employee_management.php?id=57&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?filter=stored&view=stored&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:48:12--87fcba1d4706907d1f64760f44eaf7bd--
+----audit_log_boundary--20140731_22:48:19--f8f6dfb6e5e85d43c12ea55f22b0e19f
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=57&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20140731_22:48:19--f8f6dfb6e5e85d43c12ea55f22b0e19f--
+----audit_log_boundary--20140731_22:48:20--a5543d2cb5f8936a9516f2772feb3c0a
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:48:20--a5543d2cb5f8936a9516f2772feb3c0a--
+----audit_log_boundary--20140731_22:53:34--09b68f8675bf3995bde551879fdc5d76
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_22:53:34--09b68f8675bf3995bde551879fdc5d76--
+----audit_log_boundary--20140731_22:53:36--687c808e4c2fc7456951e512697dc732
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:53:36--687c808e4c2fc7456951e512697dc732--
+----audit_log_boundary--20140731_22:54:43--1686a2dc6e4945fe406d518d277c07a9
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_22:54:43--1686a2dc6e4945fe406d518d277c07a9--
+----audit_log_boundary--20140731_22:54:45--c9b44dcc6a63014303b26b82554fc614
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:54:45--c9b44dcc6a63014303b26b82554fc614--
+----audit_log_boundary--20140731_22:54:59--440cf75259eeec1554aa05d1cf46ef96
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_22:54:59--440cf75259eeec1554aa05d1cf46ef96--
+----audit_log_boundary--20140731_22:55:01--31e9cea63c5b5c6f0c93ee6c9b67dc51
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:55:01--31e9cea63c5b5c6f0c93ee6c9b67dc51--
+----audit_log_boundary--20140731_22:55:28--3e6032247e19c121a6396a416f2d3008
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_22:55:28--3e6032247e19c121a6396a416f2d3008--
+----audit_log_boundary--20140731_22:55:30--132b58bd082a3769bf2567d445bad66d
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:55:30--132b58bd082a3769bf2567d445bad66d--
+----audit_log_boundary--20140731_22:57:06--fbd64a7a467086f5b84c83416b1f3178
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_22:57:06--fbd64a7a467086f5b84c83416b1f3178--
+----audit_log_boundary--20140731_22:57:08--1abdedd49666de77fd28dd8adc33eb97
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_22:57:08--1abdedd49666de77fd28dd8adc33eb97--
+----audit_log_boundary--20140731_23:12:14--e4803e16e1e1547ed2d2c9e858d5d6a3
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:12:14--e4803e16e1e1547ed2d2c9e858d5d6a3--
+----audit_log_boundary--20140731_23:12:16--b4bfde42e52e49ccdb0e5623b672ed10
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:12:16--b4bfde42e52e49ccdb0e5623b672ed10--
+----audit_log_boundary--20140731_23:15:13--47c17c98d7e848c5cc1000493990513d
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:15:13--47c17c98d7e848c5cc1000493990513d--
+----audit_log_boundary--20140731_23:15:17--853e5d2707b3adc8f02d232b1ac7423c
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:15:17--853e5d2707b3adc8f02d232b1ac7423c--
+----audit_log_boundary--20140731_23:22:56--deb241d623c96e6780a1780ccb600b5c
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:22:56--deb241d623c96e6780a1780ccb600b5c--
+----audit_log_boundary--20140731_23:22:59--769931ac98628b1b2cdb1690ea4fd9d3
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:22:59--769931ac98628b1b2cdb1690ea4fd9d3--
+----audit_log_boundary--20140731_23:25:01--d47fe27af9de5a36a3cdcf39b182d99a
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:25:01--d47fe27af9de5a36a3cdcf39b182d99a--
+----audit_log_boundary--20140731_23:25:05--1159491207a21e77039a5d30f238c767
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:25:05--1159491207a21e77039a5d30f238c767--
+----audit_log_boundary--20140731_23:25:31--084e75dfcd9659b819d0582877df3654
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:25:31--084e75dfcd9659b819d0582877df3654--
+----audit_log_boundary--20140731_23:25:34--835a1949e70a3fd11d36bc772bfa303b
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:25:34--835a1949e70a3fd11d36bc772bfa303b--
+----audit_log_boundary--20140731_23:32:23--0cb933541c0d9adcee0fc315c5dfffca
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:32:23--0cb933541c0d9adcee0fc315c5dfffca--
+----audit_log_boundary--20140731_23:32:27--678a545557a7c32bd9465c5450e3e11c
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:32:27--678a545557a7c32bd9465c5450e3e11c--
+----audit_log_boundary--20140731_23:42:13--bd12875c0d03269178fb096872174b12
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:42:13--bd12875c0d03269178fb096872174b12--
+----audit_log_boundary--20140731_23:42:15--08d33909ec8a5b203acd1a2a8b5742e3
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:42:15--08d33909ec8a5b203acd1a2a8b5742e3--
+----audit_log_boundary--20140731_23:44:18--cb59bf6c75bae9c1ef863f0455829438
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:44:18--cb59bf6c75bae9c1ef863f0455829438--
+----audit_log_boundary--20140731_23:44:20--03d9525ec62ceda6e23f149d87be6117
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:44:20--03d9525ec62ceda6e23f149d87be6117--
+----audit_log_boundary--20140731_23:45:28--aff5309c820eab74f2f6bd02c174dd64
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:45:28--aff5309c820eab74f2f6bd02c174dd64--
+----audit_log_boundary--20140731_23:45:31--33536c21a6bf344ae59d0bbebfeae679
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:45:31--33536c21a6bf344ae59d0bbebfeae679--
+----audit_log_boundary--20140731_23:49:17--fd7f2d70dad3f6ce63d8e60738c05dbc
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=56&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20140731_23:49:17--fd7f2d70dad3f6ce63d8e60738c05dbc--
+----audit_log_boundary--20140731_23:49:22--b10b4b43af9f004e26f4dbbb441d5ced
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:49:22--b10b4b43af9f004e26f4dbbb441d5ced--
+----audit_log_boundary--20140731_23:50:51--b65da765f8208b8982a72466893bd710
+GET /admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:50:51--b65da765f8208b8982a72466893bd710--
+----audit_log_boundary--20140731_23:51:00--532b19a37c41ee6b9084c56b66e047dd
+GET /admin/get_navigation_tree.php?id=navPosId_nav&tc=position&it=select&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:51:00--532b19a37c41ee6b9084c56b66e047dd--
+----audit_log_boundary--20140731_23:51:24--aa853dced181a4e58ad549f7efbc4814
+GET /admin/employee_management.php?id=57&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:51:24--aa853dced181a4e58ad549f7efbc4814--
+----audit_log_boundary--20140731_23:51:33--5ce21f1c01f46ada5cc62196687f89b3
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=57&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=5negk86dkjsk5o7pqlp26sekp7&id=57&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20140731_23:51:33--5ce21f1c01f46ada5cc62196687f89b3--
+----audit_log_boundary--20140731_23:51:39--62d203bdd5907fe71b8b371eae5f973f
+GET /admin/view_everify_image.php?efid=56&miid=2&ERCSESSID=5negk86dkjsk5o7pqlp26sekp7 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20140731_23:51:39--62d203bdd5907fe71b8b371eae5f973f--

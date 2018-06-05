@@ -1,0 +1,72 @@
+----audit_log_boundary--20130716_10:48:12--d3d4c0c5acbc91df75ac2d8253288160
+GET /admin/dashboard.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:48:12--d3d4c0c5acbc91df75ac2d8253288160--
+----audit_log_boundary--20130716_10:48:15--626ceb279cc0e20f862b80cf463675f3
+GET /admin/get_navigation_tree.php?id=navLocId_Nav&tc=location&it=select&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:48:15--626ceb279cc0e20f862b80cf463675f3--
+----audit_log_boundary--20130726_12:02:22--1dc41da4c8b4e9b5f634a3504c49ac8f
+GET /admin/dashboard.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130726_12:02:22--1dc41da4c8b4e9b5f634a3504c49ac8f--
+----audit_log_boundary--20130726_12:02:27--0abd6fceedf9493224beeeaeb95358e1
+GET /admin/employee_list.php?&ERCSESSID=gpujnobgbe8c1236fch3ognms3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130726_12:02:27--0abd6fceedf9493224beeeaeb95358e1--
+----audit_log_boundary--20130726_12:02:29--921d0c2dbb3946d2a8dbaa01049e0fb3
+GET /admin/dashboard.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130726_12:02:29--921d0c2dbb3946d2a8dbaa01049e0fb3--
+----audit_log_boundary--20130726_12:02:35--fae23c773c5691131fd88258dcdfc2b5
+GET /admin/dashboard.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=gpujnobgbe8c1236fch3ognms3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130726_12:02:35--fae23c773c5691131fd88258dcdfc2b5--

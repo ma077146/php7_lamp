@@ -1,0 +1,13 @@
+----audit_log_boundary--20130503_11:07:16--e1801d30ddc7117392e7990319a5fafd
+GET /admin/dashboard.php?ERCSESSID=dfmaaugbv1j8bhg4k6cep99bs0 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=dfmaaugbv1j8bhg4k6cep99bs0
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.188787738.1343324062.1367242254.1367249503.209; __utmz=99073226.1367242254.208.75.utmcsr=oemsales-stage2.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/authoring.php; erc_dataplus_2012_tpl=erc_dataplus_2012; SESS68a6869fcb59422ccb59998d2d57d6c5=l2u56sev59udoufuli1nrqenr6
+
+----audit_log_boundary--20130503_11:07:16--e1801d30ddc7117392e7990319a5fafd--

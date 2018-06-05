@@ -1,0 +1,36 @@
+----audit_log_boundary--20130911_11:46:29--0fd6333b00ca6326126aa875f08bd592
+GET /admin/dashboard.php?ERCSESSID=ode37idgt6q69r5iibtjr5l2q1 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=ode37idgt6q69r5iibtjr5l2q1
+Cookie: __utma=99073226.846690184.1372805869.1372805869.1378477574.2; __utmz=99073226.1378477574.2.2.utmcsr=erc2.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=7gja584rg463onkpqed5eh3c72; __utmc=99073226
+Connection: keep-alive
+
+----audit_log_boundary--20130911_11:46:29--0fd6333b00ca6326126aa875f08bd592--
+----audit_log_boundary--20130911_11:46:31--c89a35a904b9e6479422e80908a7d100
+GET /admin/employee_list.php?&ERCSESSID=ode37idgt6q69r5iibtjr5l2q1 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=ode37idgt6q69r5iibtjr5l2q1
+Cookie: __utma=99073226.846690184.1372805869.1372805869.1378477574.2; __utmz=99073226.1378477574.2.2.utmcsr=erc2.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=7gja584rg463onkpqed5eh3c72; __utmc=99073226
+Connection: keep-alive
+
+----audit_log_boundary--20130911_11:46:31--c89a35a904b9e6479422e80908a7d100--
+----audit_log_boundary--20130911_11:46:34--8e2712691fc857892dd072b2af15838d
+GET /admin/dashboard.php?ERCSESSID=ode37idgt6q69r5iibtjr5l2q1 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=ode37idgt6q69r5iibtjr5l2q1
+Cookie: __utma=99073226.846690184.1372805869.1372805869.1378477574.2; __utmz=99073226.1378477574.2.2.utmcsr=erc2.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=7gja584rg463onkpqed5eh3c72; __utmc=99073226
+Connection: keep-alive
+
+----audit_log_boundary--20130911_11:46:34--8e2712691fc857892dd072b2af15838d--

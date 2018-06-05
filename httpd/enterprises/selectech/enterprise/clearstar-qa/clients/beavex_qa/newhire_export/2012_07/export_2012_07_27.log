@@ -1,0 +1,23 @@
+2012-07-27 11:24:13: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-07-27 11:24:13:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-07-27 11:24:13: Beginning export group associated with process step 193
+2012-07-27 11:24:13: Applications to be processed: 444
+2012-07-27 11:24:13: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-07-27 11:24:13: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-07-27 11:24:13: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-07-27 11:24:14:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 444 has been successfully emailed to debbie.flynn@ercdataplus.com, chibbard@ercdataplus.com
+2012-07-27 11:24:14: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed
+2012-07-27 11:27:31: 
+
+New Hire Export executed from batch_payroll_export.php
+2012-07-27 11:27:31:  - Process Step: Batch Payroll Export (92) - BatchPayrollExport
+2012-07-27 11:27:31: Beginning export group associated with process step 92
+2012-07-27 11:27:31: Applications to be processed: 435, 442, 444
+2012-07-27 11:27:31: Payroll Export - NewHire_Export_Handler_ADPCsvFtp (1) - Started
+2012-07-27 11:27:31:  (NewHire_Export_Handler_ADPCsvFtp) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_07/EMP8XPBr.csv has been successfully placed on svr-ftp.ercdataplus.com as EMP8XPBr.csv for user erctest ( Attempt 1 ).
+2012-07-27 11:27:31: Payroll Export - NewHire_Export_Handler_ADPCsvFtp (1) - Successfully Completed
+2012-07-27 11:27:32: Output Report - NewHire_Export_Handler_EmailAuditPdf (2) - Started
+2012-07-27 11:27:32:  (NewHire_Export_Handler_EmailAuditPdf) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_07/2012_07_27_email_confirmation.pdf has been successfully emailed to debbie.flynn@ercdataplus.com, brent.flynn@ercdataplus.com, ellen.hanington@ercdataplus.com
+2012-07-27 11:27:32: Output Report - NewHire_Export_Handler_EmailAuditPdf (2) - Successfully Completed

@@ -1,0 +1,49 @@
+----audit_log_boundary--20130816_09:38:59--8a5c94e44bb6b2084c99a8787d13445b
+GET /admin/dashboard.php?ERCSESSID=0bjnvna77eu89iaq2pi30114h3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=0bjnvna77eu89iaq2pi30114h3
+Connection: keep-alive
+
+----audit_log_boundary--20130816_09:38:59--8a5c94e44bb6b2084c99a8787d13445b--
+----audit_log_boundary--20130816_09:39:01--5f07d1d06382d7804493ec35df283057
+GET /admin/get_navigation_tree.php?id=navPosId_Nav&tc=position&it=select&ERCSESSID=0bjnvna77eu89iaq2pi30114h3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=0bjnvna77eu89iaq2pi30114h3
+Connection: keep-alive
+
+----audit_log_boundary--20130816_09:39:01--5f07d1d06382d7804493ec35df283057--
+----audit_log_boundary--20130816_09:39:02--f31e9f1a3b2faeeca79c26314009d728
+POST /admin/dashboard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=0bjnvna77eu89iaq2pi30114h3
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+
+ERCSESSID=0bjnvna77eu89iaq2pi30114h3&navAction=changeNavigation&navLocId=0&navPosId=1
+----audit_log_boundary--20130816_09:39:02--f31e9f1a3b2faeeca79c26314009d728--
+----audit_log_boundary--20130816_09:39:06--a1d1f50cf064858bd17c8850d1a64b2d
+GET /admin/position_management.php?tab=0&status=New&ERCSESSID=0bjnvna77eu89iaq2pi30114h3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130816_09:39:06--a1d1f50cf064858bd17c8850d1a64b2d--

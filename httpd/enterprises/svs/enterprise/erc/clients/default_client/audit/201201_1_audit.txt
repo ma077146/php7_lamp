@@ -1,0 +1,51 @@
+----audit_log_boundary--20120107_15:10:21--ba7433fedd38d07d5e3ff7b9f6cf8e51
+GET /admin/dashboard.php?ERCSESSID=onjgt7hhhu93s9ehhkc7jvgf57 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=onjgt7hhhu93s9ehhkc7jvgf57
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.846026820.1325788317.1325863415.1325881397.5; __utmz=99073226.1325788317.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=99073226
+
+----audit_log_boundary--20120107_15:10:21--ba7433fedd38d07d5e3ff7b9f6cf8e51--
+----audit_log_boundary--20120107_15:10:23--93447fc22a0750c0dbb9245bde487347
+GET /admin/sign_off.php?ERCSESSID=onjgt7hhhu93s9ehhkc7jvgf57 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=onjgt7hhhu93s9ehhkc7jvgf57
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.846026820.1325788317.1325863415.1325881397.5; __utmz=99073226.1325788317.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=99073226
+
+----audit_log_boundary--20120107_15:10:23--93447fc22a0750c0dbb9245bde487347--
+----audit_log_boundary--20120119_09:53:45--d5617584e5cb03901bf4f9fd9a8e6a06
+GET /admin/dashboard.php?ERCSESSID=56ajg1mknko24vukhlvsqed1o5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=56ajg1mknko24vukhlvsqed1o5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utmc=99073226; __utma=99073226.489644947.1317404632.1326895979.1326982045.122; __utmz=99073226.1323290646.75.3.utmcsr=erc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/dashboard.php
+
+----audit_log_boundary--20120119_09:53:45--d5617584e5cb03901bf4f9fd9a8e6a06--
+----audit_log_boundary--20120119_09:53:51--2d675dc46459f523173fa1af0705e6f2
+GET /admin/dashboard.php?ERCSESSID=56ajg1mknko24vukhlvsqed1o5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=56ajg1mknko24vukhlvsqed1o5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utmc=99073226; __utma=99073226.489644947.1317404632.1326895979.1326982045.122; __utmz=99073226.1323290646.75.3.utmcsr=erc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/dashboard.php
+
+----audit_log_boundary--20120119_09:53:51--2d675dc46459f523173fa1af0705e6f2--

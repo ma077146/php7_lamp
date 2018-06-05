@@ -1,0 +1,1133 @@
+----audit_log_boundary--20130712_16:02:29--e6f554b859ef667a95a950c2d4a5535e
+GET /admin/dashboard.php?ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:02:29--e6f554b859ef667a95a950c2d4a5535e--
+----audit_log_boundary--20130712_16:02:32--5c8a1de15a2b3351c0baa8ce23110e09
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:02:32--5c8a1de15a2b3351c0baa8ce23110e09--
+----audit_log_boundary--20130712_16:03:14--38b5d96c55c76ad97b8cdd31d9fab22a
+POST /admin/new_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------26580227638020
+Content-Length: 1768
+
+-----------------------------26580227638020
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------26580227638020
+Content-Disposition: form-data; name="wizardKey"
+
+3t6093xaP58P9
+-----------------------------26580227638020
+Content-Disposition: form-data; name="ERCSESSID"
+
+gah58v7n85c3olmn5ea203c305
+-----------------------------26580227638020
+Content-Disposition: form-data; name="firstName"
+
+Nhoj
+-----------------------------26580227638020
+Content-Disposition: form-data; name="lastName"
+
+Babble
+-----------------------------26580227638020
+Content-Disposition: form-data; name="hireDate_month"
+
+7
+-----------------------------26580227638020
+Content-Disposition: form-data; name="hireDate_day"
+
+31
+-----------------------------26580227638020
+Content-Disposition: form-data; name="hireDate_year"
+
+2014
+-----------------------------26580227638020
+Content-Disposition: form-data; name="ssn"
+
+123456789
+-----------------------------26580227638020
+Content-Disposition: form-data; name="locationId"
+
+7
+-----------------------------26580227638020
+Content-Disposition: form-data; name="positionId"
+
+2
+-----------------------------26580227638020
+Content-Disposition: form-data; name="phoneNumber_area"
+
+
+-----------------------------26580227638020
+Content-Disposition: form-data; name="phoneNumber_local1"
+
+
+-----------------------------26580227638020
+Content-Disposition: form-data; name="phoneNumber_local2"
+
+
+-----------------------------26580227638020
+Content-Disposition: form-data; name="emailAddress"
+
+ercjohnb+nbabble@gmail.com
+-----------------------------26580227638020
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------26580227638020--
+----audit_log_boundary--20130712_16:03:14--38b5d96c55c76ad97b8cdd31d9fab22a--
+----audit_log_boundary--20130712_16:03:22--af55395cc564b62540b477f13640e18b
+POST /admin/new_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------307871571716604
+Content-Length: 1785
+
+-----------------------------307871571716604
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------307871571716604
+Content-Disposition: form-data; name="wizardKey"
+
+3t6093xaP58P9
+-----------------------------307871571716604
+Content-Disposition: form-data; name="ERCSESSID"
+
+gah58v7n85c3olmn5ea203c305
+-----------------------------307871571716604
+Content-Disposition: form-data; name="firstName"
+
+Nhoj
+-----------------------------307871571716604
+Content-Disposition: form-data; name="lastName"
+
+Babble
+-----------------------------307871571716604
+Content-Disposition: form-data; name="hireDate_month"
+
+7
+-----------------------------307871571716604
+Content-Disposition: form-data; name="hireDate_day"
+
+31
+-----------------------------307871571716604
+Content-Disposition: form-data; name="hireDate_year"
+
+2013
+-----------------------------307871571716604
+Content-Disposition: form-data; name="ssn"
+
+123456789
+-----------------------------307871571716604
+Content-Disposition: form-data; name="locationId"
+
+7
+-----------------------------307871571716604
+Content-Disposition: form-data; name="positionId"
+
+2
+-----------------------------307871571716604
+Content-Disposition: form-data; name="phoneNumber_area"
+
+
+-----------------------------307871571716604
+Content-Disposition: form-data; name="phoneNumber_local1"
+
+
+-----------------------------307871571716604
+Content-Disposition: form-data; name="phoneNumber_local2"
+
+
+-----------------------------307871571716604
+Content-Disposition: form-data; name="emailAddress"
+
+ercjohnb+nbabble@gmail.com
+-----------------------------307871571716604
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------307871571716604--
+----audit_log_boundary--20130712_16:03:22--af55395cc564b62540b477f13640e18b--
+----audit_log_boundary--20130712_16:03:23--b3a3eeefbd97dd65aa00a2a2a6ec23ce
+POST /admin/new_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------137771256926682
+Content-Length: 498
+
+-----------------------------137771256926682
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------137771256926682
+Content-Disposition: form-data; name="wizardKey"
+
+3t6093xaP58P9
+-----------------------------137771256926682
+Content-Disposition: form-data; name="ERCSESSID"
+
+gah58v7n85c3olmn5ea203c305
+-----------------------------137771256926682
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------137771256926682--
+----audit_log_boundary--20130712_16:03:23--b3a3eeefbd97dd65aa00a2a2a6ec23ce--
+----audit_log_boundary--20130712_16:03:25--9cc6dfaeaa6b79f57a9836fbf5031c34
+GET /admin/employee_management.php?id=48&dTab=forms&formSelect=1&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:03:25--9cc6dfaeaa6b79f57a9836fbf5031c34--
+----audit_log_boundary--20130712_16:03:26--3fbed6dc63ed6fd675f50351a390c08d
+GET /admin/form_wizard.php?wizardAction=ADD&eid=48&fid=5&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=48&dTab=forms&formSelect=1&ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:03:26--3fbed6dc63ed6fd675f50351a390c08d--
+----audit_log_boundary--20130712_16:03:27--b4edf8ae2cbfbaedcf0678559ab85627
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php?wizardAction=ADD&eid=48&fid=5&ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 95
+
+wizardStep=0&wizardKey=Tu7679Kv2IVvfh4&ERCSESSID=gah58v7n85c3olmn5ea203c305&wizardAction=Finish
+----audit_log_boundary--20130712_16:03:27--b4edf8ae2cbfbaedcf0678559ab85627--
+----audit_log_boundary--20130712_16:03:29--001eb92b70133aa1e56dd56e9e9b9e00
+GET /admin/employee_management.php?id=48&dTab=forms&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:03:29--001eb92b70133aa1e56dd56e9e9b9e00--
+----audit_log_boundary--20130712_16:03:56--cfbd2e1d25d9078728d2d8f52b2860fc
+POST /employee/invitation_login.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/invitation_login.php?KdwgHGSevPUk3FOpg2FmY4M0dpg2MYt3Fc076FaeDzYK3GPpg2GLx3W0pg1WL
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+
+ERCSESSID=m6s8s9u16qavcvq1h76k52j282&lastName=Babble&ssn=123456789&formAction=Login
+----audit_log_boundary--20130712_16:03:56--cfbd2e1d25d9078728d2d8f52b2860fc--
+----audit_log_boundary--20130712_16:03:56--3310eb6dfb2eccc4ec632c849523c0a2
+GET /employee/form_wizard.php?wizardAction=NEW&ERCSESSID=m6s8s9u16qavcvq1h76k52j282 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/invitation_login.php?KdwgHGSevPUk3FOpg2FmY4M0dpg2MYt3Fc076FaeDzYK3GPpg2GLx3W0pg1WL
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:03:56--3310eb6dfb2eccc4ec632c849523c0a2--
+----audit_log_boundary--20130712_16:03:58--0069b7b076a41a20d82074322ac00092
+POST /employee/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php?wizardAction=NEW&ERCSESSID=m6s8s9u16qavcvq1h76k52j282
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 89
+
+wizardStep=0&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282&wizardAction=Next
+----audit_log_boundary--20130712_16:03:58--0069b7b076a41a20d82074322ac00092--
+----audit_log_boundary--20130712_16:04:24--e30dc256f46313f93d0b1c6a391ccf08
+POST /employee/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 382
+
+wizardStep=1&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282&first_name=Nhoj&last_name=Babble&middle_initial=&maiden_name=&address=89+Wilson+St&apt_num=&city=Lake+Tahoe&state=NV&zip_code=12345&birth_date_month=2&birth_date_day=18&birth_date_year=1984&ssn=123456789&email=ercjohnb%2Bnbabble%40gmail.com&telephone_area=&telephone_local1=&telephone_local2=&wizardAction=Next
+----audit_log_boundary--20130712_16:04:24--e30dc256f46313f93d0b1c6a391ccf08--
+----audit_log_boundary--20130712_16:04:27--19ba452213bcab78874f5974c63f696a
+POST /employee/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 343
+
+wizardStep=2&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282&citizen_status=4&alien_id_6=&alien_id_7=&work_auth_date_7a_month=0&work_auth_date_7a_day=0&work_auth_date_7a_year=0&i94_number=&work_auth_date_7b_month=0&work_auth_date_7b_day=0&work_auth_date_7b_year=0&foreign_passport_number=&foreign_passport_country=&wizardAction=Next
+----audit_log_boundary--20130712_16:04:27--19ba452213bcab78874f5974c63f696a--
+----audit_log_boundary--20130712_16:04:27--4803ed7f9c526a6e13c2f8c92ff48843
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1a&entry=1&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:04:27--4803ed7f9c526a6e13c2f8c92ff48843--
+----audit_log_boundary--20130712_16:04:31--6ff4492ae03c4a07e43a908669056172
+POST /employee/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1943
+
+wizardStep=3&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282&employee_signature=105_76_108_75-108_75_114_71-114_71_122_66-122_66_129_61-129_61_137_54-137_54_142_49-142_49_144_43-144_43_145_39-145_39_145_35-145_35_141_32-141_32_134_28-134_28_120_25-120_25_97_24-97_24_69_24-69_24_37_28-37_28_13_33-13_33_28_60-28_60_57_62-57_62_99_62-99_62_132_62-132_62_161_60-161_60_181_60-181_60_196_58-196_58_203_56-203_56_205_56-205_56_202_56-202_56_191_56-191_56_174_54-174_54_148_55-148_55_125_56-125_56_104_61-104_61_91_63-91_63_88_65-88_65_88_66-88_66_91_67-91_67_103_68-103_68_130_67-130_67_165_62-165_62_213_60-213_60_253_57-253_57_282_53-282_53_295_51-295_51_298_50-298_50_291_50-291_50_270_51-270_51_230_54-230_54_191_56-191_56_148_62-148_62_113_67-113_67_92_70-92_70_84_72-84_72_85_73-85_73_100_74-100_74_125_74-125_74_169_66-169_66_220_60-220_60_272_50-272_50_316_40-316_40_354_31-354_31_368_26-368_26_374_24-374_24_373_24-373_24_365_24-365_24_341_28-341_28_311_35-311_35_286_43-286_43_255_51-255_51_236_55-236_55_226_58-226_58_225_59-225_59_225_60-225_60_227_60-227_60_237_60-237_60_252_60-252_60_269_58-269_58_289_53-289_53_303_49-303_49_313_47-313_47_315_46-315_46_313_46-313_46_298_46-298_46_281_46-281_46_255_48-255_48_227_48-227_48_207_49-207_49_196_51-196_51_194_51-194_51_196_52-196_52_209_52-209_52_227_52-227_52_257_47-257_47_279_41-279_41_298_37-298_37_306_35-306_35_307_35-307_35_298_35-298_35_269_38-269_38_201_43-201_43_121_47-121_47_45_53-45_53_12_73-12_73_63_68-63_68_108_63-108_63_155_51-155_51_191_44-191_44_220_39-220_39_231_34-231_34_234_34-234_34_234_33-234_33_228_33-228_33_211_33-211_33_183_33-183_33_152_34-152_34_126_37-126_37_109_41-109_41_102_44-102_44_101_44-101_44_101_45-101_45_107_47-107_47_120_47-120_47_141_47-141_47_169_46-169_46_197_46-197_46_218_44-218_44_239_41-239_41_250_39-250_39_257_39-257_39_262_38-262_38_263_38-263_38_264_38-&employee_signature_date=2013-07-12+16%3A04%3A31&wizardAction=Next
+----audit_log_boundary--20130712_16:04:31--6ff4492ae03c4a07e43a908669056172--
+----audit_log_boundary--20130712_16:04:34--e98a6fb0d3b30de5f261288fc8aaad2e
+POST /employee/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 268
+
+wizardStep=4&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282&preparer_status=0&preparer_first_name=&preparer_last_name=&preparer_street_address=&preparer_city=&preparer_state=&preparer_zip_code=&preparer_signature=&preparer_signature_date=&wizardAction=Next
+----audit_log_boundary--20130712_16:04:34--e98a6fb0d3b30de5f261288fc8aaad2e--
+----audit_log_boundary--20130712_16:04:34--9eb71200ed2c12b8de16a277b209d89b
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:04:34--9eb71200ed2c12b8de16a277b209d89b--
+----audit_log_boundary--20130712_16:04:36--176c4a3a6dd4fc3b72e8523e33f85336
+POST /employee/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 91
+
+wizardStep=5&wizardKey=IH90X8NFaz3&ERCSESSID=m6s8s9u16qavcvq1h76k52j282&wizardAction=Finish
+----audit_log_boundary--20130712_16:04:36--176c4a3a6dd4fc3b72e8523e33f85336--
+----audit_log_boundary--20130712_16:04:39--2e03b12057304bdaa20e62a66ab87f6b
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=48&dTab=forms&ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=gah58v7n85c3olmn5ea203c305&id=48&efid=47&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20130712_16:04:39--2e03b12057304bdaa20e62a66ab87f6b--
+----audit_log_boundary--20130712_16:04:41--4edc3793d53144ba18a998a9ac54666e
+GET /admin/form_wizard.php?efid=47&fsid=2&wizardAction=NEW&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:04:41--4edc3793d53144ba18a998a9ac54666e--
+----audit_log_boundary--20130712_16:04:41--b25c89aa5ed3caff9deb2160835ab2b3
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php?efid=47&fsid=2&wizardAction=NEW&ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:04:41--b25c89aa5ed3caff9deb2160835ab2b3--
+----audit_log_boundary--20130712_16:04:43--1fe1c99dedeb93390cb49fc548e76da2
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php?efid=47&fsid=2&wizardAction=NEW&ERCSESSID=gah58v7n85c3olmn5ea203c305
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 90
+
+wizardStep=0&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&wizardAction=Next
+----audit_log_boundary--20130712_16:04:43--1fe1c99dedeb93390cb49fc548e76da2--
+----audit_log_boundary--20130712_16:04:56--5070cdcbc855d27dae574028ea277415
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 144
+
+wizardStep=1&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&listSelect=B&ListB_Document_ID=7&ListC_Document_ID=19&wizardAction=Next
+----audit_log_boundary--20130712_16:04:56--5070cdcbc855d27dae574028ea277415--
+----audit_log_boundary--20130712_16:05:09--95176bc93394027c7fdce665ca187db2
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 237
+
+wizardStep=2&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&State_Issuing_Authority=ID&Document_Type=1&Document_Number=df&Document_Expiration_month=6&Document_Expiration_day=16&Document_Expiration_year=2029&wizardAction=Next
+----audit_log_boundary--20130712_16:05:09--95176bc93394027c7fdce665ca187db2--
+----audit_log_boundary--20130712_16:05:16--b6ec6bdb406c500ee1651894ef02ce87
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 244
+
+wizardStep=2&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&State_Issuing_Authority=ID&Document_Type=1&Document_Number=123456666&Document_Expiration_month=6&Document_Expiration_day=16&Document_Expiration_year=2029&wizardAction=Next
+----audit_log_boundary--20130712_16:05:16--b6ec6bdb406c500ee1651894ef02ce87--
+----audit_log_boundary--20130712_16:05:17--4b387d407139feac6561bdb2e02b2b9c
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 133
+
+wizardStep=3&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&ListC_Issuing_Authority=&SSN=123456789&wizardAction=Previous
+----audit_log_boundary--20130712_16:05:17--4b387d407139feac6561bdb2e02b2b9c--
+----audit_log_boundary--20130712_16:05:24--e16889cb6151b4b2a6b58bff3c28335c
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 244
+
+wizardStep=2&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&State_Issuing_Authority=ID&Document_Type=1&Document_Number=AA000000W&Document_Expiration_month=6&Document_Expiration_day=16&Document_Expiration_year=2029&wizardAction=Next
+----audit_log_boundary--20130712_16:05:24--e16889cb6151b4b2a6b58bff3c28335c--
+----audit_log_boundary--20130712_16:05:28--8ef605cc267661add8ef9d0dbd000a9a
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 156
+
+wizardStep=3&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&ListC_Issuing_Authority=Idaho+SSN+Council+of+Elders&SSN=123456789&wizardAction=Next
+----audit_log_boundary--20130712_16:05:28--8ef605cc267661add8ef9d0dbd000a9a--
+----audit_log_boundary--20130712_16:05:34--bf9535bf37e1a95e16b01ee19eb9d275
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1912
+
+wizardStep=4&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&hire_date_month=7&hire_date_day=31&hire_date_year=2013&hiring_manager_first_name=John&hiring_manager_last_name=Barrieros&hiring_manager_title=Manager&company_name=Hersha+Test+Hotel&location_street_address=934+Main+St.&location_city=Albany&location_state=NY&location_zip_code=06854&hiring_manager_signature=92_85_82_79-82_79_75_77-75_77_68_75-68_75_64_75-64_75_58_75-58_75_55_75-55_75_53_75-53_75_52_75-52_75_52_77-52_77_52_78-52_78_54_80-54_80_58_81-58_81_65_83-65_83_79_84-79_84_95_84-95_84_118_84-118_84_137_81-137_81_161_77-161_77_183_72-183_72_203_65-203_65_218_59-218_59_227_53-227_53_232_49-232_49_232_46-232_46_232_43-232_43_230_41-230_41_223_38-223_38_213_35-213_35_196_34-196_34_176_33-176_33_155_30-155_30_127_30-127_30_110_30-110_30_98_30-98_30_90_34-90_34_88_38-88_38_88_42-88_42_89_44-89_44_92_48-92_48_102_53-102_53_132_59-132_59_166_59-166_59_211_58-211_58_259_53-259_53_305_47-305_47_348_41-348_41_375_37-375_37_393_34-393_34_400_31-400_31_402_29-402_29_401_28-401_28_395_27-395_27_384_27-384_27_364_27-364_27_343_28-343_28_319_32-319_32_291_39-291_39_272_44-272_44_261_49-261_49_254_53-254_53_254_55-254_55_255_57-255_57_265_58-265_58_278_58-278_58_305_58-305_58_339_56-339_56_366_52-366_52_395_48-395_48_381_28-381_28_328_28-328_28_267_28-267_28_213_35-213_35_164_41-164_41_127_46-127_46_105_51-105_51_93_52-93_52_91_54-91_54_93_57-93_57_105_61-105_61_130_62-130_62_169_62-169_62_218_57-218_57_269_51-269_51_318_44-318_44_356_36-356_36_391_31-391_31_399_23-399_23_359_24-359_24_295_23-295_23_234_26-234_26_167_31-167_31_105_33-105_33_60_36-60_36_31_41-31_41_21_46-21_46_19_52-19_52_19_54-19_54_29_58-29_58_49_63-49_63_76_70-76_70_106_75-106_75_134_75-134_75_167_75-167_75_193_74-193_74_213_73-213_73_228_73-228_73_240_73-240_73_245_73-245_73_246_73-&hiring_manager_signature_date=2013-07-12+16%3A05%3A33&wizardAction=Next
+----audit_log_boundary--20130712_16:05:34--bf9535bf37e1a95e16b01ee19eb9d275--
+----audit_log_boundary--20130712_16:05:34--e0e82cbd58b98607e6f04c6d6f79c19d
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=2&entry=1&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:05:34--e0e82cbd58b98607e6f04c6d6f79c19d--
+----audit_log_boundary--20130712_16:05:38--69f5abd5064659cc13d58f3dbcf9fafa
+POST /admin/form_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 92
+
+wizardStep=5&wizardKey=y5fF8398dW2s&ERCSESSID=gah58v7n85c3olmn5ea203c305&wizardAction=Finish
+----audit_log_boundary--20130712_16:05:38--69f5abd5064659cc13d58f3dbcf9fafa--
+----audit_log_boundary--20130712_16:05:40--a14720739959b60128d0832f0acd8543
+GET /admin/employee_management.php?id=48&dTab=forms&ERCSESSID=gah58v7n85c3olmn5ea203c305 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20130712_16:05:40--a14720739959b60128d0832f0acd8543--
+----audit_log_boundary--20130715_23:04:27--d253aa88ca5cbf4d598e24ea4d68b21f
+GET /admin/dashboard.php?ERCSESSID=uqnrr75f8457icsi6osc2pknm4 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=uqnrr75f8457icsi6osc2pknm4
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130715_23:04:27--d253aa88ca5cbf4d598e24ea4d68b21f--
+----audit_log_boundary--20130715_23:04:35--8f5b1332c2f5de8739e1efc8de5e20bd
+GET /admin/employee_list.php?&ERCSESSID=uqnrr75f8457icsi6osc2pknm4 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=uqnrr75f8457icsi6osc2pknm4
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130715_23:04:35--8f5b1332c2f5de8739e1efc8de5e20bd--
+----audit_log_boundary--20130715_23:04:38--9c6abb8736cf0c55b9a72ed0b2762d08
+GET /admin/dashboard.php?ERCSESSID=uqnrr75f8457icsi6osc2pknm4 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=uqnrr75f8457icsi6osc2pknm4
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130715_23:04:38--9c6abb8736cf0c55b9a72ed0b2762d08--
+----audit_log_boundary--20130716_10:45:41--0add603b8541bbb5e51ea9c6a1c15a52
+GET /admin/dashboard.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:45:41--0add603b8541bbb5e51ea9c6a1c15a52--
+----audit_log_boundary--20130716_10:46:22--14f3001afd5c40e3384b7a6af88526df
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:46:22--14f3001afd5c40e3384b7a6af88526df--
+----audit_log_boundary--20130716_10:47:19--798f8051e87ac58c4b8cccd6f5e0b62d
+POST /admin/new_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------230562419119966
+Content-Length: 1745
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------230562419119966
+Content-Disposition: form-data; name="wizardKey"
+
+M4QdAA3597TL
+-----------------------------230562419119966
+Content-Disposition: form-data; name="ERCSESSID"
+
+n3ahv8tqmgl1mqnaj7mga0p0o2
+-----------------------------230562419119966
+Content-Disposition: form-data; name="firstName"
+
+Doris
+-----------------------------230562419119966
+Content-Disposition: form-data; name="lastName"
+
+Shoop
+-----------------------------230562419119966
+Content-Disposition: form-data; name="hireDate_month"
+
+0
+-----------------------------230562419119966
+Content-Disposition: form-data; name="hireDate_day"
+
+0
+-----------------------------230562419119966
+Content-Disposition: form-data; name="hireDate_year"
+
+0
+-----------------------------230562419119966
+Content-Disposition: form-data; name="ssn"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="locationId"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="positionId"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="phoneNumber_area"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="phoneNumber_local1"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="phoneNumber_local2"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="emailAddress"
+
+
+-----------------------------230562419119966
+Content-Disposition: form-data; name="wizardAction"
+
+Cancel
+-----------------------------230562419119966--
+----audit_log_boundary--20130716_10:47:19--798f8051e87ac58c4b8cccd6f5e0b62d--
+----audit_log_boundary--20130716_10:47:19--42975d594f4a58916a293144c6244a1a
+GET /admin/employee_list.php?qrt=NEW&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:47:19--42975d594f4a58916a293144c6244a1a--
+----audit_log_boundary--20130716_10:47:22--a32e83143557691bda45e90f62e502ea
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?qrt=NEW&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:47:22--a32e83143557691bda45e90f62e502ea--
+----audit_log_boundary--20130716_10:47:33--783777cbe387c6dc0bab0691d7f00526
+POST /admin/new_wizard.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------126221470029844
+Content-Length: 1760
+
+-----------------------------126221470029844
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------126221470029844
+Content-Disposition: form-data; name="wizardKey"
+
+XZFnRPt0aUTgY
+-----------------------------126221470029844
+Content-Disposition: form-data; name="ERCSESSID"
+
+n3ahv8tqmgl1mqnaj7mga0p0o2
+-----------------------------126221470029844
+Content-Disposition: form-data; name="firstName"
+
+Doris
+-----------------------------126221470029844
+Content-Disposition: form-data; name="lastName"
+
+Shoop
+-----------------------------126221470029844
+Content-Disposition: form-data; name="hireDate_month"
+
+7
+-----------------------------126221470029844
+Content-Disposition: form-data; name="hireDate_day"
+
+16
+-----------------------------126221470029844
+Content-Disposition: form-data; name="hireDate_year"
+
+2013
+-----------------------------126221470029844
+Content-Disposition: form-data; name="ssn"
+
+123456789
+-----------------------------126221470029844
+Content-Disposition: form-data; name="locationId"
+
+4
+-----------------------------126221470029844
+Content-Disposition: form-data; name="positionId"
+
+
+-----------------------------126221470029844
+Content-Disposition: form-data; name="phoneNumber_area"
+
+
+-----------------------------126221470029844
+Content-Disposition: form-data; name="phoneNumber_local1"
+
+
+-----------------------------126221470029844
+Content-Disposition: form-data; name="phoneNumber_local2"
+
+
+-----------------------------126221470029844
+Content-Disposition: form-data; name="emailAddress"
+
+
+-----------------------------126221470029844
+Content-Disposition: form-data; name="wizardAction"
+
+Cancel
+-----------------------------126221470029844--
+----audit_log_boundary--20130716_10:47:33--783777cbe387c6dc0bab0691d7f00526--
+----audit_log_boundary--20130716_10:47:34--3abc57a04ec9f38851262c7883da190f
+GET /admin/employee_list.php?qrt=NEW&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:47:34--3abc57a04ec9f38851262c7883da190f--
+----audit_log_boundary--20130716_10:47:57--4bf9444b6a45bd7cfc2c67f5b4c815ad
+GET /admin/dashboard.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:47:57--4bf9444b6a45bd7cfc2c67f5b4c815ad--
+----audit_log_boundary--20130716_10:47:58--8ee88e6d96b539236072b88ecf131c64
+GET /admin/get_navigation_tree.php?id=navLocId_Nav&tc=location&it=select&ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=n3ahv8tqmgl1mqnaj7mga0p0o2
+Connection: keep-alive
+
+----audit_log_boundary--20130716_10:47:58--8ee88e6d96b539236072b88ecf131c64--
+----audit_log_boundary--20130721_17:37:11--6053d0201c8790bec2c817a9396d4474
+GET /admin/dashboard.php?ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:11--6053d0201c8790bec2c817a9396d4474--
+----audit_log_boundary--20130721_17:37:14--97e854c69de380c2c98ba21e804f8803
+GET /admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:14--97e854c69de380c2c98ba21e804f8803--
+----audit_log_boundary--20130721_17:37:19--c69dd54d067f58e48b902ec2d12ca347
+GET /admin/employee_management.php?id=43&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:19--c69dd54d067f58e48b902ec2d12ca347--
+----audit_log_boundary--20130721_17:37:21--eff01bab530af257e624d30f9ce504da
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=43&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=43&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20130721_17:37:21--eff01bab530af257e624d30f9ce504da--
+----audit_log_boundary--20130721_17:37:25--6f7115b0cb571ae2f25eb4b23f970ffd
+GET /admin/employee_management.php?id=43&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:25--6f7115b0cb571ae2f25eb4b23f970ffd--
+----audit_log_boundary--20130721_17:37:25--fddbed8bebd51088865ab23c406b70ab
+GET /admin/employee_management.php?id=43&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:25--fddbed8bebd51088865ab23c406b70ab--
+----audit_log_boundary--20130721_17:37:26--a045df0f10d70fc5a818ad6c7a954a56
+GET /admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:26--a045df0f10d70fc5a818ad6c7a954a56--
+----audit_log_boundary--20130721_17:37:31--8f1a5141e0e4edcfcb9370f29f43f555
+GET /admin/employee_management.php?id=24&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:31--8f1a5141e0e4edcfcb9370f29f43f555--
+----audit_log_boundary--20130721_17:37:34--ca062292f4f2e57fd7b0653055a9bdc7
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=24&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=24&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20130721_17:37:34--ca062292f4f2e57fd7b0653055a9bdc7--
+----audit_log_boundary--20130721_17:37:40--7d8020d73313ede5a6a3c492952e6745
+GET /admin/employee_management.php?id=24&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:40--7d8020d73313ede5a6a3c492952e6745--
+----audit_log_boundary--20130721_17:37:41--bf07b567519d9e40e016818ad29fb5fd
+GET /admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:41--bf07b567519d9e40e016818ad29fb5fd--
+----audit_log_boundary--20130721_17:37:44--83816140ee67d19fa1a3e8b418cb6c2e
+GET /admin/employee_management.php?id=35&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:44--83816140ee67d19fa1a3e8b418cb6c2e--
+----audit_log_boundary--20130721_17:37:47--8c76143792d06107386a712126bc0f94
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=35&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=35&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20130721_17:37:47--8c76143792d06107386a712126bc0f94--
+----audit_log_boundary--20130721_17:37:51--58e0b920494beb64ce053ccba5e32ab0
+GET /admin/employee_management.php?id=35&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:51--58e0b920494beb64ce053ccba5e32ab0--
+----audit_log_boundary--20130721_17:37:52--235086709b3279d3b12b6b2d4e4d297c
+GET /admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:37:52--235086709b3279d3b12b6b2d4e4d297c--
+----audit_log_boundary--20130721_17:37:54--8050ad953f110c7d48d028f1d48bd55c
+POST /admin/update_query_results.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Content-Length: 143
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&filter=stored&interfaceId=employee_list-Employee&resultsPerPage=25&sortCol=2&sortOrder=DESC&startRecord=25
+----audit_log_boundary--20130721_17:37:54--8050ad953f110c7d48d028f1d48bd55c--
+----audit_log_boundary--20130721_17:39:00--9dcdb87fc3d18a58b0d041d74ad709ac
+GET /admin/employee_management.php?id=8&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+
+----audit_log_boundary--20130721_17:39:00--9dcdb87fc3d18a58b0d041d74ad709ac--
+----audit_log_boundary--20130721_17:39:03--910ebe729609463e4e6c0ebf65f5074f
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=8&ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 72
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=8&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20130721_17:39:03--910ebe729609463e4e6c0ebf65f5074f--
+----audit_log_boundary--20130721_17:39:08--14fc7faef2daba794fbc337513fe314e
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=8&efid=8&dTab=forms&action=evaluate&startEVerify=YES&over_due_reason=&over_due_reason_other=
+----audit_log_boundary--20130721_17:39:08--14fc7faef2daba794fbc337513fe314e--
+----audit_log_boundary--20130721_17:39:09--0ed8af3504f5e9a938bde43bfd5b2cc2
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=8&efid=8&dTab=forms&action=evaluate&startEVerify=YES&over_due_reason=&over_due_reason_other=
+----audit_log_boundary--20130721_17:39:09--0ed8af3504f5e9a938bde43bfd5b2cc2--
+----audit_log_boundary--20130721_17:39:15--b3f74a137b6ca752aff8b2942cbbc113
+POST /admin/employee_management.php HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php
+Cookie: __utma=99073226.1048437215.1344608930.1364093384.1364223386.21; __utmz=99073226.1345149500.4.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+Connection: keep-alive
+Cache-Control: max-age=0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 132
+
+ERCSESSID=9keai7j0nu3n7qmgfjr8ieclr3&id=8&efid=8&dTab=forms&action=evaluate&startEVerify=YES&over_due_reason=&over_due_reason_other=
+----audit_log_boundary--20130721_17:39:15--b3f74a137b6ca752aff8b2942cbbc113--
+----audit_log_boundary--20130722_10:38:02--eac5e0610f16698484bca51af24c16b1
+GET /admin/dashboard.php?ERCSESSID=gus3c1k5pacjj2prc9j8qse5p0 HTTP/1.1
+Host: svs-qa.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=gus3c1k5pacjj2prc9j8qse5p0
+Connection: keep-alive
+
+----audit_log_boundary--20130722_10:38:02--eac5e0610f16698484bca51af24c16b1--

@@ -1,0 +1,44 @@
+2012-06-27 10:25:25: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-06-27 10:25:25:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-06-27 10:25:26: Beginning export group associated with process step 193
+2012-06-27 10:25:26: Applications to be processed: 432
+2012-06-27 10:25:26: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-06-27 10:25:26: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-06-27 10:25:26: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-06-27 10:25:26:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 432 has been successfully emailed to debbie.flynn@ercdataplus.com
+2012-06-27 10:25:26: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed
+2012-06-27 12:15:00: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-06-27 12:15:00:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-06-27 12:15:00: Beginning export group associated with process step 193
+2012-06-27 12:15:00: Applications to be processed: 433
+2012-06-27 12:15:00: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-06-27 12:15:00: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-06-27 12:15:00: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-06-27 12:15:00:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 433 has been successfully emailed to debbie.flynn@ercdataplus.com, ehanington@ercdataplus.com
+2012-06-27 12:15:00: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed
+2012-06-27 12:22:49: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-06-27 12:22:49:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-06-27 12:22:49: Beginning export group associated with process step 193
+2012-06-27 12:22:49: Applications to be processed: 434
+2012-06-27 12:22:49: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-06-27 12:22:49: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-06-27 12:22:49: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-06-27 12:22:49:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 434 has been successfully emailed to debbie.flynn@ercdataplus.com, ehanington@ercdataplus.com
+2012-06-27 12:22:49: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed
+2012-06-27 13:35:32: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-06-27 13:35:32:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-06-27 13:35:32: Beginning export group associated with process step 193
+2012-06-27 13:35:32: Applications to be processed: 435
+2012-06-27 13:35:32: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-06-27 13:35:32: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-06-27 13:35:32: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-06-27 13:35:32:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 435 has been successfully emailed to debbie.flynn@ercdataplus.com, ehanington@ercdataplus.com
+2012-06-27 13:35:32: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed

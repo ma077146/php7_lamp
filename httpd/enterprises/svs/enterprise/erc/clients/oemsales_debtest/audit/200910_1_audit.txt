@@ -1,0 +1,1506 @@
+----audit_log_boundary--20091012_11:22:40--d77374ad82c2c57117c9f0d2849223ab
+GET /admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/select_client_db.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:22:40--d77374ad82c2c57117c9f0d2849223ab--
+----audit_log_boundary--20091012_11:22:40--5f4b2dafb09edf4f2a332c166560a444
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:22:40--5f4b2dafb09edf4f2a332c166560a444--
+----audit_log_boundary--20091012_11:22:40--d3e1c76ad277717eaab5d950cf31099a
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:22:40--d3e1c76ad277717eaab5d950cf31099a--
+----audit_log_boundary--20091012_11:22:42--6010e580fdba030c5ecea9037a50c8f4
+GET /admin/wizard.php?wizID=add_employee&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:22:42--6010e580fdba030c5ecea9037a50c8f4--
+----audit_log_boundary--20091012_11:23:46--c1559ff59eee11cebcbb7736043876bb
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php?wizID=add_employee&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+Content-Type: multipart/form-data; boundary=---------------------------255472764432662
+Content-Length: 1572
+
+-----------------------------255472764432662
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------255472764432662
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------255472764432662
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------255472764432662
+Content-Disposition: form-data; name="first_name"
+
+Hin
+-----------------------------255472764432662
+Content-Disposition: form-data; name="last_name"
+
+Hao
+-----------------------------255472764432662
+Content-Disposition: form-data; name="hire_date_month"
+
+1
+-----------------------------255472764432662
+Content-Disposition: form-data; name="hire_date_day"
+
+1
+-----------------------------255472764432662
+Content-Disposition: form-data; name="hire_date_year"
+
+2009
+-----------------------------255472764432662
+Content-Disposition: form-data; name="ssn"
+
+121111111
+-----------------------------255472764432662
+Content-Disposition: form-data; name="location_id"
+
+1
+-----------------------------255472764432662
+Content-Disposition: form-data; name="position_id"
+
+1
+-----------------------------255472764432662
+Content-Disposition: form-data; name="phone_number"
+
+212-555-5555
+-----------------------------255472764432662
+Content-Disposition: form-data; name="email_address"
+
+tim.reynolds@ercdataplus.com
+-----------------------------255472764432662
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------255472764432662--
+----audit_log_boundary--20091012_11:23:46--c1559ff59eee11cebcbb7736043876bb--
+----audit_log_boundary--20091012_11:23:48--9c5e71d5f249724054c6df3327cc6de7
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------327572003712859
+Content-Length: 490
+
+-----------------------------327572003712859
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------327572003712859
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------327572003712859
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------327572003712859
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------327572003712859--
+----audit_log_boundary--20091012_11:23:48--9c5e71d5f249724054c6df3327cc6de7--
+----audit_log_boundary--20091012_11:23:50--7435ba8a656ad77b03db3cd34933f455
+GET /admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+
+----audit_log_boundary--20091012_11:23:50--7435ba8a656ad77b03db3cd34933f455--
+----audit_log_boundary--20091012_11:23:50--35d6e62342a5f91d71558f0e8e64a86e
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue
+
+----audit_log_boundary--20091012_11:23:50--35d6e62342a5f91d71558f0e8e64a86e--
+----audit_log_boundary--20091012_11:23:50--ebc61904f46fa27dafbd6498fe764349
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:23:50--ebc61904f46fa27dafbd6498fe764349--
+----audit_log_boundary--20091012_11:29:22--f57b43cbfbea0c8a21c8e835e10e3f1f
+GET /admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue
+
+----audit_log_boundary--20091012_11:29:22--f57b43cbfbea0c8a21c8e835e10e3f1f--
+----audit_log_boundary--20091012_11:29:22--ab7b9ddf41d582b41587404a42940360
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:22--ab7b9ddf41d582b41587404a42940360--
+----audit_log_boundary--20091012_11:29:22--656f3683f562e3f073fbddce8e96396d
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:22--656f3683f562e3f073fbddce8e96396d--
+----audit_log_boundary--20091012_11:29:22--431c50d49eb62edabe182c76beb07995
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:22--431c50d49eb62edabe182c76beb07995--
+----audit_log_boundary--20091012_11:29:22--05ace4069343d6f85f595f3aca6034c0
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:22--05ace4069343d6f85f595f3aca6034c0--
+----audit_log_boundary--20091012_11:29:23--dae75f690cda8f2ba8506fe8ff778056
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0&soc=2&sod=0 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:23--dae75f690cda8f2ba8506fe8ff778056--
+----audit_log_boundary--20091012_11:29:23--ff6f0fed07b95f929af6801538cec5ca
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:23--ff6f0fed07b95f929af6801538cec5ca--
+----audit_log_boundary--20091012_11:29:24--5ab6412179766e77d8a2e3823296f762
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0&soc=2&sod=1 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:24--5ab6412179766e77d8a2e3823296f762--
+----audit_log_boundary--20091012_11:29:24--81325123f1d783264e562f4c5d18c0f4
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:24--81325123f1d783264e562f4c5d18c0f4--
+----audit_log_boundary--20091012_11:29:27--bef8ec414ef8020403672b6880722504
+GET /admin/employee_management.php?func=load&id=18&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:27--bef8ec414ef8020403672b6880722504--
+----audit_log_boundary--20091012_11:29:27--d22628a7354c72cb39e0d59679c09a6f
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=18&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:27--d22628a7354c72cb39e0d59679c09a6f--
+----audit_log_boundary--20091012_11:29:27--a4090f5f52842ce78a8d4b3deed42ca1
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:27--a4090f5f52842ce78a8d4b3deed42ca1--
+----audit_log_boundary--20091012_11:29:57--0a500cbea5838c0ae7285d3d58a47acc
+GET /admin/wizard.php?eid=18&form_section_id=3&employee_form_id=12&wizID=svs_employee_form_section_2&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=18&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:29:57--0a500cbea5838c0ae7285d3d58a47acc--
+----audit_log_boundary--20091012_11:30:20--faa327916eb390dd65aa5b7eb15a09b9
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php?eid=18&form_section_id=3&employee_form_id=12&wizID=svs_employee_form_section_2&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+Content-Type: multipart/form-data; boundary=---------------------------31115463929658
+Content-Length: 584
+
+-----------------------------31115463929658
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------31115463929658
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------31115463929658
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------31115463929658
+Content-Disposition: form-data; name="listSelect"
+
+0
+-----------------------------31115463929658
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------31115463929658--
+----audit_log_boundary--20091012_11:30:20--faa327916eb390dd65aa5b7eb15a09b9--
+----audit_log_boundary--20091012_11:30:57--6ba47adb8d0104b8e4c38e52aaff8307
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------22704993013977
+Content-Length: 1188
+
+-----------------------------22704993013977
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------22704993013977
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ListA_Document_ID"
+
+1
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ListA_Issuing_Authority"
+
+Passport
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ListA_Document_Number"
+
+23432432432
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ListA_Expiration_Date_month"
+
+2
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ListA_Expiration_Date_day"
+
+7
+-----------------------------22704993013977
+Content-Disposition: form-data; name="ListA_Expiration_Date_year"
+
+2031
+-----------------------------22704993013977
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------22704993013977--
+----audit_log_boundary--20091012_11:30:57--6ba47adb8d0104b8e4c38e52aaff8307--
+----audit_log_boundary--20091012_11:32:07--46b00b1043c38676a604b2f47f2bca87
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------23063167322386
+Content-Length: 4395
+
+-----------------------------23063167322386
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------23063167322386
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------23063167322386
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hire_date_month"
+
+2
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hire_date_day"
+
+3
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hire_date_year"
+
+2009
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hiring_manager_name"
+
+Hank Tianoa
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hiring_manager_title"
+
+Manager
+-----------------------------23063167322386
+Content-Disposition: form-data; name="company_name"
+
+Widgets
+-----------------------------23063167322386
+Content-Disposition: form-data; name="location_street_address"
+
+Avenue A
+-----------------------------23063167322386
+Content-Disposition: form-data; name="location_city"
+
+Bing
+-----------------------------23063167322386
+Content-Disposition: form-data; name="location_state"
+
+AK
+-----------------------------23063167322386
+Content-Disposition: form-data; name="location_zip_code"
+
+234334
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hiring_manager_signature_date"
+
+2009-10-12 11:30:20
+-----------------------------23063167322386
+Content-Disposition: form-data; name="hiring_manager_signature"
+
+113.95_87.05_112.9_87.05-112.9_87.05_115_87.05-115_87.05_124.7_84.9-124.7_84.9_143_82.75-143_82.75_162.3_74.15-162.3_74.15_180.6_60.2-180.6_60.2_196.7_48.35-196.7_48.35_208.55_38.7-208.55_38.7_212.85_34.4-212.85_34.4_213.9_33.3-213.9_33.3_211.8_33.3-211.8_33.3_209.6_37.6-209.6_37.6_204.25_46.2-204.25_46.2_198.9_53.7-198.9_53.7_197.8_58-197.8_58_197.8_60.2-197.8_60.2_198.9_63.4-198.9_63.4_206.4_64.5-206.4_64.5_218.2_64.5-218.2_64.5_233.3_64.5-233.3_64.5_244_61.25-244_61.25_255.85_56.95-255.85_56.95_260.15_51.6-260.15_51.6_262.3_50.5-262.3_50.5_263.4_49.4-263.4_49.4_263.4_48.35-263.4_48.35_262.3_48.35-262.3_48.35_260.15_48.35-260.15_48.35_258_48.35-258_48.35_250.5_49.4-250.5_49.4_239.7_53.7-239.7_53.7_220.4_61.25-220.4_61.25_197.8_67.7-197.8_67.7_166.6_82.75-166.6_82.75_150.5_90.3-150.5_90.3_141.9_96.7-141.9_96.7_141.9_101-141.9_101_152.65_108.55-152.65_108.55_392.4_107.5-392.4_107.5_402.05_99.95-402.05_99.95_403.1_97.8-403.1_97.8_398.8_96.7-398.8_96.7_385.9_95.65-385.9_95.65_368.7_95.65-368.7_95.65_342.9_99.95-342.9_99.95_310.7_106.4-310.7_106.4_255.85_101-255.85_101_276.3_84.9-276.3_84.9_289.2_72-289.2_72_295.6_56.95-295.6_56.95_296.7_43-296.7_43_290.25_27.9-290.25_27.9_281.65_16.1-281.65_16.1_151.6_11.8-151.6_11.8_109.65_31.15-109.65_31.15_76.3_52.65-76.3_52.65_46.2_76.3-46.2_76.3_32.25_98.9-32.25_98.9_253.7_103.2-253.7_103.2_251.55_90.3-251.55_90.3_239.7_80.6-239.7_80.6_215_67.7-215_67.7_170.9_51.6-170.9_51.6_106.4_40.8-106.4_40.8_44.1_38.7-44.1_38.7_55.9_73.1-55.9_73.1_123.6_83.8-123.6_83.8_177.4_93.5-177.4_93.5_221.45_95.65-221.45_95.65_251.55_93.5-251.55_93.5_261.2_90.3-261.2_90.3_261.2_89.2-261.2_89.2_253.7_88.1-253.7_88.1_236.5_88.1-236.5_88.1_203.2_91.35-203.2_91.35_163.4_97.8-163.4_97.8_136.5_109.6-136.5_109.6_253.7_107.5-253.7_107.5_307.45_79.5-307.45_79.5_360.1_54.8-360.1_54.8_389.15_35.45-389.15_35.45_398.8_29-398.8_29_398.8_27.9-398.8_27.9_395.6_27.9-395.6_27.9_385.9_33.3-385.9_33.3_370.9_41.9-370.9_41.9_362.3_49.4-362.3_49.4_361.2_50.5-361.2_50.5_364.4_50.5-364.4_50.5_378.4_47.3-378.4_47.3_401_38.7-401_38.7_409.6_29-409.6_29_399.9_32.2-399.9_32.2_381.6_45.1-381.6_45.1_368.7_53.7-368.7_53.7_363.35_58-363.35_58_364.4_58-364.4_58_374.1_53.7-374.1_53.7_385.9_45.1-385.9_45.1_390.2_37.6-390.2_37.6_390.2_30.1-390.2_30.1_387_26.85-387_26.85_380.55_25.8-380.55_25.8_375.2_25.8-375.2_25.8_367.65_29-367.65_29_358_34.4-358_34.4_351.5_46.2-351.5_46.2_346.15_55.9-346.15_55.9_346.15_64.5-346.15_64.5_348.3_74.15-348.3_74.15_354.75_82.75-354.75_82.75_368.7_93.5-368.7_93.5_381.6_102.1-381.6_102.1_398.8_107.5-
+-----------------------------23063167322386
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------23063167322386--
+----audit_log_boundary--20091012_11:32:07--46b00b1043c38676a604b2f47f2bca87--
+----audit_log_boundary--20091012_11:32:10--db15ebd2a608d404a0e5bb8a352cb4af
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------50212874526924
+Content-Length: 485
+
+-----------------------------50212874526924
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------50212874526924
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------50212874526924
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------50212874526924
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------50212874526924--
+----audit_log_boundary--20091012_11:32:10--db15ebd2a608d404a0e5bb8a352cb4af--
+----audit_log_boundary--20091012_11:32:12--e32f5bc805fea4f23e2765f72232ba97
+GET /admin/employee_management.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+
+----audit_log_boundary--20091012_11:32:12--e32f5bc805fea4f23e2765f72232ba97--
+----audit_log_boundary--20091012_11:32:12--e14bc7909803c24502122cf4aff42f80
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue
+
+----audit_log_boundary--20091012_11:32:12--e14bc7909803c24502122cf4aff42f80--
+----audit_log_boundary--20091012_11:32:12--b984a695bd2ff482e080ce2aea3bcfb5
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:32:12--b984a695bd2ff482e080ce2aea3bcfb5--
+----audit_log_boundary--20091012_11:33:08--a59fe1a2837dc609536620f769fc1017
+GET /admin/employee_management.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Cache-Control: max-age=0
+
+----audit_log_boundary--20091012_11:33:08--a59fe1a2837dc609536620f769fc1017--
+----audit_log_boundary--20091012_11:33:08--6a02e9cf2909bda02ec8e84d76631cc7
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue
+
+----audit_log_boundary--20091012_11:33:08--6a02e9cf2909bda02ec8e84d76631cc7--
+----audit_log_boundary--20091012_11:33:08--c5096f32055b9b7929de2af4f473b717
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:33:08--c5096f32055b9b7929de2af4f473b717--
+----audit_log_boundary--20091012_11:33:11--29e480ba85df7b33d2f3183cb0e72a2e
+GET /admin/wizard.php?wizID=add_employee&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2&submit=Continue
+
+----audit_log_boundary--20091012_11:33:11--29e480ba85df7b33d2f3183cb0e72a2e--
+----audit_log_boundary--20091012_11:33:39--eda633c367edb6bc85b9b9e6579fbabb
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php?wizID=add_employee&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+Content-Type: multipart/form-data; boundary=---------------------------1907262705829
+Content-Length: 1531
+
+-----------------------------1907262705829
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------1907262705829
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------1907262705829
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------1907262705829
+Content-Disposition: form-data; name="first_name"
+
+Yao
+-----------------------------1907262705829
+Content-Disposition: form-data; name="last_name"
+
+Ming
+-----------------------------1907262705829
+Content-Disposition: form-data; name="hire_date_month"
+
+1
+-----------------------------1907262705829
+Content-Disposition: form-data; name="hire_date_day"
+
+1
+-----------------------------1907262705829
+Content-Disposition: form-data; name="hire_date_year"
+
+2009
+-----------------------------1907262705829
+Content-Disposition: form-data; name="ssn"
+
+121111111
+-----------------------------1907262705829
+Content-Disposition: form-data; name="location_id"
+
+1
+-----------------------------1907262705829
+Content-Disposition: form-data; name="position_id"
+
+1
+-----------------------------1907262705829
+Content-Disposition: form-data; name="phone_number"
+
+
+-----------------------------1907262705829
+Content-Disposition: form-data; name="email_address"
+
+tim.reynolds@ercdataplus.com
+-----------------------------1907262705829
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------1907262705829--
+----audit_log_boundary--20091012_11:33:39--eda633c367edb6bc85b9b9e6579fbabb--
+----audit_log_boundary--20091012_11:33:40--554db3109dc962d08a1f9418f1234a89
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------26777155735097
+Content-Length: 485
+
+-----------------------------26777155735097
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------26777155735097
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------26777155735097
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------26777155735097
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------26777155735097--
+----audit_log_boundary--20091012_11:33:40--554db3109dc962d08a1f9418f1234a89--
+----audit_log_boundary--20091012_11:33:41--ed7d06caa4f4e036d139e1307841c4d7
+GET /admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+
+----audit_log_boundary--20091012_11:33:41--ed7d06caa4f4e036d139e1307841c4d7--
+----audit_log_boundary--20091012_11:33:41--b6cbb81dc3776dfc642e3fb113f345f2
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:33:41--b6cbb81dc3776dfc642e3fb113f345f2--
+----audit_log_boundary--20091012_11:33:41--b149f1b52c519d4c4ee7c158aae36f9e
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:33:41--b149f1b52c519d4c4ee7c158aae36f9e--
+----audit_log_boundary--20091012_11:34:39--b55ada3fef57a3588f526d6e647e1b7e
+GET /admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/dashboard.php?ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:39--b55ada3fef57a3588f526d6e647e1b7e--
+----audit_log_boundary--20091012_11:34:39--413e6fc790b7958fc6c3d53b1d77a668
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:39--413e6fc790b7958fc6c3d53b1d77a668--
+----audit_log_boundary--20091012_11:34:39--65dc9a48c5dc7fa89187376bbd401c4d
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:39--65dc9a48c5dc7fa89187376bbd401c4d--
+----audit_log_boundary--20091012_11:34:39--19b3f8c5112219f0329044d49ebbb9ae
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:39--19b3f8c5112219f0329044d49ebbb9ae--
+----audit_log_boundary--20091012_11:34:40--dfc1b4f0610f866b3823dba9fb0c2ab4
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:40--dfc1b4f0610f866b3823dba9fb0c2ab4--
+----audit_log_boundary--20091012_11:34:41--01adf3170029e643c24ec29c54c0b02c
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0&soc=2&sod=0 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:41--01adf3170029e643c24ec29c54c0b02c--
+----audit_log_boundary--20091012_11:34:41--60f8d2d3da4bd5e668325d2d6292c716
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:41--60f8d2d3da4bd5e668325d2d6292c716--
+----audit_log_boundary--20091012_11:34:42--067e8e191398b7acd137474d3f7f7c8e
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0&soc=2&sod=1 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:42--067e8e191398b7acd137474d3f7f7c8e--
+----audit_log_boundary--20091012_11:34:42--23a9a80b5cdcb34be0bf4c79935b4f9b
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:42--23a9a80b5cdcb34be0bf4c79935b4f9b--
+----audit_log_boundary--20091012_11:34:42--44485588803801b28f91fa2891350891
+GET /admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:42--44485588803801b28f91fa2891350891--
+----audit_log_boundary--20091012_11:34:43--5b6c949d1b0a71dcb5a313e6133d1167
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:43--5b6c949d1b0a71dcb5a313e6133d1167--
+----audit_log_boundary--20091012_11:34:43--c9bb00aa41923cc3b0b113f4889f4c7d
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:43--c9bb00aa41923cc3b0b113f4889f4c7d--
+----audit_log_boundary--20091012_11:34:44--983bc78709839f495556b748c75d7b73
+GET /admin/wizard.php?eid=19&form_section_id=3&employee_form_id=13&wizID=svs_employee_form_section_2&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:34:44--983bc78709839f495556b748c75d7b73--
+----audit_log_boundary--20091012_11:34:46--f47499368596f8fa740d7eaa098480d7
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php?eid=19&form_section_id=3&employee_form_id=13&wizID=svs_employee_form_section_2&wizStat=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+Content-Type: multipart/form-data; boundary=---------------------------32209975824221
+Content-Length: 584
+
+-----------------------------32209975824221
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------32209975824221
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------32209975824221
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------32209975824221
+Content-Disposition: form-data; name="listSelect"
+
+0
+-----------------------------32209975824221
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------32209975824221--
+----audit_log_boundary--20091012_11:34:46--f47499368596f8fa740d7eaa098480d7--
+----audit_log_boundary--20091012_11:34:55--707d6d4ab616e69b2477dc88e4e84387
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------64222494627506
+Content-Length: 1175
+
+-----------------------------64222494627506
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------64222494627506
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ListA_Document_ID"
+
+1
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ListA_Issuing_Authority"
+
+Passport
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ListA_Document_Number"
+
+2
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ListA_Expiration_Date_month"
+
+0
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ListA_Expiration_Date_day"
+
+0
+-----------------------------64222494627506
+Content-Disposition: form-data; name="ListA_Expiration_Date_year"
+
+0
+-----------------------------64222494627506
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------64222494627506--
+----audit_log_boundary--20091012_11:34:55--707d6d4ab616e69b2477dc88e4e84387--
+----audit_log_boundary--20091012_11:35:36--000ae06463b2f131ff8688e83b166460
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------130301641329168
+Content-Length: 3291
+
+-----------------------------130301641329168
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------130301641329168
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------130301641329168
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hire_date_month"
+
+1
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hire_date_day"
+
+0
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hire_date_year"
+
+2009
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hiring_manager_name"
+
+Earl Jiang
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hiring_manager_title"
+
+Manager
+-----------------------------130301641329168
+Content-Disposition: form-data; name="company_name"
+
+Widgets
+-----------------------------130301641329168
+Content-Disposition: form-data; name="location_street_address"
+
+Avenue A
+-----------------------------130301641329168
+Content-Disposition: form-data; name="location_city"
+
+Anchorag
+-----------------------------130301641329168
+Content-Disposition: form-data; name="location_state"
+
+AK
+-----------------------------130301641329168
+Content-Disposition: form-data; name="location_zip_code"
+
+999999
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hiring_manager_signature_date"
+
+2009-10-12 11:34:46
+-----------------------------130301641329168
+Content-Disposition: form-data; name="hiring_manager_signature"
+
+111.8_81.7_109.65_81.7-109.65_81.7_106.4_81.7-106.4_81.7_102.1_81.7-102.1_81.7_94.6_81.7-94.6_81.7_88.15_81.7-88.15_81.7_80.6_82.75-80.6_82.75_76.3_83.8-76.3_83.8_73.1_83.8-73.1_83.8_76.3_81.7-76.3_81.7_82.8_76.3-82.8_76.3_91.4_68.8-91.4_68.8_96.75_60.2-96.75_60.2_97.8_54.8-97.8_54.8_97.8_51.6-97.8_51.6_96.75_51.6-96.75_51.6_95.7_51.6-95.7_51.6_94.6_51.6-94.6_51.6_89.2_56.95-89.2_56.95_78.5_63.4-78.5_63.4_69.9_72-69.9_72_65.6_79.5-65.6_79.5_67.7_89.2-67.7_89.2_80.6_95.65-80.6_95.65_104.3_102.1-104.3_102.1_135.45_105.3-135.45_105.3_168.8_105.3-168.8_105.3_207.5_97.8-207.5_97.8_237.6_88.1-237.6_88.1_265.5_74.15-265.5_74.15_284.9_58-284.9_58_297.8_48.35-297.8_48.35_304.2_36.5-304.2_36.5_305.3_29-305.3_29_301_24.7-301_24.7_291.3_21.5-291.3_21.5_272_20.4-272_20.4_242.95_20.4-242.95_20.4_202.1_20.4-202.1_20.4_149.4_26.85-149.4_26.85_89.2_37.6-89.2_37.6_32.25_44.05-32.25_44.05_16.1_53.7-16.1_53.7_65.6_45.1-65.6_45.1_116.1_35.45-116.1_35.45_154.8_26.85-154.8_26.85_186_22.55-186_22.55_204.25_18.25-204.25_18.25_211.8_17.2-211.8_17.2_213.9_17.2-213.9_17.2_212.85_17.2-212.85_17.2_209.6_17.2-209.6_17.2_205.3_18.25-205.3_18.25_204.25_20.4-204.25_20.4_204.25_22.55-204.25_22.55_204.25_25.8-204.25_25.8_204.25_26.85-204.25_26.85_211.8_31.15-211.8_31.15_227.9_38.7-227.9_38.7_248.3_48.35-248.3_48.35_268.75_58-268.75_58_283.8_64.5-283.8_64.5_294.55_69.85-294.55_69.85_301_74.15-301_74.15_303.15_75.2-303.15_75.2_303.15_76.3-
+-----------------------------130301641329168
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------130301641329168--
+----audit_log_boundary--20091012_11:35:36--000ae06463b2f131ff8688e83b166460--
+----audit_log_boundary--20091012_11:35:45--2836ed557038708872583fcc3e851806
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------9003259118762
+Content-Length: 3258
+
+-----------------------------9003259118762
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------9003259118762
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------9003259118762
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hire_date_month"
+
+2
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hire_date_day"
+
+2
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hire_date_year"
+
+2009
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hiring_manager_name"
+
+Earl Jiang
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hiring_manager_title"
+
+Manager
+-----------------------------9003259118762
+Content-Disposition: form-data; name="company_name"
+
+Widgets
+-----------------------------9003259118762
+Content-Disposition: form-data; name="location_street_address"
+
+Avenue A
+-----------------------------9003259118762
+Content-Disposition: form-data; name="location_city"
+
+Anchorag
+-----------------------------9003259118762
+Content-Disposition: form-data; name="location_state"
+
+AK
+-----------------------------9003259118762
+Content-Disposition: form-data; name="location_zip_code"
+
+999999
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hiring_manager_signature_date"
+
+2009-10-12 11:34:46
+-----------------------------9003259118762
+Content-Disposition: form-data; name="hiring_manager_signature"
+
+ 111.8_81.7_109.65_81.7-109.65_81.7_106.4_81.7-106.4_81.7_102.1_81.7-102.1_81.7_94.6_81.7-94.6_81.7_88.15_81.7-88.15_81.7_80.6_82.75-80.6_82.75_76.3_83.8-76.3_83.8_73.1_83.8-73.1_83.8_76.3_81.7-76.3_81.7_82.8_76.3-82.8_76.3_91.4_68.8-91.4_68.8_96.75_60.2-96.75_60.2_97.8_54.8-97.8_54.8_97.8_51.6-97.8_51.6_96.75_51.6-96.75_51.6_95.7_51.6-95.7_51.6_94.6_51.6-94.6_51.6_89.2_56.95-89.2_56.95_78.5_63.4-78.5_63.4_69.9_72-69.9_72_65.6_79.5-65.6_79.5_67.7_89.2-67.7_89.2_80.6_95.65-80.6_95.65_104.3_102.1-104.3_102.1_135.45_105.3-135.45_105.3_168.8_105.3-168.8_105.3_207.5_97.8-207.5_97.8_237.6_88.1-237.6_88.1_265.5_74.15-265.5_74.15_284.9_58-284.9_58_297.8_48.35-297.8_48.35_304.2_36.5-304.2_36.5_305.3_29-305.3_29_301_24.7-301_24.7_291.3_21.5-291.3_21.5_272_20.4-272_20.4_242.95_20.4-242.95_20.4_202.1_20.4-202.1_20.4_149.4_26.85-149.4_26.85_89.2_37.6-89.2_37.6_32.25_44.05-32.25_44.05_16.1_53.7-16.1_53.7_65.6_45.1-65.6_45.1_116.1_35.45-116.1_35.45_154.8_26.85-154.8_26.85_186_22.55-186_22.55_204.25_18.25-204.25_18.25_211.8_17.2-211.8_17.2_213.9_17.2-213.9_17.2_212.85_17.2-212.85_17.2_209.6_17.2-209.6_17.2_205.3_18.25-205.3_18.25_204.25_20.4-204.25_20.4_204.25_22.55-204.25_22.55_204.25_25.8-204.25_25.8_204.25_26.85-204.25_26.85_211.8_31.15-211.8_31.15_227.9_38.7-227.9_38.7_248.3_48.35-248.3_48.35_268.75_58-268.75_58_283.8_64.5-283.8_64.5_294.55_69.85-294.55_69.85_301_74.15-301_74.15_303.15_75.2-303.15_75.2_303.15_76.3-
+-----------------------------9003259118762
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------9003259118762--
+----audit_log_boundary--20091012_11:35:45--2836ed557038708872583fcc3e851806--
+----audit_log_boundary--20091012_11:35:46--1fb3f83a58a4d137544f6c6fcde5b500
+POST /admin/wizard.php HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+Content-Type: multipart/form-data; boundary=---------------------------1655174106359
+Content-Length: 480
+
+-----------------------------1655174106359
+Content-Disposition: form-data; name="activeStackID"
+
+0
+-----------------------------1655174106359
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------1655174106359
+Content-Disposition: form-data; name="ERCSESSID"
+
+mvhnjrejk44vein8r1jlianbr2
+-----------------------------1655174106359
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------1655174106359--
+----audit_log_boundary--20091012_11:35:46--1fb3f83a58a4d137544f6c6fcde5b500--
+----audit_log_boundary--20091012_11:35:47--4a97834ae1a1788591d5e69e52f0d18f
+GET /admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+
+----audit_log_boundary--20091012_11:35:47--4a97834ae1a1788591d5e69e52f0d18f--
+----audit_log_boundary--20091012_11:35:47--8aa77f2e7bdc76142f49e738205d0dd2
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:35:47--8aa77f2e7bdc76142f49e738205d0dd2--
+----audit_log_boundary--20091012_11:35:48--1251243a7eec4806caaebcba156f2bf7
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:35:48--1251243a7eec4806caaebcba156f2bf7--
+----audit_log_boundary--20091012_11:36:00--cc2fa047334b808777dd35bec17a55fd
+GET /admin/view_i9.php?eid=19&form_section_id=3&employee_form_id=13&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:36:00--cc2fa047334b808777dd35bec17a55fd--
+----audit_log_boundary--20091012_11:36:38--5aae875fc8585d264e50716740f0c6d0
+GET /admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/wizard.php
+
+----audit_log_boundary--20091012_11:36:38--5aae875fc8585d264e50716740f0c6d0--
+----audit_log_boundary--20091012_11:36:38--b57ad8b7aac61ec0e07bdf7c3b05f87e
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:36:38--b57ad8b7aac61ec0e07bdf7c3b05f87e--
+----audit_log_boundary--20091012_11:36:38--d318e46c29045021ce6c8d57dd1a4c0b
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_11:36:38--d318e46c29045021ce6c8d57dd1a4c0b--
+----audit_log_boundary--20091012_11:42:19--8b1afb53a1207c38df0e503030872bda
+GET /admin/dashboard.php?ERCSESSID=onluubgqum4frpvqp3r8sp2u33 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/select_client_db.php?ERCSESSID=onluubgqum4frpvqp3r8sp2u33
+
+----audit_log_boundary--20091012_11:42:19--8b1afb53a1207c38df0e503030872bda--
+----audit_log_boundary--20091012_11:42:19--8870efb2af065a1250fb2c30c5a0855f
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=onluubgqum4frpvqp3r8sp2u33 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/dashboard.php?ERCSESSID=onluubgqum4frpvqp3r8sp2u33
+
+----audit_log_boundary--20091012_11:42:19--8870efb2af065a1250fb2c30c5a0855f--
+----audit_log_boundary--20091012_11:42:19--4b233a552c8520c0bd9d6bfe484892b4
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=onluubgqum4frpvqp3r8sp2u33 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/folder_navigation.php?scr=body&ERCSESSID=onluubgqum4frpvqp3r8sp2u33
+
+----audit_log_boundary--20091012_11:42:19--4b233a552c8520c0bd9d6bfe484892b4--
+----audit_log_boundary--20091012_12:11:06--33abe5df085633710f7cb70f9c8255b0
+GET /admin/view_i9.php?eid=19&form_section_id=3&employee_form_id=13&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_12:11:06--33abe5df085633710f7cb70f9c8255b0--
+----audit_log_boundary--20091012_16:33:53--db0edbe3308be1d3bb11c6ea095eb8bc
+GET /admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_management.php?func=load&id=19&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_16:33:53--db0edbe3308be1d3bb11c6ea095eb8bc--
+----audit_log_boundary--20091012_16:33:53--cb3b2d3227778c165d2b0641fe7b9888
+GET /include/ajax_query_result_table.php?resultTableID=SVS_EMPLOYEE_QRT&ERCSESSID=mvhnjrejk44vein8r1jlianbr2&start=0 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_16:33:53--cb3b2d3227778c165d2b0641fe7b9888--
+----audit_log_boundary--20091012_16:33:53--43a592791124593e6b2d99b4fd5be8ea
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_16:33:53--43a592791124593e6b2d99b4fd5be8ea--
+----audit_log_boundary--20091012_16:33:53--6992b404a698eff5f1cfe12528942dfc
+GET /admin/applicant_advsearch_iframe.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/employee_list.php?qrt=NEW&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_16:33:53--6992b404a698eff5f1cfe12528942dfc--
+----audit_log_boundary--20091012_16:33:53--70e46d4d03f8e434f6d9b7cec9d1010c
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=mvhnjrejk44vein8r1jlianbr2 HTTP/1.1
+Host: svr-stage-svs
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svr-stage-svs/admin/folder_navigation.php?scr=body&ERCSESSID=mvhnjrejk44vein8r1jlianbr2
+
+----audit_log_boundary--20091012_16:33:53--70e46d4d03f8e434f6d9b7cec9d1010c--
+----audit_log_boundary--20091012_16:50:04--f194348d3b637dbed79cb41f28e7831f
+GET /admin/dashboard.php?ERCSESSID=e8v8orsh0l9djsfgt9b32nq9e7 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/select_client_db.php?ERCSESSID=e8v8orsh0l9djsfgt9b32nq9e7
+Cookie: __utma=99073226.55764818.1151425257.1151425257.1151425257.1
+
+----audit_log_boundary--20091012_16:50:04--f194348d3b637dbed79cb41f28e7831f--
+----audit_log_boundary--20091012_16:50:04--3228c1339efe5ab0c23e3fdcfa340829
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=e8v8orsh0l9djsfgt9b32nq9e7 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/dashboard.php?ERCSESSID=e8v8orsh0l9djsfgt9b32nq9e7
+Cookie: __utma=99073226.55764818.1151425257.1151425257.1151425257.1
+
+----audit_log_boundary--20091012_16:50:04--3228c1339efe5ab0c23e3fdcfa340829--
+----audit_log_boundary--20091012_16:50:04--d8642f7f81b0221c8e0eeec9d0bc9dba
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=e8v8orsh0l9djsfgt9b32nq9e7 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/folder_navigation.php?scr=body&ERCSESSID=e8v8orsh0l9djsfgt9b32nq9e7
+Cookie: __utma=99073226.55764818.1151425257.1151425257.1151425257.1
+
+----audit_log_boundary--20091012_16:50:04--d8642f7f81b0221c8e0eeec9d0bc9dba--

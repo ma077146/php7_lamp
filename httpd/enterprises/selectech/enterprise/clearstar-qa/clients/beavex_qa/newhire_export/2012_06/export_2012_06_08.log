@@ -1,0 +1,23 @@
+2012-06-08 16:27:12: 
+
+New Hire Export executed from batch_payroll_export.php
+2012-06-08 16:27:12:  - Process Step: Batch Payroll Export (92) - BatchPayrollExport
+2012-06-08 16:27:12: Beginning export group associated with process step 92
+2012-06-08 16:27:12: There are no applications to be processed
+2012-06-08 16:29:32: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-06-08 16:29:32:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-06-08 16:29:32: Beginning export group associated with process step 193
+2012-06-08 16:29:32: Applications to be processed: 428
+2012-06-08 16:35:50: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-06-08 16:35:50:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-06-08 16:35:50: Beginning export group associated with process step 193
+2012-06-08 16:35:50: Applications to be processed: 429
+2012-06-08 16:35:50: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-06-08 16:35:50: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-06-08 16:35:50: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-06-08 16:35:50:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 429 has been successfully emailed to brent.flynn@ercdataplus.com
+2012-06-08 16:35:50: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed

@@ -1,0 +1,11 @@
+2012-07-20 14:18:19: 
+
+New Hire Export executed from /websites/selectech_6.3/admin/application_actions.php
+2012-07-20 14:18:20:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2012-07-20 14:18:20: Beginning export group associated with process step 193
+2012-07-20 14:18:20: Applications to be processed: 443
+2012-07-20 14:18:20: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2012-07-20 14:18:20: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2012-07-20 14:18:20: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Started
+2012-07-20 14:18:20:  (NewHire_Export_Handler_EmailADPFileNo) - The ADP file number for application id 443 has been successfully emailed to debbie.flynn@ercdataplus.com, chibbard@ercdataplus.com
+2012-07-20 14:18:20: Email ADP file number - NewHire_Export_Handler_EmailADPFileNo (5) - Successfully Completed

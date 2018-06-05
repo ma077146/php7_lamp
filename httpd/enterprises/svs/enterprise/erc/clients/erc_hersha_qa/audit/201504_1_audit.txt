@@ -1,0 +1,3050 @@
+----audit_log_boundary--20150427_12:27:57--ddbf2e0a162719f168da77b73a388f36
+GET /admin/dashboard.php?ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_12:27:57--ddbf2e0a162719f168da77b73a388f36--
+----audit_log_boundary--20150427_13:02:23--21dd864ecd5bb3311985cdd25cf62a5e
+GET /admin/employee_list.php?fromLink=1&dBoardId=4&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:02:23--21dd864ecd5bb3311985cdd25cf62a5e--
+----audit_log_boundary--20150427_13:02:28--0fe1e32aa6725e703bd8b97b19907abc
+POST /admin/update_query_results.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?fromLink=1&dBoardId=4&ERCSESSID=rq72t66ugartoukmngob227ai6
+Content-Length: 220
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&filter=default&interfaceId=employee_list-Employee&fromLink=0&resultsPerPage=25&startRecord=0&sortCol=2&sortOrder=DESC&lastName=&empId=&formStatus=&locationId=0&positionId=0&dBoardId=4
+----audit_log_boundary--20150427_13:02:28--0fe1e32aa6725e703bd8b97b19907abc--
+----audit_log_boundary--20150427_13:02:35--6b92da39be6f3aaffb572835a02a3bc9
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?fromLink=1&dBoardId=4&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:02:35--6b92da39be6f3aaffb572835a02a3bc9--
+----audit_log_boundary--20150427_13:03:17--6cfe7ac0c8381ab2cac13948816395c5
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------248671465218563
+Content-Length: 1357
+
+-----------------------------248671465218563
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------248671465218563
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------248671465218563
+Content-Disposition: form-data; name="wizardKey"
+
+T2Du53rNU8
+-----------------------------248671465218563
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------248671465218563
+Content-Disposition: form-data; name="firstName"
+
+Margret
+-----------------------------248671465218563
+Content-Disposition: form-data; name="lastName"
+
+Hornsby
+-----------------------------248671465218563
+Content-Disposition: form-data; name="hireDate"
+
+2015-04-27
+-----------------------------248671465218563
+Content-Disposition: form-data; name="ssn"
+
+000000006
+-----------------------------248671465218563
+Content-Disposition: form-data; name="locationId"
+
+8
+-----------------------------248671465218563
+Content-Disposition: form-data; name="positionId"
+
+2
+-----------------------------248671465218563
+Content-Disposition: form-data; name="phoneNumber"
+
+
+-----------------------------248671465218563
+Content-Disposition: form-data; name="emailAddress"
+
+brent.flynn@peoplestrategy.com
+-----------------------------248671465218563--
+----audit_log_boundary--20150427_13:03:17--6cfe7ac0c8381ab2cac13948816395c5--
+----audit_log_boundary--20150427_13:03:20--7f7b933219c84cd57b08bf45d59b640f
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------45162261218752
+Content-Length: 595
+
+-----------------------------45162261218752
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------45162261218752
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------45162261218752
+Content-Disposition: form-data; name="wizardKey"
+
+T2Du53rNU8
+-----------------------------45162261218752
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------45162261218752
+Content-Disposition: form-data; name="wizardObjectId"
+
+0
+-----------------------------45162261218752--
+----audit_log_boundary--20150427_13:03:20--7f7b933219c84cd57b08bf45d59b640f--
+----audit_log_boundary--20150427_13:03:23--0f67fc729176532a313eb99dab95b50c
+GET /admin/employee_management.php?id=97&dTab=forms&formSelect=1&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:03:23--0f67fc729176532a313eb99dab95b50c--
+----audit_log_boundary--20150427_13:03:26--b63fc7994f0bef7f44dbab2ccc5f5750
+GET /admin/form_wizard.php?wizardAction=ADD&eid=97&fid=5&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=97&dTab=forms&formSelect=1&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:03:26--b63fc7994f0bef7f44dbab2ccc5f5750--
+----audit_log_boundary--20150427_13:03:28--7232a86372d362ef357e03ed4deaf809
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?wizardAction=ADD&eid=97&fid=5&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------260991795013506
+Content-Length: 606
+
+-----------------------------260991795013506
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------260991795013506
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------260991795013506
+Content-Disposition: form-data; name="wizardKey"
+
+329417a7xg2pRwk
+-----------------------------260991795013506
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------260991795013506
+Content-Disposition: form-data; name="wizardObjectId"
+
+0
+-----------------------------260991795013506--
+----audit_log_boundary--20150427_13:03:28--7232a86372d362ef357e03ed4deaf809--
+----audit_log_boundary--20150427_13:03:31--fe8ba9468af1fe02750219aac0e62e2f
+GET /admin/employee_management.php?id=97&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:03:31--fe8ba9468af1fe02750219aac0e62e2f--
+----audit_log_boundary--20150427_13:03:44--1ba4881ae55d1c51bb8c5aa98a848a7e
+POST /employee/invitation_login.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?KbFzEpujOqaG3rJot2rME4VzFot2Vxg3bsot2b043ZIz66ZJD394d3Fzot1Fc
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 84
+
+ERCSESSID=o559peesufdrbdrncl79vam4g3&lastName=Hornsby&ssn=000000006&formAction=Login
+----audit_log_boundary--20150427_13:03:44--1ba4881ae55d1c51bb8c5aa98a848a7e--
+----audit_log_boundary--20150427_13:03:45--8857587eb0bda51db2158be48832926a
+GET /employee/form_wizard.php?wizardAction=NEW&ERCSESSID=o559peesufdrbdrncl79vam4g3 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?KbFzEpujOqaG3rJot2rME4VzFot2Vxg3bsot2b043ZIz66ZJD394d3Fzot1Fc
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:03:45--8857587eb0bda51db2158be48832926a--
+----audit_log_boundary--20150427_13:03:47--5e2f67b09eaeae7624c9582b5d398cc6
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php?wizardAction=NEW&ERCSESSID=o559peesufdrbdrncl79vam4g3
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------2600977443704
+Content-Length: 483
+
+-----------------------------2600977443704
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------2600977443704
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------2600977443704
+Content-Disposition: form-data; name="wizardKey"
+
+8SNwIY3U6I
+-----------------------------2600977443704
+Content-Disposition: form-data; name="ERCSESSID"
+
+o559peesufdrbdrncl79vam4g3
+-----------------------------2600977443704--
+----audit_log_boundary--20150427_13:03:47--5e2f67b09eaeae7624c9582b5d398cc6--
+----audit_log_boundary--20150427_13:04:11--1bf69a93e93d5519d550bcf7bfbaa79d
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------15412435611517
+Content-Length: 1854
+
+-----------------------------15412435611517
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------15412435611517
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------15412435611517
+Content-Disposition: form-data; name="wizardKey"
+
+8SNwIY3U6I
+-----------------------------15412435611517
+Content-Disposition: form-data; name="ERCSESSID"
+
+o559peesufdrbdrncl79vam4g3
+-----------------------------15412435611517
+Content-Disposition: form-data; name="first_name"
+
+Margret
+-----------------------------15412435611517
+Content-Disposition: form-data; name="last_name"
+
+Hornsby
+-----------------------------15412435611517
+Content-Disposition: form-data; name="middle_initial"
+
+
+-----------------------------15412435611517
+Content-Disposition: form-data; name="maiden_name"
+
+
+-----------------------------15412435611517
+Content-Disposition: form-data; name="address"
+
+50 Washington St.
+-----------------------------15412435611517
+Content-Disposition: form-data; name="apt_num"
+
+
+-----------------------------15412435611517
+Content-Disposition: form-data; name="city"
+
+Norwalk
+-----------------------------15412435611517
+Content-Disposition: form-data; name="state"
+
+CT
+-----------------------------15412435611517
+Content-Disposition: form-data; name="zip_code"
+
+06859
+-----------------------------15412435611517
+Content-Disposition: form-data; name="birth_date"
+
+1985-04-27
+-----------------------------15412435611517
+Content-Disposition: form-data; name="ssn"
+
+000000006
+-----------------------------15412435611517
+Content-Disposition: form-data; name="email"
+
+brent.flynn@peoplestrategy.com
+-----------------------------15412435611517
+Content-Disposition: form-data; name="telephone"
+
+
+-----------------------------15412435611517--
+----audit_log_boundary--20150427_13:04:11--1bf69a93e93d5519d550bcf7bfbaa79d--
+----audit_log_boundary--20150427_13:04:14--67fbd8c564ded83e9bc2a54fb49a5e9c
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------1139829403609
+Content-Length: 1321
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------1139829403609
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------1139829403609
+Content-Disposition: form-data; name="wizardKey"
+
+8SNwIY3U6I
+-----------------------------1139829403609
+Content-Disposition: form-data; name="ERCSESSID"
+
+o559peesufdrbdrncl79vam4g3
+-----------------------------1139829403609
+Content-Disposition: form-data; name="citizen_status"
+
+4
+-----------------------------1139829403609
+Content-Disposition: form-data; name="alien_id_6"
+
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="alien_id_7"
+
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="work_auth_date_7a"
+
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="i94_number"
+
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="work_auth_date_7b"
+
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="foreign_passport_number"
+
+
+-----------------------------1139829403609
+Content-Disposition: form-data; name="foreign_passport_country"
+
+
+-----------------------------1139829403609--
+----audit_log_boundary--20150427_13:04:14--67fbd8c564ded83e9bc2a54fb49a5e9c--
+----audit_log_boundary--20150427_13:04:15--516792ce59fa16ef2f4e5118a29a21db
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1a&entry=1&wizardKey=8SNwIY3U6I&ERCSESSID=o559peesufdrbdrncl79vam4g3 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:04:15--516792ce59fa16ef2f4e5118a29a21db--
+----audit_log_boundary--20150427_13:04:26--98c015caadee5f49683d26ad107b7356
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------161823141411935
+Content-Length: 1168
+
+-----------------------------161823141411935
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------161823141411935
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------161823141411935
+Content-Disposition: form-data; name="wizardKey"
+
+8SNwIY3U6I
+-----------------------------161823141411935
+Content-Disposition: form-data; name="ERCSESSID"
+
+o559peesufdrbdrncl79vam4g3
+-----------------------------161823141411935
+Content-Disposition: form-data; name="employee_signature"
+
+image/jsignature;base30,8S50Z32668cb88554211000Y14453545433455441301001002110_6K06245446644421Z65789ba9b78543Y1567accbad9h86Z9568546_9B77776755432200Z479dhmnmfd7620Y19kp1x1C1y1wrfc743100Z2542533300Y35dbaa976436_6GZ300000Y32465776885764100Z5889eehlgngd730Y65878babaaabaa877310Z535543322_hv7cbdcca6321Z369cejfc90Y9ejlnhhcc65212358hnolkhb5336agmmlkb94544545433_7wZ2223100Y1237975755520Z745431000Y123354878b7630000Z2236ccgid762Y125544422
+-----------------------------161823141411935
+Content-Disposition: form-data; name="employee_signature_date"
+
+2015-04-27 13:04:24
+-----------------------------161823141411935--
+----audit_log_boundary--20150427_13:04:26--98c015caadee5f49683d26ad107b7356--
+----audit_log_boundary--20150427_13:04:29--aefc5a39ed133f9a43b52e95043c0bbe
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------9946278254164
+Content-Length: 1445
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="wizardStep"
+
+4
+-----------------------------9946278254164
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------9946278254164
+Content-Disposition: form-data; name="wizardKey"
+
+8SNwIY3U6I
+-----------------------------9946278254164
+Content-Disposition: form-data; name="ERCSESSID"
+
+o559peesufdrbdrncl79vam4g3
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_status"
+
+0
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_first_name"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_last_name"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_street_address"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_city"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_state"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_zip_code"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_signature"
+
+
+-----------------------------9946278254164
+Content-Disposition: form-data; name="preparer_signature_date"
+
+
+-----------------------------9946278254164--
+----audit_log_boundary--20150427_13:04:29--aefc5a39ed133f9a43b52e95043c0bbe--
+----audit_log_boundary--20150427_13:04:30--06bf8c8e5da38cf818955019247490f3
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=8SNwIY3U6I&ERCSESSID=o559peesufdrbdrncl79vam4g3 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:04:30--06bf8c8e5da38cf818955019247490f3--
+----audit_log_boundary--20150427_13:04:33--d3b950e1729706fea1c13857dedb0ac0
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------1078474922131
+Content-Length: 485
+
+-----------------------------1078474922131
+Content-Disposition: form-data; name="wizardStep"
+
+5
+-----------------------------1078474922131
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------1078474922131
+Content-Disposition: form-data; name="wizardKey"
+
+8SNwIY3U6I
+-----------------------------1078474922131
+Content-Disposition: form-data; name="ERCSESSID"
+
+o559peesufdrbdrncl79vam4g3
+-----------------------------1078474922131--
+----audit_log_boundary--20150427_13:04:33--d3b950e1729706fea1c13857dedb0ac0--
+----audit_log_boundary--20150427_13:04:38--067628e2bc207dc7c8e7555e178c8982
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=97&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=97&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_13:04:38--067628e2bc207dc7c8e7555e178c8982--
+----audit_log_boundary--20150427_13:04:41--6373602a19fb558f2f4279b12e297bbc
+GET /admin/form_wizard.php?efid=97&fsid=2&wizardAction=NEW&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:04:41--6373602a19fb558f2f4279b12e297bbc--
+----audit_log_boundary--20150427_13:04:41--a8407214a2a8ff850e70ca2065e7d7d7
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=949q0a70s1c57xq&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?efid=97&fsid=2&wizardAction=NEW&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:04:41--a8407214a2a8ff850e70ca2065e7d7d7--
+----audit_log_boundary--20150427_13:04:45--66cfe46d960b0ec33096dc7aaf536d94
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?efid=97&fsid=2&wizardAction=NEW&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------301292869228103
+Content-Length: 498
+
+-----------------------------301292869228103
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------301292869228103
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------301292869228103
+Content-Disposition: form-data; name="wizardKey"
+
+949q0a70s1c57xq
+-----------------------------301292869228103
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------301292869228103--
+----audit_log_boundary--20150427_13:04:45--66cfe46d960b0ec33096dc7aaf536d94--
+----audit_log_boundary--20150427_13:04:49--4c9116c85fda77a0ccdd60ebf732086e
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------3718321138489
+Content-Length: 695
+
+-----------------------------3718321138489
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------3718321138489
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------3718321138489
+Content-Disposition: form-data; name="wizardKey"
+
+949q0a70s1c57xq
+-----------------------------3718321138489
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------3718321138489
+Content-Disposition: form-data; name="listSelect"
+
+A
+-----------------------------3718321138489
+Content-Disposition: form-data; name="ListA_Document_ID"
+
+1
+-----------------------------3718321138489--
+----audit_log_boundary--20150427_13:04:49--4c9116c85fda77a0ccdd60ebf732086e--
+----audit_log_boundary--20150427_13:05:02--5dd84db80e268352015fb2612b8bc638
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------30922115145348
+Content-Length: 857
+
+-----------------------------30922115145348
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------30922115145348
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------30922115145348
+Content-Disposition: form-data; name="wizardKey"
+
+949q0a70s1c57xq
+-----------------------------30922115145348
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------30922115145348
+Content-Disposition: form-data; name="ListA_Issuing_Authority"
+
+US Passport Office
+-----------------------------30922115145348
+Content-Disposition: form-data; name="Passport_Number"
+
+123456789
+-----------------------------30922115145348
+Content-Disposition: form-data; name="Passport_Expiration"
+
+2017-04-20
+-----------------------------30922115145348--
+----audit_log_boundary--20150427_13:05:02--5dd84db80e268352015fb2612b8bc638--
+----audit_log_boundary--20150427_13:05:13--0cb82f509d268a397d4c976901cc5e31
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------28326411213866
+Content-Length: 2207
+
+-----------------------------28326411213866
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------28326411213866
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------28326411213866
+Content-Disposition: form-data; name="wizardKey"
+
+949q0a70s1c57xq
+-----------------------------28326411213866
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------28326411213866
+Content-Disposition: form-data; name="hire_date"
+
+2015-04-27
+-----------------------------28326411213866
+Content-Disposition: form-data; name="hiring_manager_first_name"
+
+Brent
+-----------------------------28326411213866
+Content-Disposition: form-data; name="hiring_manager_last_name"
+
+Flynn
+-----------------------------28326411213866
+Content-Disposition: form-data; name="hiring_manager_title"
+
+Test Title
+-----------------------------28326411213866
+Content-Disposition: form-data; name="company_name"
+
+Test Organization
+-----------------------------28326411213866
+Content-Disposition: form-data; name="location_street_address"
+
+50 Washington St.
+-----------------------------28326411213866
+Content-Disposition: form-data; name="location_city"
+
+Norwalk
+-----------------------------28326411213866
+Content-Disposition: form-data; name="location_state"
+
+CT
+-----------------------------28326411213866
+Content-Disposition: form-data; name="location_zip_code"
+
+06854
+-----------------------------28326411213866
+Content-Disposition: form-data; name="hiring_manager_signature"
+
+image/jsignature;base30,fxZ447gbbb1x886252100Y15575743000Z44699a8764_7S33374210Z1244799bd9a98532Y3975964744200Z3_9Ka9egfhjf975120Z34aaaeffg74411Y38ahnmlfb953312Z12021Y7bns1Btmk867beetea77_4G323524557577788785600Z2757799ab9aa430Y4566878956656100Z33420Y20Z12263211_ovZdcb986650Y3_5VZ1000000064_nI6433100Z4533865220Y26cp1B1O1N1U1L1ync52Z49jl1yld3Yait1B1v1uf52223_5z467a9baa9320Z4657694102000Y1023256899da62Z48bfb650Y4862
+-----------------------------28326411213866
+Content-Disposition: form-data; name="hiring_manager_signature_date"
+
+2015-04-27 13:05:12
+-----------------------------28326411213866--
+----audit_log_boundary--20150427_13:05:13--0cb82f509d268a397d4c976901cc5e31--
+----audit_log_boundary--20150427_13:05:14--576e46238e679583ab3d98e459a85034
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=2&entry=1&wizardKey=949q0a70s1c57xq&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:05:14--576e46238e679583ab3d98e459a85034--
+----audit_log_boundary--20150427_13:05:17--864235bc0c405cff53b699b67cd1a331
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------858341944904
+Content-Length: 485
+
+-----------------------------858341944904
+Content-Disposition: form-data; name="wizardStep"
+
+4
+-----------------------------858341944904
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------858341944904
+Content-Disposition: form-data; name="wizardKey"
+
+949q0a70s1c57xq
+-----------------------------858341944904
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------858341944904--
+----audit_log_boundary--20150427_13:05:17--864235bc0c405cff53b699b67cd1a331--
+----audit_log_boundary--20150427_13:05:18--68f26a5afc20bd5a26efb54370b70dc9
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=2&entry=1&wizardKey=949q0a70s1c57xq&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:05:18--68f26a5afc20bd5a26efb54370b70dc9--
+----audit_log_boundary--20150427_13:05:19--584c47d21c08dc573663079073bb05c2
+GET /admin/employee_management.php?id=97&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:05:19--584c47d21c08dc573663079073bb05c2--
+----audit_log_boundary--20150427_13:05:27--977992dd0e44b5dbfe6e1481a7462291
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=97&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=97&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_13:05:27--977992dd0e44b5dbfe6e1481a7462291--
+----audit_log_boundary--20150427_13:10:28--8f9b549cc538c4dacb3c5a4270d44536
+GET /admin/employee_list.php?filter=stored&view=stored&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:10:28--8f9b549cc538c4dacb3c5a4270d44536--
+----audit_log_boundary--20150427_13:10:31--64841728919290d0a4b673e438497afa
+GET /admin/employee_management.php?id=97&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?filter=stored&view=stored&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:10:31--64841728919290d0a4b673e438497afa--
+----audit_log_boundary--20150427_13:10:33--9501469e9bde5c1f5425bda5dfdf8a77
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=97&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20150427_13:10:33--9501469e9bde5c1f5425bda5dfdf8a77--
+----audit_log_boundary--20150427_13:40:31--0865673587e700f03ec853886a22ab13
+GET /admin/state_config.php?ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:40:31--0865673587e700f03ec853886a22ab13--
+----audit_log_boundary--20150427_13:40:38--acb8491df608748120b2ef0196352edc
+POST /admin/state_config.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/state_config.php?ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 1154
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&buttonAction=SAVE&activeStates%5B%5D=AL&activeStates%5B%5D=AK&activeStates%5B%5D=AR&activeStates%5B%5D=CA&activeStates%5B%5D=CO&activeStates%5B%5D=CT&activeStates%5B%5D=DE&activeStates%5B%5D=DC&activeStates%5B%5D=FL&activeStates%5B%5D=GA&activeStates%5B%5D=HI&activeStates%5B%5D=ID&activeStates%5B%5D=IL&activeStates%5B%5D=IN&activeStates%5B%5D=IA&activeStates%5B%5D=KS&activeStates%5B%5D=KY&activeStates%5B%5D=LA&activeStates%5B%5D=ME&activeStates%5B%5D=MD&activeStates%5B%5D=MA&activeStates%5B%5D=MI&activeStates%5B%5D=MN&activeStates%5B%5D=MS&activeStates%5B%5D=MO&activeStates%5B%5D=MT&activeStates%5B%5D=NE&activeStates%5B%5D=NV&activeStates%5B%5D=NH&activeStates%5B%5D=NJ&activeStates%5B%5D=NM&activeStates%5B%5D=NY&activeStates%5B%5D=NC&activeStates%5B%5D=ND&activeStates%5B%5D=OH&activeStates%5B%5D=OK&activeStates%5B%5D=OR&activeStates%5B%5D=PA&activeStates%5B%5D=RI&activeStates%5B%5D=SC&activeStates%5B%5D=SD&activeStates%5B%5D=TN&activeStates%5B%5D=TX&activeStates%5B%5D=UT&activeStates%5B%5D=VT&activeStates%5B%5D=VA&activeStates%5B%5D=WA&activeStates%5B%5D=WV&activeStates%5B%5D=WI&activeStates%5B%5D=WY
+----audit_log_boundary--20150427_13:40:38--acb8491df608748120b2ef0196352edc--
+----audit_log_boundary--20150427_13:40:43--afa098423a11368e472407e5d2822f44
+GET /admin/employee_list.php?&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/state_config.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:40:43--afa098423a11368e472407e5d2822f44--
+----audit_log_boundary--20150427_13:40:45--24113eebe981a37dc552c0efbcbbab08
+GET /admin/employee_management.php?id=97&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:40:45--24113eebe981a37dc552c0efbcbbab08--
+----audit_log_boundary--20150427_13:40:46--1b8fd0fb411cde3442b4bf6605581d03
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=97&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20150427_13:40:46--1b8fd0fb411cde3442b4bf6605581d03--
+----audit_log_boundary--20150427_13:40:50--53dc73eb5db0ca40f62e061ae92d82c1
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=97&dTab=forms&action=evaluate&startEVerify=YES
+----audit_log_boundary--20150427_13:40:50--53dc73eb5db0ca40f62e061ae92d82c1--
+----audit_log_boundary--20150427_13:46:07--14b227fcd9a236b98f6e049a40483cc4
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=97&dTab=forms&action=evaluate&startEVerify=YES
+----audit_log_boundary--20150427_13:46:07--14b227fcd9a236b98f6e049a40483cc4--
+----audit_log_boundary--20150427_13:47:43--c3a6b7bdf88b5eeb243e963661f98d83
+GET /admin/download_everify_pdf.php?efid=97&miid=1&lc=SSA_NATZ_FAN&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:47:43--c3a6b7bdf88b5eeb243e963661f98d83--
+----audit_log_boundary--20150427_13:48:56--3a75cc4d80e7f75d34c0f61a68e63b3c
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 97
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=97&dTab=forms&action=evaluate&contest_SSA_TNC=YES
+----audit_log_boundary--20150427_13:48:56--3a75cc4d80e7f75d34c0f61a68e63b3c--
+----audit_log_boundary--20150427_13:49:09--ba55ad8d24625b3b15ab2531f530b187
+GET /admin/download_everify_pdf.php?efid=97&miid=2&lc=SSA_RDC&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:49:09--ba55ad8d24625b3b15ab2531f530b187--
+----audit_log_boundary--20150427_13:57:47--71864bcaeb42319db68c9bd58f90f931
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:57:47--71864bcaeb42319db68c9bd58f90f931--
+----audit_log_boundary--20150427_13:58:12--a9be69127849c14bce15cb8a15f0d1d1
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------138891598013949
+Content-Length: 1355
+
+-----------------------------138891598013949
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------138891598013949
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------138891598013949
+Content-Disposition: form-data; name="wizardKey"
+
+8K1fvWp8nP1B
+-----------------------------138891598013949
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------138891598013949
+Content-Disposition: form-data; name="firstName"
+
+Cal
+-----------------------------138891598013949
+Content-Disposition: form-data; name="lastName"
+
+Sanders
+-----------------------------138891598013949
+Content-Disposition: form-data; name="hireDate"
+
+2015-04-27
+-----------------------------138891598013949
+Content-Disposition: form-data; name="ssn"
+
+000000003
+-----------------------------138891598013949
+Content-Disposition: form-data; name="locationId"
+
+8
+-----------------------------138891598013949
+Content-Disposition: form-data; name="positionId"
+
+2
+-----------------------------138891598013949
+Content-Disposition: form-data; name="phoneNumber"
+
+
+-----------------------------138891598013949
+Content-Disposition: form-data; name="emailAddress"
+
+brent.flynn@peoplestrategy.com
+-----------------------------138891598013949--
+----audit_log_boundary--20150427_13:58:12--a9be69127849c14bce15cb8a15f0d1d1--
+----audit_log_boundary--20150427_13:58:14--f375b6a8e607a9d1000cea80401f162b
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------117131382028135
+Content-Length: 603
+
+-----------------------------117131382028135
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------117131382028135
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------117131382028135
+Content-Disposition: form-data; name="wizardKey"
+
+8K1fvWp8nP1B
+-----------------------------117131382028135
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------117131382028135
+Content-Disposition: form-data; name="wizardObjectId"
+
+0
+-----------------------------117131382028135--
+----audit_log_boundary--20150427_13:58:14--f375b6a8e607a9d1000cea80401f162b--
+----audit_log_boundary--20150427_13:58:17--e676278077fc0798d80c08037dbda723
+GET /admin/employee_management.php?id=98&dTab=forms&formSelect=1&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:58:17--e676278077fc0798d80c08037dbda723--
+----audit_log_boundary--20150427_13:58:19--cf55b5a0383e812e20888383b4ebf929
+GET /admin/form_wizard.php?wizardAction=ADD&eid=98&fid=5&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=98&dTab=forms&formSelect=1&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:58:19--cf55b5a0383e812e20888383b4ebf929--
+----audit_log_boundary--20150427_13:58:21--560d27e8b2be7617067c523a245ec68e
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?wizardAction=ADD&eid=98&fid=5&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------174751408527825
+Content-Length: 601
+
+-----------------------------174751408527825
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------174751408527825
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------174751408527825
+Content-Disposition: form-data; name="wizardKey"
+
+HuE2BdW925
+-----------------------------174751408527825
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------174751408527825
+Content-Disposition: form-data; name="wizardObjectId"
+
+0
+-----------------------------174751408527825--
+----audit_log_boundary--20150427_13:58:21--560d27e8b2be7617067c523a245ec68e--
+----audit_log_boundary--20150427_13:58:24--b60c47c8b1d531c0d91b373a8d8f21ab
+GET /admin/employee_management.php?id=98&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:58:24--b60c47c8b1d531c0d91b373a8d8f21ab--
+----audit_log_boundary--20150427_13:58:32--f36553e72bfb6fa792b31015951a6341
+POST /employee/invitation_login.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?ntyMelFLHQgq3ktIu2k2R3khS86kLtqsoC3kQIu2kDb3cSIu1cb4sSTIu2sJq
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 84
+
+ERCSESSID=efcfqtafp95tvehrjakrhg2es5&lastName=Sanders&ssn=000000003&formAction=Login
+----audit_log_boundary--20150427_13:58:32--f36553e72bfb6fa792b31015951a6341--
+----audit_log_boundary--20150427_13:58:33--31d72932586b515a83d9cd843dcf1c7b
+GET /employee/form_wizard.php?wizardAction=NEW&ERCSESSID=efcfqtafp95tvehrjakrhg2es5 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?ntyMelFLHQgq3ktIu2k2R3khS86kLtqsoC3kQIu2kDb3cSIu1cb4sSTIu2sJq
+Connection: keep-alive
+
+----audit_log_boundary--20150427_13:58:33--31d72932586b515a83d9cd843dcf1c7b--
+----audit_log_boundary--20150427_13:58:36--8826731b2caa124fce6f798b868cf1a0
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php?wizardAction=NEW&ERCSESSID=efcfqtafp95tvehrjakrhg2es5
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------5003128836952
+Content-Length: 488
+
+-----------------------------5003128836952
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------5003128836952
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------5003128836952
+Content-Disposition: form-data; name="wizardKey"
+
+Sc10Yq2T9Hyd4my
+-----------------------------5003128836952
+Content-Disposition: form-data; name="ERCSESSID"
+
+efcfqtafp95tvehrjakrhg2es5
+-----------------------------5003128836952--
+----audit_log_boundary--20150427_13:58:36--8826731b2caa124fce6f798b868cf1a0--
+----audit_log_boundary--20150427_14:00:13--9b2dc6b885ff4cb001127d213246276a
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------213921902823552
+Content-Length: 1834
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------213921902823552
+Content-Disposition: form-data; name="wizardAction"
+
+Cancel
+-----------------------------213921902823552
+Content-Disposition: form-data; name="wizardKey"
+
+Sc10Yq2T9Hyd4my
+-----------------------------213921902823552
+Content-Disposition: form-data; name="ERCSESSID"
+
+efcfqtafp95tvehrjakrhg2es5
+-----------------------------213921902823552
+Content-Disposition: form-data; name="first_name"
+
+Cal
+-----------------------------213921902823552
+Content-Disposition: form-data; name="last_name"
+
+Sanders
+-----------------------------213921902823552
+Content-Disposition: form-data; name="middle_initial"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="maiden_name"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="address"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="apt_num"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="city"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="state"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="zip_code"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="birth_date"
+
+
+-----------------------------213921902823552
+Content-Disposition: form-data; name="ssn"
+
+000000003
+-----------------------------213921902823552
+Content-Disposition: form-data; name="email"
+
+brent.flynn@peoplestrategy.com
+-----------------------------213921902823552
+Content-Disposition: form-data; name="telephone"
+
+
+-----------------------------213921902823552--
+----audit_log_boundary--20150427_14:00:13--9b2dc6b885ff4cb001127d213246276a--
+----audit_log_boundary--20150427_14:00:21--d9f6e819ab235064afafb806b5e287f1
+GET /admin/employee_list.php?&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=98&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:00:21--d9f6e819ab235064afafb806b5e287f1--
+----audit_log_boundary--20150427_14:07:23--947f3670b8f319ebaecdb6fb2e0571d9
+GET /admin/employee_management.php?id=97&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:07:23--947f3670b8f319ebaecdb6fb2e0571d9--
+----audit_log_boundary--20150427_14:07:25--4cf8b71613121908bdd6e22bf0fffc4a
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=97&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=97&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20150427_14:07:25--4cf8b71613121908bdd6e22bf0fffc4a--
+----audit_log_boundary--20150427_14:08:19--3e03c3388ce911a2cc13ba76ca6d5588
+GET /admin/employee_list.php?&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:08:19--3e03c3388ce911a2cc13ba76ca6d5588--
+----audit_log_boundary--20150427_14:08:25--cd774451aa1bc8e3febf95cf798f8df3
+GET /admin/employee_management.php?id=98&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:08:25--cd774451aa1bc8e3febf95cf798f8df3--
+----audit_log_boundary--20150427_14:08:27--76ea1bff61b9031624a54ef6b1ccab02
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=98&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=98&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20150427_14:08:27--76ea1bff61b9031624a54ef6b1ccab02--
+----audit_log_boundary--20150427_14:08:36--7a0333490249703f9bf709e0d82bd961
+POST /employee/invitation_login.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?ntyMelFLHQgq3ktIu2k2R3khS86kLtqsoC3kQIu2kDb3cSIu1cb4sSTIu2sJq
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 84
+
+ERCSESSID=v1cbrso9b21te3lr671oh3jc56&lastName=Sanders&ssn=000000003&formAction=Login
+----audit_log_boundary--20150427_14:08:36--7a0333490249703f9bf709e0d82bd961--
+----audit_log_boundary--20150427_14:08:36--1fb2a1c95493d078c213f2b1d423869a
+GET /employee/form_wizard.php?wizardAction=NEW&ERCSESSID=v1cbrso9b21te3lr671oh3jc56 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?ntyMelFLHQgq3ktIu2k2R3khS86kLtqsoC3kQIu2kDb3cSIu1cb4sSTIu2sJq
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:08:36--1fb2a1c95493d078c213f2b1d423869a--
+----audit_log_boundary--20150427_14:08:39--0ca9de8c0dca54c0b56240813d8280d0
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php?wizardAction=NEW&ERCSESSID=v1cbrso9b21te3lr671oh3jc56
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------8323229727430
+Content-Length: 484
+
+-----------------------------8323229727430
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------8323229727430
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------8323229727430
+Content-Disposition: form-data; name="wizardKey"
+
+U5Rjsq9OZ6Q
+-----------------------------8323229727430
+Content-Disposition: form-data; name="ERCSESSID"
+
+v1cbrso9b21te3lr671oh3jc56
+-----------------------------8323229727430--
+----audit_log_boundary--20150427_14:08:39--0ca9de8c0dca54c0b56240813d8280d0--
+----audit_log_boundary--20150427_14:10:03--680c3c454e272cabd938d35170ea81aa
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------153511211923598
+Content-Length: 1869
+
+-----------------------------153511211923598
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------153511211923598
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------153511211923598
+Content-Disposition: form-data; name="wizardKey"
+
+U5Rjsq9OZ6Q
+-----------------------------153511211923598
+Content-Disposition: form-data; name="ERCSESSID"
+
+v1cbrso9b21te3lr671oh3jc56
+-----------------------------153511211923598
+Content-Disposition: form-data; name="first_name"
+
+Cal
+-----------------------------153511211923598
+Content-Disposition: form-data; name="last_name"
+
+Sanders
+-----------------------------153511211923598
+Content-Disposition: form-data; name="middle_initial"
+
+
+-----------------------------153511211923598
+Content-Disposition: form-data; name="maiden_name"
+
+
+-----------------------------153511211923598
+Content-Disposition: form-data; name="address"
+
+50 Washington St.
+-----------------------------153511211923598
+Content-Disposition: form-data; name="apt_num"
+
+
+-----------------------------153511211923598
+Content-Disposition: form-data; name="city"
+
+Norwalk
+-----------------------------153511211923598
+Content-Disposition: form-data; name="state"
+
+CT
+-----------------------------153511211923598
+Content-Disposition: form-data; name="zip_code"
+
+06859
+-----------------------------153511211923598
+Content-Disposition: form-data; name="birth_date"
+
+1980-04-22
+-----------------------------153511211923598
+Content-Disposition: form-data; name="ssn"
+
+000000003
+-----------------------------153511211923598
+Content-Disposition: form-data; name="email"
+
+brent.flynn@peoplestrategy.com
+-----------------------------153511211923598
+Content-Disposition: form-data; name="telephone"
+
+
+-----------------------------153511211923598--
+----audit_log_boundary--20150427_14:10:03--680c3c454e272cabd938d35170ea81aa--
+----audit_log_boundary--20150427_14:13:13--c7394e0afa80d867a6c5651bdbbb2ae6
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------223902358614014
+Content-Length: 1357
+
+-----------------------------223902358614014
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------223902358614014
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------223902358614014
+Content-Disposition: form-data; name="wizardKey"
+
+U5Rjsq9OZ6Q
+-----------------------------223902358614014
+Content-Disposition: form-data; name="ERCSESSID"
+
+v1cbrso9b21te3lr671oh3jc56
+-----------------------------223902358614014
+Content-Disposition: form-data; name="citizen_status"
+
+6
+-----------------------------223902358614014
+Content-Disposition: form-data; name="alien_id_6"
+
+123456789
+-----------------------------223902358614014
+Content-Disposition: form-data; name="alien_id_7"
+
+
+-----------------------------223902358614014
+Content-Disposition: form-data; name="work_auth_date_7a"
+
+
+-----------------------------223902358614014
+Content-Disposition: form-data; name="i94_number"
+
+
+-----------------------------223902358614014
+Content-Disposition: form-data; name="work_auth_date_7b"
+
+
+-----------------------------223902358614014
+Content-Disposition: form-data; name="foreign_passport_number"
+
+
+-----------------------------223902358614014
+Content-Disposition: form-data; name="foreign_passport_country"
+
+
+-----------------------------223902358614014--
+----audit_log_boundary--20150427_14:13:13--c7394e0afa80d867a6c5651bdbbb2ae6--
+----audit_log_boundary--20150427_14:13:13--04b3823ac853f762684832451e71ead2
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1a&entry=1&wizardKey=U5Rjsq9OZ6Q&ERCSESSID=v1cbrso9b21te3lr671oh3jc56 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:13:13--04b3823ac853f762684832451e71ead2--
+----audit_log_boundary--20150427_14:13:18--ba53a4055d78062a301ce14088916281
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------185542362331949
+Content-Length: 1027
+
+-----------------------------185542362331949
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------185542362331949
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------185542362331949
+Content-Disposition: form-data; name="wizardKey"
+
+U5Rjsq9OZ6Q
+-----------------------------185542362331949
+Content-Disposition: form-data; name="ERCSESSID"
+
+v1cbrso9b21te3lr671oh3jc56
+-----------------------------185542362331949
+Content-Disposition: form-data; name="employee_signature"
+
+image/jsignature;base30,bO1Z278cgh1xppng942Y2bj1B1D1E1H1wkb520Z36b1Cnpkcda5_5M47646665010Z1433679dd6540Y14477aa1ugf75320_eB10Z1557adiljhg75300Y5bfn1A1C1xsrd6310Z48bhjhb51Y7l1z1K1J1O1A1vd62Z131Y4bit1x1B1F1Dsh725645_4F7568a9857100Z1345677899b600Y37597ba9864000Z45876220Y12455256242100000033422
+-----------------------------185542362331949
+Content-Disposition: form-data; name="employee_signature_date"
+
+2015-04-27 14:13:17
+-----------------------------185542362331949--
+----audit_log_boundary--20150427_14:13:18--ba53a4055d78062a301ce14088916281--
+----audit_log_boundary--20150427_14:13:22--fc68edb15726ab71297d3fdb82f8e59e
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------8869238716729
+Content-Length: 1446
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="wizardStep"
+
+4
+-----------------------------8869238716729
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------8869238716729
+Content-Disposition: form-data; name="wizardKey"
+
+U5Rjsq9OZ6Q
+-----------------------------8869238716729
+Content-Disposition: form-data; name="ERCSESSID"
+
+v1cbrso9b21te3lr671oh3jc56
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_status"
+
+0
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_first_name"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_last_name"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_street_address"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_city"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_state"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_zip_code"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_signature"
+
+
+-----------------------------8869238716729
+Content-Disposition: form-data; name="preparer_signature_date"
+
+
+-----------------------------8869238716729--
+----audit_log_boundary--20150427_14:13:22--fc68edb15726ab71297d3fdb82f8e59e--
+----audit_log_boundary--20150427_14:13:22--c3ac9bda44bed78a7441a958660d85b6
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=U5Rjsq9OZ6Q&ERCSESSID=v1cbrso9b21te3lr671oh3jc56 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:13:22--c3ac9bda44bed78a7441a958660d85b6--
+----audit_log_boundary--20150427_14:13:27--1c8cc743bb90477ea98bed333f62238c
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------1408858659708
+Content-Length: 486
+
+-----------------------------1408858659708
+Content-Disposition: form-data; name="wizardStep"
+
+5
+-----------------------------1408858659708
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------1408858659708
+Content-Disposition: form-data; name="wizardKey"
+
+U5Rjsq9OZ6Q
+-----------------------------1408858659708
+Content-Disposition: form-data; name="ERCSESSID"
+
+v1cbrso9b21te3lr671oh3jc56
+-----------------------------1408858659708--
+----audit_log_boundary--20150427_14:13:27--1c8cc743bb90477ea98bed333f62238c--
+----audit_log_boundary--20150427_14:13:32--b5b9d93977290613cd960f3c86b5067d
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=98&efid=98&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:13:32--b5b9d93977290613cd960f3c86b5067d--
+----audit_log_boundary--20150427_14:13:34--18ff1ff772d7b4a67861e4c25221674e
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:13:34--18ff1ff772d7b4a67861e4c25221674e--
+----audit_log_boundary--20150427_14:14:18--ff668bfe243fc561f5f9ec959e42e69c
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------22685775632045
+Content-Length: 1346
+
+-----------------------------22685775632045
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------22685775632045
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------22685775632045
+Content-Disposition: form-data; name="wizardKey"
+
+0g05B8LIPH1J31
+-----------------------------22685775632045
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------22685775632045
+Content-Disposition: form-data; name="firstName"
+
+Alea
+-----------------------------22685775632045
+Content-Disposition: form-data; name="lastName"
+
+Whitaker
+-----------------------------22685775632045
+Content-Disposition: form-data; name="hireDate"
+
+2015-04-27
+-----------------------------22685775632045
+Content-Disposition: form-data; name="ssn"
+
+000000007
+-----------------------------22685775632045
+Content-Disposition: form-data; name="locationId"
+
+8
+-----------------------------22685775632045
+Content-Disposition: form-data; name="positionId"
+
+2
+-----------------------------22685775632045
+Content-Disposition: form-data; name="phoneNumber"
+
+
+-----------------------------22685775632045
+Content-Disposition: form-data; name="emailAddress"
+
+brent.flynn@peoplestrategy.com
+-----------------------------22685775632045--
+----audit_log_boundary--20150427_14:14:18--ff668bfe243fc561f5f9ec959e42e69c--
+----audit_log_boundary--20150427_14:14:21--563f414759551fd58feb872fd2249099
+POST /admin/new_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------1361486839569
+Content-Length: 593
+
+-----------------------------1361486839569
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------1361486839569
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------1361486839569
+Content-Disposition: form-data; name="wizardKey"
+
+0g05B8LIPH1J31
+-----------------------------1361486839569
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------1361486839569
+Content-Disposition: form-data; name="wizardObjectId"
+
+0
+-----------------------------1361486839569--
+----audit_log_boundary--20150427_14:14:21--563f414759551fd58feb872fd2249099--
+----audit_log_boundary--20150427_14:14:24--60aeeb1262378421198b427a32b75298
+GET /admin/employee_management.php?id=99&dTab=forms&formSelect=1&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/new_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:14:24--60aeeb1262378421198b427a32b75298--
+----audit_log_boundary--20150427_14:14:27--fa6fa0078134f18fcfb39fe41316a98a
+GET /admin/form_wizard.php?wizardAction=ADD&eid=99&fid=5&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=99&dTab=forms&formSelect=1&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:14:27--fa6fa0078134f18fcfb39fe41316a98a--
+----audit_log_boundary--20150427_14:14:29--0fcb4532c223b3bfa60cc9d44da53327
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?wizardAction=ADD&eid=99&fid=5&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------26156248822263
+Content-Length: 598
+
+-----------------------------26156248822263
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------26156248822263
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------26156248822263
+Content-Disposition: form-data; name="wizardKey"
+
+W6f4w09xW60pH
+-----------------------------26156248822263
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------26156248822263
+Content-Disposition: form-data; name="wizardObjectId"
+
+0
+-----------------------------26156248822263--
+----audit_log_boundary--20150427_14:14:29--0fcb4532c223b3bfa60cc9d44da53327--
+----audit_log_boundary--20150427_14:14:32--72172a638cacb868e2a48edc584eae48
+GET /admin/employee_management.php?id=99&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:14:32--72172a638cacb868e2a48edc584eae48--
+----audit_log_boundary--20150427_14:14:41--ee124d023fb2295b6f3c1a80d698807a
+POST /employee/invitation_login.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?wpVMfKtHcoeA3h1RI2hkL3Ux4j6UBg4T3h3T4RI1Tg3sfRI2sz34y4ZRI2ytt
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 85
+
+ERCSESSID=5gali7ugf5qt45edj606cif552&lastName=Whitaker&ssn=000000007&formAction=Login
+----audit_log_boundary--20150427_14:14:41--ee124d023fb2295b6f3c1a80d698807a--
+----audit_log_boundary--20150427_14:14:41--a27e2fdcf82163357d66e420b98e77df
+GET /employee/form_wizard.php?wizardAction=NEW&ERCSESSID=5gali7ugf5qt45edj606cif552 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/invitation_login.php?wpVMfKtHcoeA3h1RI2hkL3Ux4j6UBg4T3h3T4RI1Tg3sfRI2sz34y4ZRI2ytt
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:14:41--a27e2fdcf82163357d66e420b98e77df--
+----audit_log_boundary--20150427_14:14:44--6f19fd43b56eb96b1e34039890a5415d
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php?wizardAction=NEW&ERCSESSID=5gali7ugf5qt45edj606cif552
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------19070545324357
+Content-Length: 491
+
+-----------------------------19070545324357
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------19070545324357
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------19070545324357
+Content-Disposition: form-data; name="wizardKey"
+
+cZ1DQAck63997
+-----------------------------19070545324357
+Content-Disposition: form-data; name="ERCSESSID"
+
+5gali7ugf5qt45edj606cif552
+-----------------------------19070545324357--
+----audit_log_boundary--20150427_14:14:44--6f19fd43b56eb96b1e34039890a5415d--
+----audit_log_boundary--20150427_14:15:35--d813ee4d6dbc88613078eb4dc32d1441
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------295702014727257
+Content-Length: 1873
+
+-----------------------------295702014727257
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------295702014727257
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------295702014727257
+Content-Disposition: form-data; name="wizardKey"
+
+cZ1DQAck63997
+-----------------------------295702014727257
+Content-Disposition: form-data; name="ERCSESSID"
+
+5gali7ugf5qt45edj606cif552
+-----------------------------295702014727257
+Content-Disposition: form-data; name="first_name"
+
+Alea
+-----------------------------295702014727257
+Content-Disposition: form-data; name="last_name"
+
+Whitaker
+-----------------------------295702014727257
+Content-Disposition: form-data; name="middle_initial"
+
+
+-----------------------------295702014727257
+Content-Disposition: form-data; name="maiden_name"
+
+
+-----------------------------295702014727257
+Content-Disposition: form-data; name="address"
+
+50 Washington St.
+-----------------------------295702014727257
+Content-Disposition: form-data; name="apt_num"
+
+
+-----------------------------295702014727257
+Content-Disposition: form-data; name="city"
+
+Norwalk
+-----------------------------295702014727257
+Content-Disposition: form-data; name="state"
+
+CT
+-----------------------------295702014727257
+Content-Disposition: form-data; name="zip_code"
+
+06859
+-----------------------------295702014727257
+Content-Disposition: form-data; name="birth_date"
+
+1954-11-05
+-----------------------------295702014727257
+Content-Disposition: form-data; name="ssn"
+
+000000007
+-----------------------------295702014727257
+Content-Disposition: form-data; name="email"
+
+brent.flynn@peoplestrategy.com
+-----------------------------295702014727257
+Content-Disposition: form-data; name="telephone"
+
+
+-----------------------------295702014727257--
+----audit_log_boundary--20150427_14:15:35--d813ee4d6dbc88613078eb4dc32d1441--
+----audit_log_boundary--20150427_14:15:55--9b2e523c6ab8492f59a45efbd0834c1e
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------27789353331876
+Content-Length: 1346
+
+-----------------------------27789353331876
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------27789353331876
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------27789353331876
+Content-Disposition: form-data; name="wizardKey"
+
+cZ1DQAck63997
+-----------------------------27789353331876
+Content-Disposition: form-data; name="ERCSESSID"
+
+5gali7ugf5qt45edj606cif552
+-----------------------------27789353331876
+Content-Disposition: form-data; name="citizen_status"
+
+6
+-----------------------------27789353331876
+Content-Disposition: form-data; name="alien_id_6"
+
+965788697
+-----------------------------27789353331876
+Content-Disposition: form-data; name="alien_id_7"
+
+
+-----------------------------27789353331876
+Content-Disposition: form-data; name="work_auth_date_7a"
+
+
+-----------------------------27789353331876
+Content-Disposition: form-data; name="i94_number"
+
+
+-----------------------------27789353331876
+Content-Disposition: form-data; name="work_auth_date_7b"
+
+
+-----------------------------27789353331876
+Content-Disposition: form-data; name="foreign_passport_number"
+
+
+-----------------------------27789353331876
+Content-Disposition: form-data; name="foreign_passport_country"
+
+
+-----------------------------27789353331876--
+----audit_log_boundary--20150427_14:15:55--9b2e523c6ab8492f59a45efbd0834c1e--
+----audit_log_boundary--20150427_14:15:56--fa0bb1646905eaa41694333e18651e3f
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1a&entry=1&wizardKey=cZ1DQAck63997&ERCSESSID=5gali7ugf5qt45edj606cif552 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:15:56--fa0bb1646905eaa41694333e18651e3f--
+----audit_log_boundary--20150427_14:16:03--f2941474e9de4a3d2a6460cdee3bedf6
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------7721784947
+Content-Length: 1057
+
+-----------------------------7721784947
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------7721784947
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------7721784947
+Content-Disposition: form-data; name="wizardKey"
+
+cZ1DQAck63997
+-----------------------------7721784947
+Content-Disposition: form-data; name="ERCSESSID"
+
+5gali7ugf5qt45edj606cif552
+-----------------------------7721784947
+Content-Disposition: form-data; name="employee_signature"
+
+image/jsignature;base30,2X74687676423210Z1000Y3564568799776444_6F22463456344545Z988999c7945543413211_8K95756453200Z17chkopsoec420Y6bk1w1I1F1H1Gtpf953100Z58bimnmda5Y989642_3V02545576796a89c7400Z246888dcgeba5220Y2454566b97dfieb76Z568543_aA542Z25Y3a_6C01453Z36_eM843200Z1110Y4aiokhffecb63Z473Ydl1w1B1y1B1xhb3344_5H023959644523431000Z22332Y22210Z4686841Y2321
+-----------------------------7721784947
+Content-Disposition: form-data; name="employee_signature_date"
+
+2015-04-27 14:16:01
+-----------------------------7721784947--
+----audit_log_boundary--20150427_14:16:03--f2941474e9de4a3d2a6460cdee3bedf6--
+----audit_log_boundary--20150427_14:16:06--f60f87b0583030ef2951c02571031370
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------168559632316
+Content-Length: 1434
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="wizardStep"
+
+4
+-----------------------------168559632316
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------168559632316
+Content-Disposition: form-data; name="wizardKey"
+
+cZ1DQAck63997
+-----------------------------168559632316
+Content-Disposition: form-data; name="ERCSESSID"
+
+5gali7ugf5qt45edj606cif552
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_status"
+
+0
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_first_name"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_last_name"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_street_address"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_city"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_state"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_zip_code"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_signature"
+
+
+-----------------------------168559632316
+Content-Disposition: form-data; name="preparer_signature_date"
+
+
+-----------------------------168559632316--
+----audit_log_boundary--20150427_14:16:06--f60f87b0583030ef2951c02571031370--
+----audit_log_boundary--20150427_14:16:07--57cd54f0abc5e37011bf90013e3cfc33
+GET /employee/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=cZ1DQAck63997&ERCSESSID=5gali7ugf5qt45edj606cif552 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:16:07--57cd54f0abc5e37011bf90013e3cfc33--
+----audit_log_boundary--20150427_14:16:10--5fe6f6eee7bc5c507f316c71a7619fd7
+POST /employee/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/employee/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------15799846417958
+Content-Length: 493
+
+-----------------------------15799846417958
+Content-Disposition: form-data; name="wizardStep"
+
+5
+-----------------------------15799846417958
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------15799846417958
+Content-Disposition: form-data; name="wizardKey"
+
+cZ1DQAck63997
+-----------------------------15799846417958
+Content-Disposition: form-data; name="ERCSESSID"
+
+5gali7ugf5qt45edj606cif552
+-----------------------------15799846417958--
+----audit_log_boundary--20150427_14:16:10--5fe6f6eee7bc5c507f316c71a7619fd7--
+----audit_log_boundary--20150427_14:16:17--346109c37158a0a469d9f413111f8252
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=99&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:16:17--346109c37158a0a469d9f413111f8252--
+----audit_log_boundary--20150427_14:16:19--8aae504a55909092bf41655cefa1c2c5
+GET /admin/form_wizard.php?efid=99&fsid=2&wizardAction=NEW&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:16:19--8aae504a55909092bf41655cefa1c2c5--
+----audit_log_boundary--20150427_14:16:20--221f704e45f599b10ccbc041b2899af0
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=Isk437xeFslJ8rH&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?efid=99&fsid=2&wizardAction=NEW&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:16:20--221f704e45f599b10ccbc041b2899af0--
+----audit_log_boundary--20150427_14:16:23--dd1294827a2e88354e87d1431a617477
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php?efid=99&fsid=2&wizardAction=NEW&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------122782150015738
+Content-Length: 498
+
+-----------------------------122782150015738
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------122782150015738
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------122782150015738
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------122782150015738
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------122782150015738--
+----audit_log_boundary--20150427_14:16:23--dd1294827a2e88354e87d1431a617477--
+----audit_log_boundary--20150427_14:16:31--5bb68fd52fbe322dd05ec46a009f865c
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------21123266993060
+Content-Length: 702
+
+-----------------------------21123266993060
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------21123266993060
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------21123266993060
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------21123266993060
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------21123266993060
+Content-Disposition: form-data; name="listSelect"
+
+A
+-----------------------------21123266993060
+Content-Disposition: form-data; name="ListA_Document_ID"
+
+3
+-----------------------------21123266993060--
+----audit_log_boundary--20150427_14:16:31--5bb68fd52fbe322dd05ec46a009f865c--
+----audit_log_boundary--20150427_14:16:41--294ba71cf1b798152975479a305371a8
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------1769259686173
+Content-Length: 1036
+
+-----------------------------1769259686173
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------1769259686173
+Content-Disposition: form-data; name="wizardAction"
+
+Previous
+-----------------------------1769259686173
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------1769259686173
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------1769259686173
+Content-Disposition: form-data; name="ListA_Issuing_Authority"
+
+
+-----------------------------1769259686173
+Content-Disposition: form-data; name="Passport_Number"
+
+
+-----------------------------1769259686173
+Content-Disposition: form-data; name="Passport_Expiration"
+
+
+-----------------------------1769259686173
+Content-Disposition: form-data; name="I551_Stamp_Expiration"
+
+
+-----------------------------1769259686173
+Content-Disposition: form-data; name="I551_Stamp_Issue_Date"
+
+
+-----------------------------1769259686173--
+----audit_log_boundary--20150427_14:16:41--294ba71cf1b798152975479a305371a8--
+----audit_log_boundary--20150427_14:16:51--2b19df6e80fd4b56112d17d3817b0276
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------81871858928215
+Content-Length: 702
+
+-----------------------------81871858928215
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------81871858928215
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------81871858928215
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------81871858928215
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------81871858928215
+Content-Disposition: form-data; name="listSelect"
+
+A
+-----------------------------81871858928215
+Content-Disposition: form-data; name="ListA_Document_ID"
+
+3
+-----------------------------81871858928215--
+----audit_log_boundary--20150427_14:16:51--2b19df6e80fd4b56112d17d3817b0276--
+----audit_log_boundary--20150427_14:17:44--e0478d169343822bebab87d1eff86109
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------15958278778042
+Content-Length: 1199
+
+-----------------------------15958278778042
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------15958278778042
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------15958278778042
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------15958278778042
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------15958278778042
+Content-Disposition: form-data; name="ListA_Issuing_Authority"
+
+Foreign Passport Office
+-----------------------------15958278778042
+Content-Disposition: form-data; name="Passport_Number"
+
+WHATEVER
+-----------------------------15958278778042
+Content-Disposition: form-data; name="Passport_Expiration"
+
+2014-12-03
+-----------------------------15958278778042
+Content-Disposition: form-data; name="I551_Stamp_Expiration"
+
+
+-----------------------------15958278778042
+Content-Disposition: form-data; name="hasI551ExpDate"
+
+no
+-----------------------------15958278778042
+Content-Disposition: form-data; name="I551_Stamp_Issue_Date"
+
+2014-07-21
+-----------------------------15958278778042--
+----audit_log_boundary--20150427_14:17:44--e0478d169343822bebab87d1eff86109--
+----audit_log_boundary--20150427_14:20:30--391fe29826ed56ebb9adc2402e242db1
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------154761484011316
+Content-Length: 1210
+
+-----------------------------154761484011316
+Content-Disposition: form-data; name="wizardStep"
+
+2
+-----------------------------154761484011316
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------154761484011316
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------154761484011316
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------154761484011316
+Content-Disposition: form-data; name="ListA_Issuing_Authority"
+
+Foreign Passport Office
+-----------------------------154761484011316
+Content-Disposition: form-data; name="Passport_Number"
+
+WHATEVER
+-----------------------------154761484011316
+Content-Disposition: form-data; name="Passport_Expiration"
+
+2015-12-03
+-----------------------------154761484011316
+Content-Disposition: form-data; name="I551_Stamp_Expiration"
+
+
+-----------------------------154761484011316
+Content-Disposition: form-data; name="hasI551ExpDate"
+
+no
+-----------------------------154761484011316
+Content-Disposition: form-data; name="I551_Stamp_Issue_Date"
+
+2014-07-21
+-----------------------------154761484011316--
+----audit_log_boundary--20150427_14:20:30--391fe29826ed56ebb9adc2402e242db1--
+----audit_log_boundary--20150427_14:20:42--c9b72d0a1bd225384a17edd48ced8ca5
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------6934112315801
+Content-Length: 2140
+
+-----------------------------6934112315801
+Content-Disposition: form-data; name="wizardStep"
+
+3
+-----------------------------6934112315801
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------6934112315801
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------6934112315801
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------6934112315801
+Content-Disposition: form-data; name="hire_date"
+
+2015-04-27
+-----------------------------6934112315801
+Content-Disposition: form-data; name="hiring_manager_first_name"
+
+Brent
+-----------------------------6934112315801
+Content-Disposition: form-data; name="hiring_manager_last_name"
+
+Flynn
+-----------------------------6934112315801
+Content-Disposition: form-data; name="hiring_manager_title"
+
+Test Title
+-----------------------------6934112315801
+Content-Disposition: form-data; name="company_name"
+
+Test Organization
+-----------------------------6934112315801
+Content-Disposition: form-data; name="location_street_address"
+
+50 Washington St.
+-----------------------------6934112315801
+Content-Disposition: form-data; name="location_city"
+
+Norwalk
+-----------------------------6934112315801
+Content-Disposition: form-data; name="location_state"
+
+CT
+-----------------------------6934112315801
+Content-Disposition: form-data; name="location_zip_code"
+
+06854
+-----------------------------6934112315801
+Content-Disposition: form-data; name="hiring_manager_signature"
+
+image/jsignature;base30,5Q5534320Z1665210Y15799a7630_6F0024546431Z144669787453Y46_8L7753544321300Z346cbedcb9642100Y259acehifca652310Z264421Y249ceffgbbaa75544_5x0132354564795876562000Z25254688656331100Y32434489445476564400Z3254532111_eL652110Z235577864Y8fnnpkde866412212211333347benp1A1y1y1wqc97543222_5B463565a67555531Z87c7662100Y3548455574969452200Z7bcdcc4300Y23433
+-----------------------------6934112315801
+Content-Disposition: form-data; name="hiring_manager_signature_date"
+
+2015-04-27 14:20:40
+-----------------------------6934112315801--
+----audit_log_boundary--20150427_14:20:42--c9b72d0a1bd225384a17edd48ced8ca5--
+----audit_log_boundary--20150427_14:20:42--b2518a3899ca85b212be9cdacb93641d
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=2&entry=1&wizardKey=Isk437xeFslJ8rH&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:20:42--b2518a3899ca85b212be9cdacb93641d--
+----audit_log_boundary--20150427_14:20:51--90b4bd2fc2cd38d395db512a2a4fcee3
+POST /admin/form_wizard.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=---------------------------7822384316998
+Content-Length: 490
+
+-----------------------------7822384316998
+Content-Disposition: form-data; name="wizardStep"
+
+4
+-----------------------------7822384316998
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------7822384316998
+Content-Disposition: form-data; name="wizardKey"
+
+Isk437xeFslJ8rH
+-----------------------------7822384316998
+Content-Disposition: form-data; name="ERCSESSID"
+
+rq72t66ugartoukmngob227ai6
+-----------------------------7822384316998--
+----audit_log_boundary--20150427_14:20:51--90b4bd2fc2cd38d395db512a2a4fcee3--
+----audit_log_boundary--20150427_14:20:52--cd82c09b27c6b917f71e05a0545b37dc
+GET /admin/form_wizard.php?wizardAction=previewFormImage&section=2&entry=1&wizardKey=Isk437xeFslJ8rH&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:20:52--cd82c09b27c6b917f71e05a0545b37dc--
+----audit_log_boundary--20150427_14:20:55--dcf0bbcf2cf943b0178ac1043b2f3d63
+GET /admin/employee_management.php?id=99&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/form_wizard.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:20:55--dcf0bbcf2cf943b0178ac1043b2f3d63--
+----audit_log_boundary--20150427_14:20:58--8a0cddadda3a8b8b2a17d44855618544
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=99&dTab=forms&ERCSESSID=rq72t66ugartoukmngob227ai6
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&action=evaluate&startEVerify=YES
+----audit_log_boundary--20150427_14:20:58--8a0cddadda3a8b8b2a17d44855618544--
+----audit_log_boundary--20150427_14:21:30--5be5107942daa4f8cf9d60afbe49bae9
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 94
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&action=evaluate&startEVerify=YES
+----audit_log_boundary--20150427_14:21:30--5be5107942daa4f8cf9d60afbe49bae9--
+----audit_log_boundary--20150427_14:22:10--b148ccbba204b138ed2c3c70853a8c4c
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 308
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&action=evaluate&submitResubmittal=YES&FirstName=Alea&LastName=Whitaker&SocialSecurityNbr=000000007&BirthDate=1954-11-05&dup_case_continue=woc&dup_case_continue_reason=OTHER&dup_case_continue_reason_text=Testing+same+case+again&CurrentlyEmployed=U
+----audit_log_boundary--20150427_14:22:10--b148ccbba204b138ed2c3c70853a8c4c--
+----audit_log_boundary--20150427_14:22:29--c78fbd243ce847e9ac0cec0ff7cd57bd
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 93
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&action=evaluate&DHSReVerify=YES
+----audit_log_boundary--20150427_14:22:29--c78fbd243ce847e9ac0cec0ff7cd57bd--
+----audit_log_boundary--20150427_14:25:17--123bdce0c8cbb06b76c49ea7db240a3a
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:25:17--123bdce0c8cbb06b76c49ea7db240a3a--
+----audit_log_boundary--20150427_14:25:48--61b804714ee8bc1f31d2a1ad1c768aac
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:25:48--61b804714ee8bc1f31d2a1ad1c768aac--
+----audit_log_boundary--20150427_14:27:17--8fbcb2af43e544b9676b2ddb7d0b3993
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:27:17--8fbcb2af43e544b9676b2ddb7d0b3993--
+----audit_log_boundary--20150427_14:27:22--4b3905ebb876c706d1d1139c249b636b
+GET /admin/download_everify_pdf.php?efid=99&miid=1&lc=&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:27:22--4b3905ebb876c706d1d1139c249b636b--
+----audit_log_boundary--20150427_14:30:21--766dfc7ae5bc2e67b7925467b462a30a
+GET /admin/download_everify_pdf.php?efid=99&miid=1&lc=&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:30:21--766dfc7ae5bc2e67b7925467b462a30a--
+----audit_log_boundary--20150427_14:31:52--a46b522a3c2ef4a441f2ccf29dbe704f
+GET /admin/download_everify_pdf.php?efid=99&miid=1&lc=&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:31:52--a46b522a3c2ef4a441f2ccf29dbe704f--
+----audit_log_boundary--20150427_14:33:28--658447a7aea756d0b278593309023ce5
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:33:28--658447a7aea756d0b278593309023ce5--
+----audit_log_boundary--20150427_14:33:47--ab75884213807e0fe3e0a4d2f98b8ca9
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:33:47--ab75884213807e0fe3e0a4d2f98b8ca9--
+----audit_log_boundary--20150427_14:36:00--c676afb5707e793388c5ca846ea80a55
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:36:00--c676afb5707e793388c5ca846ea80a55--
+----audit_log_boundary--20150427_14:39:52--6377ce1566ffae043215d218ba0e7041
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:39:52--6377ce1566ffae043215d218ba0e7041--
+----audit_log_boundary--20150427_14:40:05--9ccc4842d2737873eaea390031b7d598
+GET /admin/download_everify_pdf.php?efid=99&miid=5&lc=DHS_FAN&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:40:05--9ccc4842d2737873eaea390031b7d598--
+----audit_log_boundary--20150427_14:40:49--f0a8f175d556ad038a3b013b15600500
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 87
+
+ERCSESSID=rq72t66ugartoukmngob227ai6&id=99&efid=99&dTab=forms&buttonAction=&formAction=
+----audit_log_boundary--20150427_14:40:49--f0a8f175d556ad038a3b013b15600500--
+----audit_log_boundary--20150427_14:40:52--09b236969aa2c1140db2b422af20bd03
+GET /admin/download_everify_pdf.php?efid=99&miid=5&lc=DHS_FAN&ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:40:52--09b236969aa2c1140db2b422af20bd03--
+----audit_log_boundary--20150427_14:43:40--dde4cf3715f19db9d8d27e7db832c43f
+GET /admin/sign_off.php?ERCSESSID=rq72t66ugartoukmngob227ai6 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:43:40--dde4cf3715f19db9d8d27e7db832c43f--
+----audit_log_boundary--20150427_14:44:22--a2098dd83da342eaaff53c91790b889e
+GET /admin/dashboard.php?ERCSESSID=s5opf5shs1o13i07s75vir3s63 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=s5opf5shs1o13i07s75vir3s63
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:44:22--a2098dd83da342eaaff53c91790b889e--
+----audit_log_boundary--20150427_14:44:27--e925ae90ff59ff03ac78b29aeb553e3e
+GET /admin/employee_list.php?&ERCSESSID=s5opf5shs1o13i07s75vir3s63 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/dashboard.php?ERCSESSID=s5opf5shs1o13i07s75vir3s63
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:44:27--e925ae90ff59ff03ac78b29aeb553e3e--
+----audit_log_boundary--20150427_14:44:29--e1dfdf60a8c2fc55964b7bee881e3ff3
+GET /admin/employee_management.php?id=99&ERCSESSID=s5opf5shs1o13i07s75vir3s63 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_list.php?&ERCSESSID=s5opf5shs1o13i07s75vir3s63
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:44:29--e1dfdf60a8c2fc55964b7bee881e3ff3--
+----audit_log_boundary--20150427_14:44:31--7f3305f516b397655a4df6fb605ab7a5
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php?id=99&ERCSESSID=s5opf5shs1o13i07s75vir3s63
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 73
+
+ERCSESSID=s5opf5shs1o13i07s75vir3s63&id=99&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20150427_14:44:31--7f3305f516b397655a4df6fb605ab7a5--
+----audit_log_boundary--20150427_14:44:42--90553f5d8d9b72dbcb46b4b645c8e58c
+POST /admin/employee_management.php HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 131
+
+ERCSESSID=s5opf5shs1o13i07s75vir3s63&id=99&efid=99&dTab=forms&action=close&contests_DHS_TNC=NO&CurrentlyEmployed=N&CloseStatus=TERM
+----audit_log_boundary--20150427_14:44:42--90553f5d8d9b72dbcb46b4b645c8e58c--
+----audit_log_boundary--20150427_14:44:51--2506019d92d8b41676d0264d832c3648
+GET /admin/sign_off.php?ERCSESSID=s5opf5shs1o13i07s75vir3s63 HTTP/1.1
+Host: i9.fedora.erc.local
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://i9.fedora.erc.local/admin/employee_management.php
+Connection: keep-alive
+
+----audit_log_boundary--20150427_14:44:51--2506019d92d8b41676d0264d832c3648--

@@ -1,0 +1,13 @@
+----audit_log_boundary--20111201_17:37:46--7d765598c8920120815009a994dcf15f
+GET /admin/dashboard.php?ERCSESSID=1qa5qdlieu2299h4l8jkcn86m7 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=1qa5qdlieu2299h4l8jkcn86m7
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utmc=99073226; __utma=99073226.1848334908.1322492078.1322756072.1322772168.7; __utmz=99073226.1322772168.7.5.utmcsr=erc-qa.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_list.php
+
+----audit_log_boundary--20111201_17:37:46--7d765598c8920120815009a994dcf15f--

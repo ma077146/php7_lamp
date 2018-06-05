@@ -1,0 +1,16 @@
+2012-04-04 11:46:33: /websites/selectech_6.3/daemons/batch_payroll_export.php - Enterprise: clearstar-qa (16); Client: BeavEx QA (11)
+2012-04-04 11:46:33: Applications to be processed: 299, 300, 301
+2012-04-04 11:46:34: Payroll Export (NewHire_Export_Handler_ADPCsvFtp) - Started
+2012-04-04 11:46:34:  (NewHire_Export_Handler_ADPCsvFtp) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_04/EMP8XPB4.csv has been successfully placed on svr-ftp.ercdataplus.com as EMP8XPB4.csv for user BeavexFTP ( Attempt 1 ).
+2012-04-04 11:46:34: Payroll Export (NewHire_Export_Handler_ADPCsvFtp) - Successfully Completed
+2012-04-04 11:46:34: Output Report (NewHire_Export_Handler_EmailAuditPdf) - Started
+2012-04-04 11:46:34:  (NewHire_Export_Handler_EmailAuditPdf) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_04/2012_04_04_email_confirmation.pdf has been successfully emailed to debbie.flynn@ercdataplus.com, debflynn@gmail.com, ellen.hanington@ercdataplus.com
+2012-04-04 11:46:34: Output Report (NewHire_Export_Handler_EmailAuditPdf) - Successfully Completed
+2012-04-04 16:10:08: /websites/selectech_6.3/daemons/batch_payroll_export.php - Enterprise: clearstar-qa (16); Client: BeavEx QA (11)
+2012-04-04 16:10:08: Applications to be processed: 304
+2012-04-04 16:10:08: Payroll Export (NewHire_Export_Handler_ADPCsvFtp) - Started
+2012-04-04 16:10:13:  (NewHire_Export_Handler_ADPCsvFtp) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_04/EMP8XPB4.csv has been successfully placed on svr-ftp.ercdataplus.com as EMP8XPB4.csv for user BeavexFTP ( Attempt 1 ).
+2012-04-04 16:10:13: Payroll Export (NewHire_Export_Handler_ADPCsvFtp) - Successfully Completed
+2012-04-04 16:10:13: Output Report (NewHire_Export_Handler_EmailAuditPdf) - Started
+2012-04-04 16:10:13:  (NewHire_Export_Handler_EmailAuditPdf) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_04/2012_04_04_email_confirmation.pdf has been successfully emailed to debbie.flynn@ercdataplus.com, debflynn@gmail.com, ellen.hanington@ercdataplus.com
+2012-04-04 16:10:13: Output Report (NewHire_Export_Handler_EmailAuditPdf) - Successfully Completed

@@ -1,0 +1,40 @@
+2012/08/03 14:38:08 ~ firstword xml parsing failed
+CLIENT_NAME = > BeavEx QA 
+
+ISSN = > 123456789 
+
+BDATE = > 1954-02-27 
+
+EEOCODE = > 255 
+
+IUSER = > 00000 
+
+GENDER = >  
+
+POSITION = >  
+
+EXEMPT = > Exempt 
+
+LOC_NAME = > East Rutherford, NJ 
+
+LOCSTATE = > NJ 
+
+FULLPART = > F 
+
+IPROP = > 0004205 
+
+HDATE = > 072012 
+
+SYSTEM = > Firstword 
+
+REHIRE = > Y 
+
+YEARS_EXP = > 00 
+
+2012/08/03 16:20:58 ~ firstword response success
+iprop = > 0004205 
+
+application_id = > 444 
+
+reservation_number = > 159058 
+

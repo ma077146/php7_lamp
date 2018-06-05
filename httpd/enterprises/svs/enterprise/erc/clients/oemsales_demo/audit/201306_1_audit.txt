@@ -1,0 +1,51 @@
+----audit_log_boundary--20130626_12:00:00--8df14b3d94b29cf127334d4acd1a185d
+POST /integration/gateway.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://ebinvestigations-qa.ercdataplus.com/jobseeker/apply.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 391
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1371678733.1372105534.23; __utmz=99073226.1372105534.23.20.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; SESS68a6869fcb59422ccb59998d2d57d6c5=sgju8n32lr5dtnmggg8jpk2vv7
+
+ERCSESSID=bi8vnjr6mqni6jqo98aejmohg1&SessionKey=As%291w1J@n%24L&InterfaceMethod=transfer&EmployeeFormId=1EB7F9KNGOQBQCVYMW6F&ReturnUrl=http%3A%2F%2Febinvestigations-qa.ercdataplus.com%2Fjobseeker%2Fapply.php&ReturnParams=ERCSESSID%3Detd5nb4imok5fvos02t3qhphh6%26reentryKey%3D5SqRs3KG2t%26i9Action%3DtransferBack&Emp_Address=1+Main&Emp_City=Norwalk&Emp_State=CT&Emp_ZipCode=06854&Language=eng
+----audit_log_boundary--20130626_12:00:00--8df14b3d94b29cf127334d4acd1a185d--
+----audit_log_boundary--20130626_12:00:06--736f93d9a44b2c5fc5dc977cf811f27b
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/gateway.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 93
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1371678733.1372105534.23; __utmz=99073226.1372105534.23.20.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; SESS68a6869fcb59422ccb59998d2d57d6c5=sgju8n32lr5dtnmggg8jpk2vv7
+
+wizardStep=0&wizardKey=JRoJ10zkJpH7jCQ&ERCSESSID=bi8vnjr6mqni6jqo98aejmohg1&wizardAction=Next
+----audit_log_boundary--20130626_12:00:06--736f93d9a44b2c5fc5dc977cf811f27b--
+----audit_log_boundary--20130626_12:00:12--1c89aff70e53d6c1f03648c8026459aa
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 347
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1371678733.1372105534.23; __utmz=99073226.1372105534.23.20.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; SESS68a6869fcb59422ccb59998d2d57d6c5=sgju8n32lr5dtnmggg8jpk2vv7
+
+wizardStep=1&wizardKey=JRoJ10zkJpH7jCQ&ERCSESSID=bi8vnjr6mqni6jqo98aejmohg1&first_name=David&last_name=Schramm&middle_initial=&maiden_name=&address=1+Main&apt_num=&city=Norwalk&state=CT&zip_code=06854&birth_date_month=0&birth_date_day=0&birth_date_year=0&ssn=201252102&email=&telephone_area=&telephone_local1=&telephone_local2=&wizardAction=Cancel
+----audit_log_boundary--20130626_12:00:12--1c89aff70e53d6c1f03648c8026459aa--

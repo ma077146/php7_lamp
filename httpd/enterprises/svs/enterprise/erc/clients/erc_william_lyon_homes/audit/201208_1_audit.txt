@@ -1,0 +1,224 @@
+----audit_log_boundary--20120822_14:51:37--e5b27106d266d7ac23b760a69690c9e3
+POST /integration/gateway.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://erc-qa.ercdataplus.com/jobseeker/apply.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 371
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+ERCSESSID=4olcpi16i9sviov59fb13i7cs6&SessionKey=93%7BsJXhA2B&InterfaceMethod=transfer&EmployeeFormId=1EB44BTHLGWOIKBXOY10&ReturnUrl=https%3A%2F%2Ferc-qa.ercdataplus.com%2Fjobseeker%2Fapply.php&ReturnParams=ERCSESSID%3Dh5i9qeq628ltk2qsrpu25qjdu2%26reentryKey%3D8YJRpP4Zl8%26i9Action%3DtransferBack&Emp_Address=1&Emp_City=Norwalk&Emp_State=CT&Emp_ZipCode=06854&Language=eng
+----audit_log_boundary--20120822_14:51:37--e5b27106d266d7ac23b760a69690c9e3--
+----audit_log_boundary--20120822_14:52:20--c916c912b8cf086ae5fee4ac1e6d1c55
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/gateway.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 89
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=0&wizardKey=wI4ndTl7Xnk&ERCSESSID=4olcpi16i9sviov59fb13i7cs6&wizardAction=Next
+----audit_log_boundary--20120822_14:52:20--c916c912b8cf086ae5fee4ac1e6d1c55--
+----audit_log_boundary--20120822_14:52:32--40814a899004d5d2ed4a6fe354c61482
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 283
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=1&wizardKey=wI4ndTl7Xnk&ERCSESSID=4olcpi16i9sviov59fb13i7cs6&first_name=Greg&last_name=Smilthson&middle_initial=&maiden_name=&address=1&apt_num=&city=Norwalk&state=CT&zip_code=06854&birth_date_month=12&birth_date_day=29&birth_date_year=1972&ssn=123123123&wizardAction=Next
+----audit_log_boundary--20120822_14:52:32--40814a899004d5d2ed4a6fe354c61482--
+----audit_log_boundary--20120822_14:52:45--9d92e012537833b7a95e80e1d762f375
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 196
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=2&wizardKey=wI4ndTl7Xnk&ERCSESSID=4olcpi16i9sviov59fb13i7cs6&citizen_status=4&alien_id_6=&alien_id_7=&work_auth_date_month=0&work_auth_date_day=0&work_auth_date_year=0&wizardAction=Next
+----audit_log_boundary--20120822_14:52:45--9d92e012537833b7a95e80e1d762f375--
+----audit_log_boundary--20120822_14:53:40--2101de678f7a556b4a22db2ee427c073
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 7764
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=3&wizardKey=wI4ndTl7Xnk&ERCSESSID=4olcpi16i9sviov59fb13i7cs6&employee_signature=68.65_39.35_68.65_38.65-68.65_38.65_68_38.65-68_38.65_67.35_38.65-67.35_38.65_67.35_38-67.35_38_66.65_37.35-66.65_37.35_66_36.65-66_36.65_64.65_36-64.65_36_63.35_35.35-63.35_35.35_62_34.65-62_34.65_60.65_34.65-60.65_34.65_60_34.65-60_34.65_58.65_34.65-58.65_34.65_56.65_34.65-56.65_34.65_56_35.35-56_35.35_54.65_36-54.65_36_54_37.35-54_37.35_52.65_38.65-52.65_38.65_52_39.35-52_39.35_50.65_40.65-50.65_40.65_49.35_42-49.35_42_48.65_44-48.65_44_48_44.65-48_44.65_47.35_46.65-47.35_46.65_46.65_49.35-46.65_49.35_46.65_52-46.65_52_46.65_53.35-46.65_53.35_46.65_56-46.65_56_46.65_57.35-46.65_57.35_48_58-48_58_48.65_59.35-48.65_59.35_50.65_60-50.65_60_52.65_61.35-52.65_61.35_53.35_62-53.35_62_54_62.65-54_62.65_54.65_62.65-54.65_62.65_54.65_62-54.65_62_54.65_61.35-54.65_61.35_54.65_60-54.65_60_54.65_58.65-54.65_58.65_54.65_56.65-54.65_56.65_54.65_56-54.65_56_54_55.35-54_55.35_54_54.65-54_54.65_54.65_54.65-54.65_54.65_55.35_54.65-55.35_54.65_56_54.65-56_54.65_57.35_54.65-57.35_54.65_58_54.65-58_54.65_59.35_54.65-59.35_54.65_60_54-60_54_60.65_53.35-60.65_53.35_60.65_52.65-60.65_52.65_61.35_52-61.35_52_61.35_52.65-61.35_52.65_61.35_53.35-61.35_53.35_61.35_54-61.35_54_61.35_54.65-61.35_54.65_61.35_56-61.35_56_61.35_57.35-61.35_57.35_62_58-62_58_62.65_59.35-62.65_59.35_63.35_60-63.35_60_64_60.65-64_60.65_64.65_61.35-64.65_61.35_66_61.35-66_61.35_68_61.35-68_61.35_69.35_61.35-69.35_61.35_76.65_61.35-76.65_61.35_78_60.65-78_60.65_78_60-78_60_78.65_59.35-78.65_59.35_78.65_58.65-78.65_58.65_78.65_58-78.65_58_78.65_56.65-78.65_56.65_78_56.65-78_56.65_77.35_56.65-77.35_56.65_76.65_56.65-76.65_56.65_76_57.35-76_57.35_76_58-76_58_76_58.65-76_58.65_76_60-76_60_76_60.65-76_60.65_76.65_60.65-76.65_60.65_77.35_60.65-77.35_60.65_78.65_61.35-78.65_61.35_81.35_61.35-81.35_61.35_84_61.35-84_61.35_86_61.35-86_61.35_88_61.35-88_61.35_90_61.35-90_61.35_90.65_60.65-90.65_60.65_91.35_60-91.35_60_90.65_60-90.65_60_90_60.65-90_60.65_89.35_61.35-89.35_61.35_89.35_62-89.35_62_89.35_62.65-89.35_62.65_89.35_63.35-89.35_63.35_89.35_62.65-89.35_62.65_89.35_62-89.35_62_89.35_61.35-89.35_61.35_89.35_60.65-89.35_60.65_89.35_61.35-89.35_61.35_89.35_62-89.35_62_90.65_63.35-90.65_63.35_92_65.35-92_65.35_94_68-94_68_96_70.65-96_70.65_97.35_73.35-97.35_73.35_99.35_75.35-99.35_75.35_100.65_78.65-100.65_78.65_101.35_80-101.35_80_101.35_81.35-101.35_81.35_100.65_82-100.65_82_100_82-100_82_98.65_82-98.65_82_96.65_82-96.65_82_94_82-94_82_92.65_81.35-92.65_81.35_90.65_80-90.65_80_88.65_79.35-88.65_79.35_86.65_78-86.65_78_85.35_76-85.35_76_85.35_75.35-85.35_75.35_85.35_74.65-85.35_74.65_85.35_74-85.35_74_85.35_72.65-85.35_72.65_85.35_71.35-85.35_71.35_86.65_70-86.65_70_88.65_68.65-88.65_68.65_90.65_67.35-90.65_67.35_92.65_66-92.65_66_93.35_64.65-128_45.35_127.35_44.65-127.35_44.65_125.35_44-125.35_44_122.65_43.35-122.65_43.35_120_43.35-120_43.35_118.65_43.35-118.65_43.35_116_43.35-116_43.35_114_44.65-114_44.65_112.65_45.35-112.65_45.35_111.35_46.65-111.35_46.65_111.35_48-111.35_48_112.65_50-112.65_50_115.35_50-115.35_50_117.35_50-117.35_50_121.35_50-121.35_50_124.65_50.65-124.65_50.65_129.35_51.35-129.35_51.35_132_52.65-132_52.65_134_54-134_54_134.65_54.65-134.65_54.65_135.35_56-135.35_56_135.35_58-135.35_58_135.35_60.65-135.35_60.65_135.35_62-135.35_62_134.65_64.65-134.65_64.65_134_66-134_66_132.65_67.35-132.65_67.35_132_67.35-132_67.35_131.35_67.35-131.35_67.35_130_67.35-130_67.35_129.35_67.35-129.35_67.35_128.65_66-128.65_66_127.35_64.65-127.35_64.65_126.65_64-126.65_64_126_63.35-126_63.35_126_62.65-126_62.65_125.35_62.65-125.35_62.65_125.35_62-125.35_62_125.35_61.35-125.35_61.35_125.35_60.65-125.35_60.65_126.65_60-126.65_60_128.65_59.35-128.65_59.35_130.65_59.35-130.65_59.35_133.35_58.65-133.35_58.65_136.65_58.65-136.65_58.65_139.35_58-139.35_58_141.35_58-141.35_58_142_58-142_58_143.35_58-143.35_58_144.65_59.35-144.65_59.35_145.35_60.65-145.35_60.65_146_62-146_62_146_63.35-146_63.35_146_65.35-146_65.35_146.65_66.65-146.65_66.65_146.65_67.35-146.65_67.35_146.65_68-146.65_68_146.65_67.35-146.65_67.35_146.65_66.65-146.65_66.65_146.65_66-146.65_66_146.65_65.35-146.65_65.35_146.65_64-146.65_64_146.65_63.35-146.65_63.35_146.65_62-146.65_62_147.35_60.65-147.35_60.65_148_60.65-148_60.65_148.65_60.65-148.65_60.65_148.65_61.35-148.65_61.35_148.65_62-148.65_62_148.65_62.65-148.65_62.65_148.65_64.65-148.65_64.65_148.65_65.35-148.65_65.35_149.35_66-149.35_66_150_66-150_66_150.65_66-150.65_66_151.35_66-151.35_66_152_66-152_66_152.65_65.35-152.65_65.35_153.35_64.65-153.35_64.65_154_64.65-154_64.65_154.65_64-154.65_64_154.65_63.35-154.65_63.35_155.35_63.35-155.35_63.35_155.35_64-155.35_64_156_64-156_64_156.65_64.65-156.65_64.65_158_65.35-158_65.35_159.35_65.35-159.35_65.35_160_65.35-160_65.35_160.65_64.65-160.65_64.65_160.65_64-160.65_64_160.65_63.35-160.65_63.35_160.65_64-160.65_64_160.65_64.65-160.65_64.65_161.35_64.65-161.35_64.65_162_64.65-162_64.65_162.65_64-162.65_64_163.35_63.35-163.35_63.35_164.65_62-164.65_62_166.65_60-166.65_60_168_58.65-168_58.65_170_56.65-170_56.65_170.65_54.65-170.65_54.65_172_52-172_52_172_50.65-172_50.65_172.65_50-172.65_50_172_50-172_50_172_50.65-172_50.65_170.65_52-170.65_52_167.35_62-167.35_62_167.35_64-167.35_64_167.35_65.35-167.35_65.35_168.65_65.35-168.65_65.35_170_65.35-170_65.35_171.35_65.35-171.35_65.35_174_64.65-174_64.65_176.65_62.65-176.65_62.65_180_60.65-180_60.65_181.35_58.65-181.35_58.65_182_57.35-182_57.35_183.35_55.35-183.35_55.35_184.65_53.35-184.65_53.35_185.35_51.35-185.35_51.35_185.35_50-185.35_50_185.35_48-185.35_48_185.35_46.65-185.35_46.65_184.65_46.65-184.65_46.65_184.65_47.35-184.65_47.35_184_49.35-184_49.35_183.35_53.35-183.35_53.35_183.35_56.65-183.35_56.65_183.35_61.35-183.35_61.35_182_66-182_66_182_68-182_68_182_69.35-182_69.35_182_68-182_68_182_66.65-182_66.65_182.65_65.35-182.65_65.35_183.35_63.35-183.35_63.35_184_61.35-184_61.35_184_60-184_60_184.65_60-184.65_60_184.65_60.65-184.65_60.65_186.65_62-186.65_62_188_62.65-188_62.65_190_63.35-190_63.35_192_64-192_64_194_64-194_64_194.65_64-194.65_64_196.65_62.65-196.65_62.65_198_61.35-198_61.35_199.35_59.35-199.35_59.35_200.65_57.35-200.65_57.35_201.35_55.35-201.35_55.35_202_54-202_54_202_52.65-202_52.65_202_50.65-202_50.65_201.35_50.65-201.35_50.65_200.65_50.65-200.65_50.65_200_50.65-200_50.65_199.35_52-199.35_52_199.35_54.65-199.35_54.65_199.35_56.65-199.35_56.65_199.35_59.35-199.35_59.35_200_62-200_62_201.35_64-201.35_64_203.35_64-203.35_64_204_64-204_64_203.35_64-203.35_64_202.65_64-202.65_64_202_64-202_64_202_64.65-202_64.65_200_65.35-200_65.35_199.35_66-199.35_66_198_66-198_66_197.35_66-197.35_66_198_66-198_66_199.35_65.35-199.35_65.35_202_64-202_64_206_63.35-206_63.35_210.65_61.35-210.65_61.35_214_61.35-214_61.35_218.65_60-218.65_60_221.35_60-221.35_60_222_60-222_60_222_60.65-222_60.65_222_61.35-222_61.35_221.35_61.35-221.35_61.35_222_61.35-222_61.35_222.65_61.35-222.65_61.35_224_60.65-224_60.65_226_60.65-226_60.65_227.35_60-227.35_60_229.35_59.35-229.35_59.35_230.65_59.35-230.65_59.35_232_58.65-232_58.65_232_59.35-232_59.35_232.65_60-232.65_60_233.35_60.65-233.35_60.65_235.35_62-235.35_62_237.35_62-237.35_62_239.35_62.65-239.35_62.65_242_63.35-242_63.35_243.35_64-243.35_64_244_64-244_64_243.35_63.35-243.35_63.35_242.65_63.35-242.65_63.35_241.35_62.65-241.35_62.65_236_60.65-236_60.65_228.65_59.35-228.65_59.35_218.65_56.65-218.65_56.65_204_53.35-204_53.35_157.35_46.65-157.35_46.65_154.65_46.65-154.65_46.65_154.65_47.35-154.65_47.35_156.65_48-156.65_48_162_48-162_48_168.65_48-168.65_48_176.65_48-176.65_48_183.35_48-183.35_48_189.35_46.65-189.35_46.65_193.35_46.65-193.35_46.65_196_46.65-196_46.65_198_46.65-198_46.65_198_46-&employee_signature_date=2012-08-22+14%3A53%3A07&wizardAction=Next
+----audit_log_boundary--20120822_14:53:40--2101de678f7a556b4a22db2ee427c073--
+----audit_log_boundary--20120822_14:54:02--6f30cda5f39ebc69fa2dca24f8b3a840
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 242
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=4&wizardKey=wI4ndTl7Xnk&ERCSESSID=4olcpi16i9sviov59fb13i7cs6&preparer_status=0&preparer_name=&preparer_street_address=&preparer_city=&preparer_state=&preparer_zip_code=&preparer_signature=&preparer_signature_date=&wizardAction=Next
+----audit_log_boundary--20120822_14:54:02--6f30cda5f39ebc69fa2dca24f8b3a840--
+----audit_log_boundary--20120822_14:54:20--c9f4a38e77a9767947046a90e69bb9b1
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 91
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=5&wizardKey=wI4ndTl7Xnk&ERCSESSID=4olcpi16i9sviov59fb13i7cs6&wizardAction=Finish
+----audit_log_boundary--20120822_14:54:20--c9f4a38e77a9767947046a90e69bb9b1--
+----audit_log_boundary--20120822_14:55:23--6c68179294cfb756146e75495e52bdf2
+POST /integration/gateway.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://erc-qa.ercdataplus.com/admin/application_actions.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 540
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+ERCSESSID=55im56vtt7f9sqm78g2o98nvc6&SessionKey=Rt0W%3A5%7D28&InterfaceMethod=transfer&EmployeeFormId=1EB44BTHLGWOIKBXOY10&SubmitterName=Lyon+ApproverUser&SubmitterTitle=&SubmitterPhone=&EmploymentState=AZ&HireDate=8%2F22%2F2012&ReturnUrl=https%3A%2F%2Ferc-qa.ercdataplus.com%2Fadmin%2Fapplication_actions.php&ReturnParams=ERCSESSID%3Ddtis2tio4vqkuj0god6sg6nj55%26reentryKey%3DHaqyEGA4Y2%26svsTransfer%3D1%26svsTransferType%3DfromSection2%26appAction%3Dstep_details%26apps%3D165%26rid%3D45%26pid%3D3%26sid%3D142%26opening%3Dyes&Language=eng
+----audit_log_boundary--20120822_14:55:23--6c68179294cfb756146e75495e52bdf2--
+----audit_log_boundary--20120822_14:57:01--8ffcb988e25d2a34c10beb350a84b86c
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/gateway.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 91
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=0&wizardKey=52zvfLdt0GV13&ERCSESSID=55im56vtt7f9sqm78g2o98nvc6&wizardAction=Next
+----audit_log_boundary--20120822_14:57:01--8ffcb988e25d2a34c10beb350a84b86c--
+----audit_log_boundary--20120822_14:57:47--4c8f371f5bba3eee5ecd6d85e675354b
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 124
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=1&wizardKey=52zvfLdt0GV13&ERCSESSID=55im56vtt7f9sqm78g2o98nvc6&listSelect=A&ListA_Document_ID=1&wizardAction=Next
+----audit_log_boundary--20120822_14:57:47--4c8f371f5bba3eee5ecd6d85e675354b--
+----audit_log_boundary--20120822_14:58:19--c367edc3e492bd72cd6d075eaeb665f1
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 233
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=2&wizardKey=52zvfLdt0GV13&ERCSESSID=55im56vtt7f9sqm78g2o98nvc6&ListA_Issuing_Authority=us+gov&Passport_Number=123456789&Passport_Expiration_month=1&Passport_Expiration_day=27&Passport_Expiration_year=2019&wizardAction=Next
+----audit_log_boundary--20120822_14:58:19--c367edc3e492bd72cd6d075eaeb665f1--
+----audit_log_boundary--20120822_14:58:59--d49ab019f84f09feb94cb4982df0f404
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 9491
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=3&wizardKey=52zvfLdt0GV13&ERCSESSID=55im56vtt7f9sqm78g2o98nvc6&hire_date_month=8&hire_date_day=22&hire_date_year=2012&hiring_manager_name=Lyon+ApproverUser&hiring_manager_title=HR&company_name=William+Lyon+Homes&location_street_address=4490+Von+Karmen+Ave&location_city=Newport+Beach&location_state=CA&location_zip_code=92660&hiring_manager_signature=24_42_24.65_42-24.65_42_25.35_42.65-25.35_42.65_28_44-28_44_32.65_44-32.65_44_37.35_44-37.35_44_40.65_44-40.65_44_45.35_42.65-45.35_42.65_49.35_42-49.35_42_50.65_40.65-50.65_40.65_52.65_40-52.65_40_54_38.65-54_38.65_54.65_38-54.65_38_55.35_36.65-55.35_36.65_55.35_36-55.35_36_55.35_35.35-55.35_35.35_54.65_35.35-54.65_35.35_54_35.35-54_35.35_53.35_35.35-53.35_35.35_52.65_36-52.65_36_52_37.35-52_37.35_50.65_39.35-50.65_39.35_49.35_42.65-49.35_42.65_48_46-48_46_46.65_49.35-46.65_49.35_45.35_52-45.35_52_44_54-44_54_42.65_56.65-42.65_56.65_40_60.65-40_60.65_40_61.35-40_61.35_38.65_62-38.65_62_38_62-38_62_37.35_62-37.35_62_36.65_62-36.65_62_36_62-36_62_35.35_62-35.35_62_35.35_61.35-35.35_61.35_35.35_60.65-35.35_60.65_35.35_60-35.35_60_35.35_58.65-35.35_58.65_35.35_58-35.35_58_36_57.35-36_57.35_36.65_56.65-36.65_56.65_37.35_56.65-37.35_56.65_38.65_56-38.65_56_40_56-40_56_40.65_56-40.65_56_42.65_56-42.65_56_44_57.35-44_57.35_44.65_58-44.65_58_46_58.65-46_58.65_46.65_60-46.65_60_47.35_60-47.35_60_47.35_62-47.35_62_47.35_62.65-47.35_62.65_48_63.35-48_63.35_49.35_64.65-49.35_64.65_50_64.65-50_64.65_51.35_64.65-51.35_64.65_52_64-52_64_53.35_63.35-53.35_63.35_53.35_62.65-53.35_62.65_54.65_62.65-54.65_62.65_56_62-56_62_57.35_60.65-57.35_60.65_58.65_59.35-58.65_59.35_59.35_58.65-59.35_58.65_60_58.65-60_58.65_59.35_58.65-59.35_58.65_59.35_59.35-59.35_59.35_59.35_60-59.35_60_59.35_60.65-59.35_60.65_59.35_62.65-59.35_62.65_59.35_63.35-59.35_63.35_60_63.35-60_63.35_61.35_63.35-61.35_63.35_63.35_63.35-63.35_63.35_68.65_60.65-68.65_60.65_68.65_60-68.65_60_70_60-70_60_70_60.65-70_60.65_70_61.35-70_61.35_69.35_63.35-69.35_63.35_69.35_65.35-69.35_65.35_68.65_68-68.65_68_68_69.35-68_69.35_67.35_72-67.35_72_66_74-66_74_65.35_75.35-65.35_75.35_64.65_75.35-64.65_75.35_64.65_74.65-64.65_74.65_64.65_74-64.65_74_64.65_73.35-64.65_73.35_64.65_72.65-64.65_72.65_64.65_71.35-64.65_71.35_66_70-66_70_68_68.65-68_68.65_71.35_67.35-71.35_67.35_76_66.65-76_66.65_79.35_66.65-79.35_66.65_83.35_66.65-83.35_66.65_86.65_66.65-86.65_66.65_88_66.65-88_66.65_89.35_67.35-89.35_67.35_90.65_67.35-90.65_67.35_90.65_68-90.65_68_90_68-90_68_89.35_69.35-89.35_69.35_89.35_70-89.35_70_89.35_70.65-89.35_70.65_89.35_72-89.35_72_90_72-90_72_90.65_72.65-90.65_72.65_90.65_72-90.65_72_90.65_71.35-90.65_71.35_90.65_70.65-90.65_70.65_90_68.65-90_68.65_88.65_67.35-88.65_67.35_86.65_65.35-86.65_65.35_84.65_64-84.65_64_83.35_63.35-83.35_63.35_82_62.65-82_62.65_81.35_62-81.35_62_82_62-82_62_82.65_62-82.65_62_83.35_62-83.35_62_85.35_62.65-85.35_62.65_86.65_63.35-86.65_63.35_88_64-88_64_89.35_65.35-89.35_65.35_90.65_67.35-90.65_67.35_92_68-92_68_92.65_70-92.65_70_93.35_71.35-93.35_71.35_93.35_72-93.35_72_93.35_73.35-93.35_73.35_93.35_72.65-93.35_72.65_93.35_72-93.35_72_93.35_71.35-93.35_71.35_94.65_70-94.65_70_96_69.35-96_69.35_96.65_68.65-96.65_68.65_98.65_68-98.65_68_100.65_68-100.65_68_102_68-102_68_104_68-104_68_105.35_69.35-105.35_69.35_106_70.65-106_70.65_106.65_72-106.65_72_107.35_72.65-107.35_72.65_108_73.35-108_73.35_108_74-108_74_108_73.35-108_73.35_108.65_72.65-108.65_72.65_109.35_71.35-131.35_78.65_132_78.65-132_78.65_132_78-132_78_132.65_78-132.65_78_134_76.65-134_76.65_136_74.65-136_74.65_138_72-138_72_140_70-140_70_142_66.65-142_66.65_143.35_64-143.35_64_145.35_62-145.35_62_146.65_60.65-146.65_60.65_147.35_58.65-147.35_58.65_150_56.65-150_56.65_151.35_55.35-151.35_55.35_152.65_54.65-152.65_54.65_152.65_56-152.65_56_154_59.35-154_59.35_156.65_64-156.65_64_158_69.35-158_69.35_160.65_74-160.65_74_162_76.65-162_76.65_163.35_78-163.35_78_163.35_78.65-163.35_78.65_163.35_78-163.35_78_163.35_77.35-163.35_77.35_163.35_76.65-163.35_76.65_162_74.65-162_74.65_160.65_72-160.65_72_157.35_70-157.35_70_154.65_68-154.65_68_152.65_68-152.65_68_152_66.65-152_66.65_150_66.65-150_66.65_149.35_66.65-149.35_66.65_150.65_66.65-150.65_66.65_153.35_66.65-153.35_66.65_156.65_68-156.65_68_159.35_68-159.35_68_162.65_68-162.65_68_164.65_68-164.65_68_168.65_66.65-168.65_66.65_170.65_66.65-170.65_66.65_172.65_66.65-172.65_66.65_174_66.65-174_66.65_174_66-174_66_174.65_66-174.65_66_174.65_68-174.65_68_175.35_69.35-175.35_69.35_175.35_72-175.35_72_175.35_75.35-175.35_75.35_175.35_77.35-175.35_77.35_175.35_80-175.35_80_175.35_81.35-175.35_81.35_175.35_82.65-175.35_82.65_175.35_83.35-175.35_83.35_175.35_82.65-175.35_82.65_175.35_82-175.35_82_175.35_81.35-175.35_81.35_175.35_79.35-175.35_79.35_174.65_76.65-174.65_76.65_174.65_74.65-174.65_74.65_174.65_72.65-174.65_72.65_174.65_70.65-174.65_70.65_174.65_70-174.65_70_174.65_68-174.65_68_174.65_66.65-174.65_66.65_176_66-176_66_176.65_66-176.65_66_177.35_65.35-177.35_65.35_179.35_66-179.35_66_179.35_66.65-179.35_66.65_179.35_67.35-179.35_67.35_179.35_68.65-179.35_68.65_179.35_69.35-179.35_69.35_178.65_70.65-178.65_70.65_177.35_71.35-177.35_71.35_176.65_72-176.65_72_175.35_72-175.35_72_174.65_72-174.65_72_175.35_72-175.35_72_178_72-178_72_180_72-180_72_182.65_72-182.65_72_185.35_72-185.35_72_188.65_70.65-188.65_70.65_192.65_70-192.65_70_194_69.35-194_69.35_196_69.35-196_69.35_196.65_69.35-196.65_69.35_196.65_70.65-196.65_70.65_196.65_72.65-196.65_72.65_196.65_74.65-196.65_74.65_196.65_77.35-196.65_77.35_196_80-196_80_196_80.65-196_80.65_196_82-196_82_196_83.35-196_83.35_196_82.65-196_82.65_196_82-196_82_196_80.65-196_80.65_196_78-196_78_196_76.65-196_76.65_196_75.35-196_75.35_196.65_74-196.65_74_197.35_72-197.35_72_198.65_70.65-198.65_70.65_200_70-200_70_200_69.35-200_69.35_201.35_68.65-201.35_68.65_202.65_68-202.65_68_203.35_68-203.35_68_203.35_69.35-203.35_69.35_203.35_70-203.35_70_203.35_71.35-203.35_71.35_202.65_72.65-202.65_72.65_202_72.65-202_72.65_200.65_74-200.65_74_200.65_74.65-200.65_74.65_200_74.65-200_74.65_199.35_74.65-199.35_74.65_198.65_74.65-198.65_74.65_198_74.65-198_74.65_197.35_74.65-197.35_74.65_198_74.65-198_74.65_198.65_74.65-198.65_74.65_200_74.65-200_74.65_201.35_74.65-201.35_74.65_202.65_74.65-202.65_74.65_204.65_74-204.65_74_206.65_72.65-206.65_72.65_208.65_71.35-208.65_71.35_210_70-210_70_211.35_69.35-211.35_69.35_212.65_68-212.65_68_214_67.35-214_67.35_213.35_67.35-213.35_67.35_213.35_68-213.35_68_213.35_68.65-213.35_68.65_213.35_69.35-213.35_69.35_213.35_70-213.35_70_213.35_71.35-213.35_71.35_213.35_72.65-213.35_72.65_213.35_74-213.35_74_213.35_75.35-213.35_75.35_213.35_76-213.35_76_213.35_76.65-213.35_76.65_214_76.65-214_76.65_214.65_76.65-214.65_76.65_216_76-216_76_217.35_74.65-217.35_74.65_218_73.35-218_73.35_219.35_71.35-219.35_71.35_220.65_70.65-220.65_70.65_222_70.65-222_70.65_222_70-222_70_222_70.65-222_70.65_222_71.35-222_71.35_222.65_72-222.65_72_223.35_72.65-223.35_72.65_224_72.65-224_72.65_224_71.35-224_71.35_224_70.65-224_70.65_223.35_70.65-223.35_70.65_223.35_70-223.35_70_222.65_70-222.65_70_222_70-222_70_222_69.35-222_69.35_222.65_69.35-222.65_69.35_224_68.65-224_68.65_225.35_68-225.35_68_226.65_67.35-226.65_67.35_228.65_67.35-228.65_67.35_230_67.35-230_67.35_230_68-230_68_230.65_69.35-230.65_69.35_231.35_70-231.35_70_232_72-232_72_232_73.35-232_73.35_232_74-232_74_232.65_75.35-232.65_75.35_233.35_76.65-233.35_76.65_234_76.65-234_76.65_234_75.35-234_75.35_234_74-234_74_234.65_73.35-234.65_73.35_234.65_72-234.65_72_234.65_71.35-234.65_71.35_235.35_71.35-235.35_71.35_235.35_70.65-235.35_70.65_236_70.65-236_70.65_236.65_70.65-236.65_70.65_237.35_70.65-237.35_70.65_239.35_72-239.35_72_242_72-242_72_245.35_72.65-245.35_72.65_248.65_72.65-248.65_72.65_251.35_72.65-251.35_72.65_254_72-254_72_255.35_70.65-255.35_70.65_256_70-256_70_256.65_69.35-256.65_69.35_256_69.35-256_69.35_255.35_69.35-255.35_69.35_254.65_69.35-254.65_69.35_253.35_69.35-253.35_69.35_252.65_70.65-252.65_70.65_252_72.65-252_72.65_251.35_74-251.35_74_251.35_76-251.35_76_251.35_78-251.35_78_252_78.65-252_78.65_253.35_78.65-253.35_78.65_254.65_78.65-254.65_78.65_254.65_78.65-254.65_78.65_260_95.35-260_95.35_260_94.65-260_94.65_260.65_94-260.65_94_261.35_94-261.35_94_263.35_93.35-263.35_93.35_265.35_92.65-265.35_92.65_268_92-268_92_270_92-270_92_274_90.65-274_90.65_278.65_90-278.65_90_282_90-282_90_287.35_88.65-287.35_88.65_293.35_88-293.35_88_300_86-300_86_306_85.35-306_85.35_312.65_84.65-312.65_84.65_318.65_82-318.65_82_323.35_80.65-323.35_80.65_327.35_78.65-327.35_78.65_328.65_78.65-328.65_78.65_328.65_78-328.65_78_328.65_77.35-328.65_77.35_328_77.35-328_77.35_327.35_77.35-327.35_77.35_326.65_77.35-326.65_77.35_326_77.35-326_77.35_324.65_77.35-324.65_77.35_323.35_77.35-323.35_77.35_320_77.35-320_77.35_317.35_77.35-317.35_77.35_314_78-314_78_310.65_78-310.65_78_308_79.35-308_79.35_305.35_79.35-305.35_79.35_304_79.35-304_79.35_303.35_79.35-303.35_79.35_304_78.65-304_78.65_304.65_78.65-304.65_78.65_306_78-306_78_307.35_78-307.35_78_308_78-308_78_309.35_77.35-309.35_77.35_310_77.35-310_77.35_310_76.65-310_76.65_309.35_76.65-309.35_76.65_308.65_76.65-308.65_76.65_308_76.65-308_76.65_306.65_76.65-306.65_76.65_304.65_76.65-304.65_76.65_303.35_76.65-303.35_76.65_302_76.65-302_76.65_301.35_76.65-301.35_76.65_300_76.65-300_76.65_300.65_76.65-300.65_76.65_301.35_76.65-301.35_76.65_302_76.65-302_76.65_301.35_76.65-301.35_76.65_300.65_76.65-&hiring_manager_signature_date=2012-08-22+14%3A58%3A52&wizardAction=Next
+----audit_log_boundary--20120822_14:58:59--d49ab019f84f09feb94cb4982df0f404--
+----audit_log_boundary--20120822_14:59:27--542d18188c5422a817ed29687b9e5854
+POST /integration/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 93
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+wizardStep=4&wizardKey=52zvfLdt0GV13&ERCSESSID=55im56vtt7f9sqm78g2o98nvc6&wizardAction=Finish
+----audit_log_boundary--20120822_14:59:27--542d18188c5422a817ed29687b9e5854--
+----audit_log_boundary--20120822_14:59:39--4b04cf926d6cd7c1241ee2356e19f155
+POST /integration/gateway.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+Referer: https://erc-qa.ercdataplus.com/admin/application_actions.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; SearchToolbar 1.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; BRI/2; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 498
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1343770128.1345038204.96; __utmz=99073226.1343770128.95.35.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/position_management.php; gk_gamebox_tpl=gk_gamebox
+
+ERCSESSID=5erlt8ja68srba2344mk67n295&SessionKey=o_h*Kwt5@yk2&InterfaceMethod=transfer&EmployeeFormId=1EB44BTHLGWOIKBXOY10&SubmitterName=Lyon+ApproverUser&SubmitterTitle=&SubmitterPhone=&ReturnUrl=https%3A%2F%2Ferc-qa.ercdataplus.com%2Fadmin%2Fapplication_actions.php&ReturnParams=ERCSESSID%3Ddtis2tio4vqkuj0god6sg6nj55%26reentryKey%3DsJs9t60vAP%26svsTransfer%3D1%26svsTransferType%3DfromVerifInit%26appAction%3Dstep_details%26apps%3D165%26rid%3D45%26pid%3D3%26sid%3D142%26opening%3Dyes&Language=eng
+----audit_log_boundary--20120822_14:59:39--4b04cf926d6cd7c1241ee2356e19f155--

@@ -1,0 +1,64 @@
+----audit_log_boundary--20120322_16:00:06--c6f062c6b31169a25519d5d80fc85ce3
+GET /admin/dashboard.php?ERCSESSID=1j62hlfd87628l7ebp7m318gl0 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=1j62hlfd87628l7ebp7m318gl0
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1625056308.1332180653.1332365162.1332365849.4; __utmz=99073226.1332365849.4.3.utmcsr=VerticalResponse|utmccn=Are%20you%20at%20risk%20of%20losing%20KEY%20employees%20this%20year?content|utmcmd=Email|utmctr=http://www.ercdataplus.com/index.php/resources/webinars/keepthemfromwalking|utmcct=bflynn@ercdataplus.com
+
+----audit_log_boundary--20120322_16:00:06--c6f062c6b31169a25519d5d80fc85ce3--
+----audit_log_boundary--20120322_16:00:08--d40c5428c27b1f1b1837dfec0c3aa6f7
+GET /admin/employee_list.php?&ERCSESSID=1j62hlfd87628l7ebp7m318gl0 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.1625056308.1332180653.1332365162.1332365849.4; __utmz=99073226.1332365849.4.3.utmcsr=VerticalResponse|utmccn=Are%20you%20at%20risk%20of%20losing%20KEY%20employees%20this%20year?content|utmcmd=Email|utmctr=http://www.ercdataplus.com/index.php/resources/webinars/keepthemfromwalking|utmcct=bflynn@ercdataplus.com
+
+----audit_log_boundary--20120322_16:00:08--d40c5428c27b1f1b1837dfec0c3aa6f7--
+----audit_log_boundary--20120322_16:00:12--c05c4c481a6893d6c14d7b76aec754d0
+GET /admin/employee_management.php?id=104&ERCSESSID=1j62hlfd87628l7ebp7m318gl0 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?&ERCSESSID=1j62hlfd87628l7ebp7m318gl0
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.1625056308.1332180653.1332365162.1332365849.4; __utmz=99073226.1332365849.4.3.utmcsr=VerticalResponse|utmccn=Are%20you%20at%20risk%20of%20losing%20KEY%20employees%20this%20year?content|utmcmd=Email|utmctr=http://www.ercdataplus.com/index.php/resources/webinars/keepthemfromwalking|utmcct=bflynn@ercdataplus.com
+
+----audit_log_boundary--20120322_16:00:12--c05c4c481a6893d6c14d7b76aec754d0--
+----audit_log_boundary--20120322_16:00:14--89152c1cc5b5399bd3ea4147fac75f27
+POST /admin/employee_management.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=104&ERCSESSID=1j62hlfd87628l7ebp7m318gl0
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 74
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1625056308.1332180653.1332365162.1332365849.4; __utmz=99073226.1332365849.4.3.utmcsr=VerticalResponse|utmccn=Are%20you%20at%20risk%20of%20losing%20KEY%20employees%20this%20year?content|utmcmd=Email|utmctr=http://www.ercdataplus.com/index.php/resources/webinars/keepthemfromwalking|utmcct=bflynn@ercdataplus.com
+
+ERCSESSID=1j62hlfd87628l7ebp7m318gl0&id=104&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20120322_16:00:14--89152c1cc5b5399bd3ea4147fac75f27--
+----audit_log_boundary--20120322_16:00:17--562ee70b10e8e66587b6e32df417cc00
+GET /admin/employee_list.php?filter=stored&view=stored&ERCSESSID=1j62hlfd87628l7ebp7m318gl0 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.1625056308.1332180653.1332365162.1332365849.4; __utmz=99073226.1332365849.4.3.utmcsr=VerticalResponse|utmccn=Are%20you%20at%20risk%20of%20losing%20KEY%20employees%20this%20year?content|utmcmd=Email|utmctr=http://www.ercdataplus.com/index.php/resources/webinars/keepthemfromwalking|utmcct=bflynn@ercdataplus.com
+
+----audit_log_boundary--20120322_16:00:17--562ee70b10e8e66587b6e32df417cc00--

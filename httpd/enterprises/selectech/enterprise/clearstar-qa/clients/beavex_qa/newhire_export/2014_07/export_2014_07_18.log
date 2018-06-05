@@ -1,0 +1,8 @@
+2014-07-18 09:15:30: 
+
+New Hire Export executed from /websites/Yellow-PreHire-Git/admin/application_actions.php
+2014-07-18 09:15:30:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2014-07-18 09:15:30: Beginning export group associated with process step 193
+2014-07-18 09:15:30: Applications to be processed: 545
+2014-07-18 09:15:30: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2014-07-18 09:15:30: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed

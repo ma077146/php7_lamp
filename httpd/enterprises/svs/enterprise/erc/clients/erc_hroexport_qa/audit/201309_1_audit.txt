@@ -1,0 +1,419 @@
+----audit_log_boundary--20130917_14:22:59--75446385c318ef12e2204af5d9b2dabd
+GET /admin/dashboard.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+DNT: 1
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+----audit_log_boundary--20130917_14:22:59--75446385c318ef12e2204af5d9b2dabd--
+----audit_log_boundary--20130917_14:23:04--df36119419def45bba8727bc59846580
+GET /admin/get_navigation_tree.php?id=navPosId_Nav&tc=position&it=select&ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:23:04--df36119419def45bba8727bc59846580--
+----audit_log_boundary--20130917_14:23:06--7aaac83d149372a94034562fd9017d6f
+GET /admin/get_navigation_tree.php?id=navLocId_Nav&tc=location&it=select&ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:23:06--7aaac83d149372a94034562fd9017d6f--
+----audit_log_boundary--20130917_14:23:09--463645223bf685e7d6a18aa81dc9010c
+POST /admin/dashboard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 85
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+ERCSESSID=r083cieaebdcsk3bbhno4ojc45&navAction=changeNavigation&navLocId=2&navPosId=0
+----audit_log_boundary--20130917_14:23:09--463645223bf685e7d6a18aa81dc9010c--
+----audit_log_boundary--20130917_14:23:12--742f21f6309caccf2e234f2b8828b282
+GET /admin/location_management.php?tab=0&ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:23:12--742f21f6309caccf2e234f2b8828b282--
+----audit_log_boundary--20130917_14:24:02--c688c8a182d2d3a61075aca82158b54d
+GET /admin/get_navigation_tree.php?id=navPosId_Nav&tc=position&it=select&ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Referer: https://svs-qa.ercdataplus.com/admin/location_management.php?tab=0&ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:24:02--c688c8a182d2d3a61075aca82158b54d--
+----audit_log_boundary--20130917_14:24:07--b4062737309c1c1dff87cf58e9245708
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Position&ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/location_management.php?tab=0&ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:24:07--b4062737309c1c1dff87cf58e9245708--
+----audit_log_boundary--20130917_14:24:17--a7d8a33fa4c416a99e4297c0a2706783
+POST /admin/new_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Position&ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: multipart/form-data; boundary=---------------------------7dd6e1540514
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 795
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="wizardKey"
+
+1Gk3fI8xXQn
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="ERCSESSID"
+
+r083cieaebdcsk3bbhno4ojc45
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="parentId"
+
+0
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="positionName"
+
+Training Specialist
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="clientCode"
+
+TS
+-----------------------------7dd6e1540514
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------7dd6e1540514--
+----audit_log_boundary--20130917_14:24:17--a7d8a33fa4c416a99e4297c0a2706783--
+----audit_log_boundary--20130917_14:24:19--14f520bec722df8a775456b1bcea04a9
+POST /admin/new_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: multipart/form-data; boundary=---------------------------7dd3de1640514
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 486
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+-----------------------------7dd3de1640514
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------7dd3de1640514
+Content-Disposition: form-data; name="wizardKey"
+
+1Gk3fI8xXQn
+-----------------------------7dd3de1640514
+Content-Disposition: form-data; name="ERCSESSID"
+
+r083cieaebdcsk3bbhno4ojc45
+-----------------------------7dd3de1640514
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------7dd3de1640514--
+----audit_log_boundary--20130917_14:24:19--14f520bec722df8a775456b1bcea04a9--
+----audit_log_boundary--20130917_14:24:21--f41c69f8d3be0bdda2c57d3303da33a5
+GET /admin/dashboard.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:24:21--f41c69f8d3be0bdda2c57d3303da33a5--
+----audit_log_boundary--20130917_14:27:57--54a3d067af66564c3f7add6a7360db3f
+POST /integration/gateway.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://erc-qa.ercdataplus.com/jobseeker/apply.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 379
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+ERCSESSID=37pgbb5c0s80915eqevcal66i3&SessionKey=ll%3FENsYAm2%21&InterfaceMethod=transfer&EmployeeFormId=1EB84CJBQFZCLMUMVXS2&ReturnUrl=https%3A%2F%2Ferc-qa.ercdataplus.com%2Fjobseeker%2Fapply.php&ReturnParams=ERCSESSID%3Dhqsrnl5ismpgl4ar557t5sa0l5%26reentryKey%3D3Djr4801ZX%26i9Action%3DtransferBack&Emp_Address=1+Main&Emp_City=Norwalk&Emp_State=CT&Emp_ZipCode=06854&Language=eng
+----audit_log_boundary--20130917_14:27:57--54a3d067af66564c3f7add6a7360db3f--
+----audit_log_boundary--20130917_14:28:03--b50f2ad4ff3a79362361de2d70d486b8
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/gateway.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 90
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=0&wizardKey=o71FAD241wy5&ERCSESSID=37pgbb5c0s80915eqevcal66i3&wizardAction=Next
+----audit_log_boundary--20130917_14:28:03--b50f2ad4ff3a79362361de2d70d486b8--
+----audit_log_boundary--20130917_14:28:25--272acc4b56391d4af279b1877a227456
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 363
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=1&wizardKey=o71FAD241wy5&ERCSESSID=37pgbb5c0s80915eqevcal66i3&first_name=Bernie&last_name=Lyman&middle_initial=&maiden_name=&address=1+Main&apt_num=&city=Norwalk&state=CT&zip_code=06854&birth_date_month=5&birth_date_day=11&birth_date_year=1976&ssn=124512012&email=bl@ercdataplus.com&telephone_area=&telephone_local1=&telephone_local2=&wizardAction=Next
+----audit_log_boundary--20130917_14:28:25--272acc4b56391d4af279b1877a227456--
+----audit_log_boundary--20130917_14:28:56--25574ca9a779bba10bda2104be821170
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 346
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=2&wizardKey=o71FAD241wy5&ERCSESSID=37pgbb5c0s80915eqevcal66i3&citizen_status=4&alien_id_6=&alien_id_7=&work_auth_date_7a_month=0&work_auth_date_7a_day=0&work_auth_date_7a_year=0&i94_number=&work_auth_date_7b_month=0&work_auth_date_7b_day=0&work_auth_date_7b_year=0&foreign_passport_number=&foreign_passport_country=&wizardAction=Cancel
+----audit_log_boundary--20130917_14:28:56--25574ca9a779bba10bda2104be821170--
+----audit_log_boundary--20130917_14:32:16--280b281cb9278c1596f10a2a3b8c7efb
+POST /integration/gateway.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://erc-qa.ercdataplus.com/jobseeker/apply.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 378
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+ERCSESSID=etai80uijj1rebatg6bs32s115&SessionKey=D%24IKytw5%3AZ&InterfaceMethod=transfer&EmployeeFormId=1EB84CPDVUAIVOFNHCS3&ReturnUrl=https%3A%2F%2Ferc-qa.ercdataplus.com%2Fjobseeker%2Fapply.php&ReturnParams=ERCSESSID%3D2lq4blhdo3or3veq3heguuukj0%26reentryKey%3D2F2xF97TVU%26i9Action%3DtransferBack&Emp_Address=1+Main&Emp_City=Norwalk&Emp_State=CT&Emp_ZipCode=06854&Language=eng
+----audit_log_boundary--20130917_14:32:16--280b281cb9278c1596f10a2a3b8c7efb--
+----audit_log_boundary--20130917_14:32:21--5d7385891f686b88fdbfe17b006a40da
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/gateway.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 92
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=0&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115&wizardAction=Next
+----audit_log_boundary--20130917_14:32:21--5d7385891f686b88fdbfe17b006a40da--
+----audit_log_boundary--20130917_14:32:37--97647847fee3503b70df73379e7f941a
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 365
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=1&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115&first_name=flloyd&last_name=obrien&middle_initial=&maiden_name=&address=1+Main&apt_num=&city=Norwalk&state=CT&zip_code=06854&birth_date_month=2&birth_date_day=7&birth_date_year=1975&ssn=123456852&email=fo@ercdataplus.com&telephone_area=&telephone_local1=&telephone_local2=&wizardAction=Next
+----audit_log_boundary--20130917_14:32:37--97647847fee3503b70df73379e7f941a--
+----audit_log_boundary--20130917_14:32:40--09f7677b880cac77260ad0440a89cb12
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 346
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=2&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115&citizen_status=4&alien_id_6=&alien_id_7=&work_auth_date_7a_month=0&work_auth_date_7a_day=0&work_auth_date_7a_year=0&i94_number=&work_auth_date_7b_month=0&work_auth_date_7b_day=0&work_auth_date_7b_year=0&foreign_passport_number=&foreign_passport_country=&wizardAction=Next
+----audit_log_boundary--20130917_14:32:40--09f7677b880cac77260ad0440a89cb12--
+----audit_log_boundary--20130917_14:32:41--62389ab424f6b53bf7af763120009e63
+GET /integration/form_wizard.php?wizardAction=previewFormImage&section=1a&entry=1&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115 HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:32:41--62389ab424f6b53bf7af763120009e63--
+----audit_log_boundary--20130917_14:32:54--802fbc4fea4fa7d7ad456415714c1a98
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 4340
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=3&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115&employee_signature=73_39_71_42-71_42_70_45-70_45_69_49-69_49_68_57-68_57_68_63-68_63_68_70-68_70_68_77-68_77_68_81-68_81_68_86-68_86_68_89-68_89_68_90-68_90_68_91-68_91_68_90-68_90_68_86-68_86_68_77-68_77_68_67-68_67_67_57-67_57_65_48-65_48_63_41-59_54_60_53-60_53_61_52-61_52_64_51-64_51_66_50-66_50_69_48-69_48_72_48-72_48_75_46-75_46_77_45-77_45_79_44-79_44_80_44-80_44_80_43-80_43_81_43-81_43_82_43-82_43_82_44-63_63_63_64-63_64_65_64-65_64_67_64-67_64_71_64-71_64_75_64-75_64_79_64-79_64_84_62-84_62_86_61-86_61_90_59-90_59_93_57-93_57_96_54-96_54_97_51-97_51_99_49-99_49_99_48-99_48_99_47-99_47_98_49-98_49_98_52-98_52_97_56-97_56_96_61-96_61_95_65-95_65_94_70-94_70_93_73-93_73_93_76-93_76_93_77-93_77_94_79-94_79_95_79-95_79_97_79-97_79_101_79-101_79_106_75-106_75_111_70-111_70_116_66-116_66_118_61-118_61_120_59-120_59_121_56-121_56_122_55-122_55_122_54-122_54_123_52-123_52_123_51-123_51_123_52-123_52_122_53-122_53_122_54-122_54_121_56-121_56_121_58-121_58_121_59-121_59_121_61-121_61_121_62-121_62_121_63-121_63_121_65-121_65_122_66-122_66_122_67-122_67_124_67-124_67_125_68-125_68_126_68-126_68_128_68-128_68_129_68-129_68_130_68-130_68_131_66-131_66_133_66-133_66_133_65-133_65_133_64-133_64_133_65-133_65_132_67-132_67_132_68-132_68_132_70-132_70_132_72-132_72_132_73-132_73_133_73-133_73_134_73-134_73_134_70-134_70_134_68-134_68_134_67-134_67_135_67-135_67_136_67-136_67_139_67-139_67_141_67-141_67_145_68-145_68_149_68-149_68_154_68-154_68_157_69-157_69_159_70-159_70_161_71-161_71_162_73-162_73_162_75-162_75_162_77-162_77_162_79-162_79_160_81-160_81_158_84-158_84_156_85-156_85_154_86-154_86_153_86-153_86_152_86-152_86_152_87-152_87_152_86-152_86_152_85-152_85_153_83-153_83_156_80-156_80_160_78-160_78_167_75-167_75_172_72-172_72_178_70-178_70_181_69-181_69_182_68-182_68_183_68-183_68_182_69-182_69_182_71-182_71_182_72-182_72_182_73-182_73_182_74-182_74_182_75-182_75_184_76-184_76_187_78-187_78_189_78-189_78_192_78-192_78_195_78-195_78_198_78-198_78_200_78-200_78_201_78-201_78_200_78-200_78_199_78-199_78_200_78-200_78_201_77-201_77_203_75-203_75_205_72-205_72_208_67-208_67_211_63-211_63_211_58-211_58_212_55-212_55_212_50-212_50_212_47-212_47_211_46-211_46_209_45-209_45_207_45-207_45_206_45-206_45_205_48-205_48_204_52-204_52_204_56-204_56_204_61-204_61_204_66-204_66_205_71-205_71_208_76-208_76_211_80-211_80_216_83-216_83_220_85-220_85_226_86-226_86_233_87-233_87_240_87-240_87_250_87-250_87_260_85-294_49_291_49-291_49_288_50-288_50_284_54-284_54_281_58-281_58_279_61-279_61_277_66-277_66_276_70-276_70_276_73-276_73_276_78-276_78_278_81-278_81_281_84-281_84_283_86-283_86_286_87-286_87_289_87-289_87_292_87-292_87_297_85-297_85_302_82-302_82_306_78-306_78_310_73-310_73_312_70-312_70_313_64-313_64_313_57-313_57_313_50-313_50_309_44-309_44_304_39-304_39_300_36-300_36_297_36-297_36_295_36-295_36_293_36-293_36_291_36-291_36_291_38-291_38_291_41-291_41_291_44-291_44_291_47-291_47_295_50-295_50_298_52-298_52_304_55-304_55_309_57-309_57_315_58-315_58_321_59-321_59_327_59-327_59_333_59-333_59_338_56-338_56_341_53-341_53_343_51-343_51_344_49-344_49_344_47-344_47_344_45-344_45_343_44-343_44_341_44-341_44_340_44-340_44_338_45-338_45_336_48-336_48_334_51-334_51_331_57-331_57_328_62-328_62_327_67-327_67_325_73-325_73_325_78-325_78_325_80-325_80_326_79-326_79_327_77-327_77_329_74-329_74_330_74-330_74_331_73-331_73_331_72-331_72_332_72-332_72_333_72-333_72_333_71-333_71_333_70-333_70_334_71-334_71_335_72-335_72_335_73-335_73_337_73-337_73_337_75-337_75_338_75-338_75_338_76-338_76_340_77-340_77_341_79-341_79_342_80-342_80_344_81-344_81_346_81-346_81_349_81-349_81_352_81-352_81_355_79-355_79_357_77-357_77_360_73-360_73_362_71-362_71_363_68-363_68_363_67-363_67_363_65-363_65_363_64-363_64_362_64-362_64_360_64-360_64_359_65-359_65_358_68-358_68_356_72-356_72_356_75-356_75_356_78-356_78_356_80-356_80_357_82-357_82_358_83-358_83_360_83-360_83_363_83-363_83_367_82-367_82_370_79-370_79_372_76-372_76_376_72-376_72_377_70-377_70_379_68-379_68_380_67-380_67_380_68-380_68_380_69-380_69_380_72-380_72_380_76-380_76_380_79-380_79_380_81-380_81_380_84-380_84_383_85-383_85_385_86-385_86_388_88-388_88_393_89-393_89_400_90-400_90_405_90-405_90_405_106-405_106_399_109-&employee_signature_date=2013-09-17+14%3A32%3A52&wizardAction=Next
+----audit_log_boundary--20130917_14:32:54--802fbc4fea4fa7d7ad456415714c1a98--
+----audit_log_boundary--20130917_14:32:57--3768e8ea25d04996be2c08ed3a76479a
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 271
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=4&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115&preparer_status=0&preparer_first_name=&preparer_last_name=&preparer_street_address=&preparer_city=&preparer_state=&preparer_zip_code=&preparer_signature=&preparer_signature_date=&wizardAction=Next
+----audit_log_boundary--20130917_14:32:57--3768e8ea25d04996be2c08ed3a76479a--
+----audit_log_boundary--20130917_14:32:57--d1cdd623c87c25a0a92a0bc3ee64cbba
+GET /integration/form_wizard.php?wizardAction=previewFormImage&section=1b&entry=1&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115 HTTP/1.1
+Accept: image/png, image/svg+xml, image/*;q=0.8, */*;q=0.5
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_14:32:57--d1cdd623c87c25a0a92a0bc3ee64cbba--
+----audit_log_boundary--20130917_14:33:02--adc7daed58bddbc7c14e71d3435794db
+POST /integration/form_wizard.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/integration/form_wizard.php
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 94
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+wizardStep=5&wizardKey=EkU3hJ2rRIINYK&ERCSESSID=etai80uijj1rebatg6bs32s115&wizardAction=Finish
+----audit_log_boundary--20130917_14:33:02--adc7daed58bddbc7c14e71d3435794db--
+----audit_log_boundary--20130917_17:51:30--cb7c3601a508ddf09d7a634e9c90fa0f
+GET /admin/sign_off.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/dashboard.php?ERCSESSID=r083cieaebdcsk3bbhno4ojc45
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+DNT: 1
+Connection: Keep-Alive
+Cookie: __utma=99073226.1390618881.1365453460.1377815595.1378390348.30; __utmz=99073226.1377815595.29.24.utmcsr=erc1.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/requisition_management.php; SESS68a6869fcb59422ccb59998d2d57d6c5=iai8aogt8djsaou6kq0ca560p4
+
+----audit_log_boundary--20130917_17:51:30--cb7c3601a508ddf09d7a634e9c90fa0f--

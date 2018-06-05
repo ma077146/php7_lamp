@@ -1,0 +1,5 @@
+Really simple txt file.
+
+Let's see how it is handled. I will put a key code in and see.
+
+{XGT56-IP04EW-KJKKU7-XD4329}

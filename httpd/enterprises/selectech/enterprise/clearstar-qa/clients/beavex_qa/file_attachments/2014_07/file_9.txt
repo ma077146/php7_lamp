@@ -1,0 +1,80 @@
+web_page_descs pagename LIKE 'CompanyParams'
+  - pagename = 'CompanyParams'
+  - pagetitle = 'Company Settings'
+  - menudesc = 'Settings'
+  - dbversion = 'v A1.3.489'
+  - uniqueid = 22671
+
+
+I was having that issue when the target was 'main' instead of 'top'.
+
+
+32799
+
+
+@currDbVer = 'v A1.4.620';
+
+
+-- Web page used for displaying Izenda Reports link
+INSERT INTO web_pages
+  (pagename, implementation, framename, helpname, componentcode, webpagestatus, dbversion, uniqueid, source, updatets, clientdata, comments) VALUES
+  ('CompanyIzendaReport', 'HTML', 'Link', '', 'Base', 'A', currDbVer, NNNNN, 'SP', CURRENT_TIMESTAMP, 'N', '');
+
+-- Web page used for displaying Izenda Reports redirect
+INSERT INTO web_pages
+  (pagename, implementation, framename, helpname, componentcode, webpagestatus, dbversion, uniqueid, source, updatets, clientdata, comments) VALUES
+  ('Izenda', 'Grails', 'ActionSimple', '', 'Base', 'A', currDbVer, NNNNN, 'SP', CURRENT_TIMESTAMP, 'N', '');
+
+
+-- Menu item for Izenda Reports link
+INSERT INTO menu_pages
+  (menuid, pagename, menuorder, menudesc, dbversion, uniqueid, source, clientdata, updatets) VALUES
+  ('COACompProfile', 'CompanyIzendaReport', 85, 'Izenda Reports', currDbVer, NNNNN, 'SP', 'N', CURRENT_TIMESTAMP);
+
+
+-- Web page description for Izenda Reports link
+INSERT INTO web_page_descs
+  (pagename, languagecode, pagetitle, menudesc, dbversion, uniqueid, source, clientdata, updatets) VALUES
+  ('CompanyIzendaReport', 'EN', 'Izenda Reports', 'Izenda Reports', currDbVer, NNNNN, 'SP', 'N', CURRENT_TIMESTAMP);
+
+-- Web page description for Izenda Reports redirect
+INSERT INTO web_page_descs
+  (pagename, languagecode, pagetitle, menudesc, dbversion, uniqueid, source, clientdata, updatets) VALUES
+  ('Izenda', 'EN', 'Izenda Reports', 'Izenda Reports', currDbVer, NNNNN, 'SP', 'N', CURRENT_TIMESTAMP);
+
+
+-- Process for Izenda Reports link
+INSERT INTO processes
+  (processname, processdesc, active, entitycontrolled, companycontrolled, companydefault, dbversion, uniqueid, processclass, clientdata, source, updatets) VALUES
+  ('IzendaLink', 'General process used for linking eHCM with Izenda', 'Y', 'N', 'N', 'N', currDbVer, NNNNN, '', 'N', 'SP', CURRENT_TIMESTAMP);
+
+-- Process for Izenda Reports redirect
+INSERT INTO processes
+  (processname, processdesc, active, entitycontrolled, companycontrolled, companydefault, dbversion, uniqueid, processclass, clientdata, source, updatets) VALUES
+  ('IzendaRedirect', 'Process for redirecting user to Izenda report system', 'Y', 'N', 'N', 'N', currDbVer, NNNNN, '', 'N', 'SP', CURRENT_TIMESTAMP);
+
+
+-- For now using same view used for "Reports" menu link ("COMPANYPAYROLLREPORTS2").
+-- May wish to create view for "Izenda Reports" menu link ("COMPANYIZENDAREPORT").
+-- Process link for displaying menu option
+INSERT INTO process_process_links
+  (pagename, processname, viewname, frompagename, sqlextensions, target, defaultsview, linkstate, processstate, dbversion, uniqueid, source, clientdata, comments, updatets) VALUES
+  ('CompanyIzendaReport', 'IzendaLink', 'COMPANYPAYROLLREPORTS2', 'Menu', '', 'blank', '*', 'Active', 'A', currDbVer, NNNNN, 'SP', 'N', '', CURRENT_TIMESTAMP);
+
+-- Process link for displaying Izenda redirect
+INSERT INTO process_process_links
+  (pagename, processname, viewname, frompagename, sqlextensions, target, defaultsview, linkstate, processstate, dbversion, uniqueid, source, clientdata, comments, updatets) VALUES
+  ('Izenda', 'IzendaRedirect', 'COMPANYPAYROLLREPORTS2', 'CompanyIzendaReport', '', '_top', '*', 'Active', 'A', currDbVer, NNNNN, 'SP', 'N', '', CURRENT_TIMESTAMP);
+
+
+SELECT * FROM process_process_links WHERE pagename='Izenda';
+UPDATE process_process_links SET frompagename='CompanyIzendaReport' WHERE pagename='Izenda';
+
+
+
+Test with process_process_links -> viewname = 'PROCESSDETAIL'
+
+
+Pass to Izenda
+session.user.id
+userID

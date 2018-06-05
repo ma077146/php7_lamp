@@ -1,0 +1,73 @@
+----audit_log_boundary--20170612_11:02:10--e97aaff1a3de488fef4a44d9d80039c9
+GET /admin/dashboard.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/select_client.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:02:10--e97aaff1a3de488fef4a44d9d80039c9--
+----audit_log_boundary--20170612_11:02:33--84cfe28b1e2b0421bf1d40210539672e
+GET /admin/state_config.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/dashboard.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:02:33--84cfe28b1e2b0421bf1d40210539672e--
+----audit_log_boundary--20170612_11:04:09--3e7d36dc2d415e8916514e0dcd1bcc69
+GET /admin/employee_list.php?&ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/state_config.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:04:09--3e7d36dc2d415e8916514e0dcd1bcc69--
+----audit_log_boundary--20170612_11:04:20--0a5f5f1d2aa0ab2b2eae915a0cdbb05d
+GET /admin/personal_settings.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/employee_list.php?&ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:04:20--0a5f5f1d2aa0ab2b2eae915a0cdbb05d--
+----audit_log_boundary--20170612_11:04:26--180e3dabb302c0ec0b0d14677e42e305
+GET /admin/user_list.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/personal_settings.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:04:26--180e3dabb302c0ec0b0d14677e42e305--
+----audit_log_boundary--20170612_11:04:32--c9d98c64ead24a0fb2c4dd0f8eb768e4
+GET /admin/state_config.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1 HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: http://i9.local/admin/user_list.php?ERCSESSID=239eaebea240dfb21b27fa60d64336e1
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170612_11:04:32--c9d98c64ead24a0fb2c4dd0f8eb768e4--

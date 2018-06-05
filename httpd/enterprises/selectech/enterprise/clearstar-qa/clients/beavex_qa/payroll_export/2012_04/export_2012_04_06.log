@@ -1,0 +1,8 @@
+2012-04-06 14:24:26: /websites/selectech_6.3/daemons/batch_payroll_export.php - Enterprise: clearstar-qa (16); Client: BeavEx QA (11)
+2012-04-06 14:24:26: Applications to be processed: 323, 324, 325
+2012-04-06 14:24:26: Payroll Export (NewHire_Export_Handler_ADPCsvFtp) - Started
+2012-04-06 14:24:32:  (NewHire_Export_Handler_ADPCsvFtp) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_04/EMP8XPB6.csv has been successfully placed on svr-ftp.ercdataplus.com as EMP8XPB6.csv for user BeavexFTP ( Attempt 1 ).
+2012-04-06 14:24:32: Payroll Export (NewHire_Export_Handler_ADPCsvFtp) - Successfully Completed
+2012-04-06 14:24:32: Output Report (NewHire_Export_Handler_EmailAuditPdf) - Started
+2012-04-06 14:24:32:  (NewHire_Export_Handler_EmailAuditPdf) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_04/2012_04_06_email_confirmation.pdf has been successfully emailed to debbie.flynn@ercdataplus.com, debflynn@gmail.com, ellen.hanington@ercdataplus.com
+2012-04-06 14:24:32: Output Report (NewHire_Export_Handler_EmailAuditPdf) - Successfully Completed

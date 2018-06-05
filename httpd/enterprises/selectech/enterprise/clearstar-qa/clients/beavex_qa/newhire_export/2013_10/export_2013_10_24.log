@@ -1,0 +1,221 @@
+2013-10-24 00:22:03: 
+
+New Hire Export executed from /websites/Yellow-PreHire-Git/admin/application_actions.php
+2013-10-24 00:22:03:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2013-10-24 00:22:03: Beginning export group associated with process step 193
+2013-10-24 00:22:03: Applications to be processed: 522
+2013-10-24 00:22:03: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2013-10-24 00:22:03: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2013-10-24 00:45:26: 
+
+New Hire Export executed from batch_payroll_export.php
+2013-10-24 00:45:26:  - Process Step: Batch Payroll Export (92) - BatchPayrollExport
+2013-10-24 00:45:26: Beginning export group associated with process step 92
+2013-10-24 00:45:26: Applications to be processed: 449, 453, 522
+2013-10-24 00:45:26: Populate Data - NewHire_Export_Handler_PopulateData (3) - Started
+2013-10-24 00:45:26: Populate Data - NewHire_Export_Handler_PopulateData (3) - Successfully Completed
+2013-10-24 01:47:55: 
+
+New Hire Export executed from /websites/Yellow-PreHire-Git/admin/application_actions.php
+2013-10-24 01:47:55:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2013-10-24 01:47:55: Beginning export group associated with process step 193
+2013-10-24 01:47:55: Applications to be processed: 523
+2013-10-24 01:47:55: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2013-10-24 01:47:55: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2013-10-24 02:00:57: 
+
+New Hire Export executed from batch_payroll_export.php
+2013-10-24 02:00:57:  - Process Step: Batch Payroll Export (92) - BatchPayrollExport
+2013-10-24 02:00:57: Beginning export group associated with process step 92
+2013-10-24 02:00:57: Applications to be processed: 523
+2013-10-24 02:00:57: Populate Data - NewHire_Export_Handler_PopulateData (3) - Started
+2013-10-24 02:00:57: Populate Data - NewHire_Export_Handler_PopulateData (3) - Successfully Completed
+2013-10-24 02:00:57: eHCM Export - NewHire_Export_Handler_eHCMKettle (6) - Started
+2013-10-24 02:01:07: Running shell script test_shell_script.sh with the following parameters
+  PARAM_1: beavex_qa
+  PARAM_2: clearstar-qa
+  PARAM_3: eHCM_db_name
+
+
+2013-10-24 02:01:07: eHCM Export - NewHire_Export_Handler_eHCMKettle (6) - ERROR Encountered
+2013-10-24 15:29:46: 
+
+New Hire Export executed from /websites/Yellow-PreHire-Git/admin/application_actions.php
+2013-10-24 15:29:46:  - Process Step: Initiate New Hire (193) - InitiateNewHireStep
+2013-10-24 15:29:46: Beginning export group associated with process step 193
+2013-10-24 15:29:46: Applications to be processed: 524
+2013-10-24 15:29:46: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Started
+2013-10-24 15:29:46: Initiate new hire - NewHire_Export_Handler_InitiateNewHire (4) - Successfully Completed
+2013-10-24 16:51:01: 
+
+New Hire Export executed from batch_payroll_export.php
+2013-10-24 16:51:01:  - Process Step: Batch Payroll Export (92) - BatchPayrollExport
+2013-10-24 16:51:01: Beginning export group associated with process step 92
+2013-10-24 16:51:01: Applications to be processed: 523, 524
+2013-10-24 16:51:01: Populate Data - NewHire_Export_Handler_PopulateData (3) - Started
+2013-10-24 16:51:01: Populate Data - NewHire_Export_Handler_PopulateData (3) - Successfully Completed
+2013-10-24 16:51:01: eHCM Export - NewHire_Export_Handler_eHCMKettle (6) - Started
+2013-10-24 16:51:44: WARN  24-10 16:51:35,398 - Unable to load Hadoop Configuration from "file:///bin/pdi/plugins/pentaho-big-data-plugin/hadoop-configurations/mapr". For more information enable debug logging.
+INFO  24-10 16:51:38,791 - Kitchen - Start of run.
+INFO  24-10 16:51:39,279 - RunYellowToSTech - Start of job execution
+INFO  24-10 16:51:39,294 - RunYellowToSTech - Starting entry [Set variables]
+INFO  24-10 16:51:39,327 - RunYellowToSTech - Starting entry [SetClientKey]
+INFO  24-10 16:51:39,354 - SetClientKey - Loading transformation from XML file [file:///websites/Yellow-PreHire-Git/daemons/eHCM_kettle/SetClientKey.ktr]
+INFO  24-10 16:51:40,647 - SetClientKey - Dispatching started for transformation [SetClientKey]
+INFO  24-10 16:51:41,401 - Set Variables - We didn't receive a row while setting the default values.
+INFO  24-10 16:51:41,402 - Set Variables - Finished after 0 rows.
+INFO  24-10 16:51:41,405 - RunYellowToSTech - Starting entry [STechToYellow]
+INFO  24-10 16:51:41,408 - STechToYellow - Loading transformation from XML file [file:///websites/Yellow-PreHire-Git/daemons/eHCM_kettle/DenormalizeSelectechToYellowHR.ktr]
+INFO  24-10 16:51:41,821 - DenormalizeYellowToSelectech - Dispatching started for transformation [DenormalizeYellowToSelectech]
+INFO  24-10 16:51:42,749 - selectech - Creating database connection pool for 'selectech'...
+INFO  24-10 16:51:42,754 - selectech - Creating database connection pool for 'selectech'...
+INFO  24-10 16:51:42,755 - selectech - Creating database connection pool for 'selectech'...
+ERROR 24-10 16:51:42,812 - Get exportData - An error occurred, processing will be stopped: 
+Error occured while trying to connect to the database
+
+Error occured while trying to connect to the database
+
+Unable to load driver for database connection pool [selectech] and class [org.gjt.mm.mysql.Driver]
+org.gjt.mm.mysql.Driver
+
+
+
+ERROR 24-10 16:51:42,813 - Update newhire hr_status and timestamp - An error occurred, processing will be stopped: 
+Error occured while trying to connect to the database
+
+Error occured while trying to connect to the database
+
+Unable to load driver for database connection pool [selectech] and class [org.gjt.mm.mysql.Driver]
+org.gjt.mm.mysql.Driver
+
+
+
+ERROR 24-10 16:51:42,814 - GetApps that are ready - An error occurred, processing will be stopped: 
+Error occured while trying to connect to the database
+
+Error occured while trying to connect to the database
+
+Unable to load driver for database connection pool [selectech] and class [org.gjt.mm.mysql.Driver]
+org.gjt.mm.mysql.Driver
+
+
+
+ERROR 24-10 16:51:42,814 - Get exportData - Error initializing step [Get exportData]
+ERROR 24-10 16:51:42,814 - Update newhire hr_status and timestamp - Error initializing step [Update newhire hr_status and timestamp]
+ERROR 24-10 16:51:42,814 - GetApps that are ready - Error initializing step [GetApps that are ready]
+ERROR 24-10 16:51:43,715 - AuditError_NewhireToYellow - An error occurred intialising this step: 
+Error occured while trying to connect to the database
+
+Error connecting to database: (using class org.postgresql.Driver)
+Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+
+
+ERROR 24-10 16:51:43,715 - AuditError_NewhireToYellow - Error initializing step [AuditError_NewhireToYellow]
+ERROR 24-10 16:51:43,716 - NewHireOut - An error occurred intialising this step: 
+Error occured while trying to connect to the database
+
+Error connecting to database: (using class org.postgresql.Driver)
+Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+
+
+ERROR 24-10 16:51:43,716 - NewHireOut - Error initializing step [NewHireOut]
+ERROR 24-10 16:51:43,716 - DenormalizeYellowToSelectech - Step [AuditError_NewhireToYellow.0] failed to initialize!
+ERROR 24-10 16:51:43,716 - DenormalizeYellowToSelectech - Step [GetApps that are ready.0] failed to initialize!
+ERROR 24-10 16:51:43,716 - DenormalizeYellowToSelectech - Step [NewHireOut.0] failed to initialize!
+ERROR 24-10 16:51:43,716 - DenormalizeYellowToSelectech - Step [Update newhire hr_status and timestamp.0] failed to initialize!
+ERROR 24-10 16:51:43,716 - DenormalizeYellowToSelectech - Step [Get exportData.0] failed to initialize!
+ERROR 24-10 16:51:43,716 - AuditError_NewhireToYellow - Unexpected error rolling back the database connection.
+ERROR 24-10 16:51:43,716 - AuditError_NewhireToYellow - org.pentaho.di.core.exception.KettleDatabaseException: 
+Unable to get database metadata from this database connection
+	at org.pentaho.di.job.Job.run (Job.java:363)
+	at org.pentaho.di.job.Job.execute (Job.java:443)
+	at org.pentaho.di.job.Job.execute (Job.java:728)
+	at org.pentaho.di.job.Job.execute (Job.java:728)
+	at org.pentaho.di.job.Job.execute (Job.java:728)
+	at org.pentaho.di.job.Job.execute (Job.java:589)
+	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute (JobEntryTrans.java:1034)
+	at org.pentaho.di.trans.Trans.execute (Trans.java:504)
+	at org.pentaho.di.trans.Trans.prepareExecution (Trans.java:906)
+	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose (TableOutput.java:708)
+	at org.pentaho.di.core.database.Database.rollback (Database.java:713)
+	at org.pentaho.di.core.database.Database.rollback (Database.java:724)
+	at org.pentaho.di.core.database.Database.getDatabaseMetaData (Database.java:3101)
+
+	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3105)
+	at org.pentaho.di.core.database.Database.rollback(Database.java:724)
+	at org.pentaho.di.core.database.Database.rollback(Database.java:713)
+	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:708)
+	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:906)
+	at org.pentaho.di.trans.Trans.execute(Trans.java:504)
+	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1034)
+	at org.pentaho.di.job.Job.execute(Job.java:589)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:443)
+	at org.pentaho.di.job.Job.run(Job.java:363)
+Caused by: java.lang.NullPointerException
+	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3101)
+	... 12 more
+
+INFO  24-10 16:51:43,716 - GetApps that are ready - Finished reading query, closing connection.
+ERROR 24-10 16:51:43,716 - NewHireOut - Unexpected error rolling back the database connection.
+ERROR 24-10 16:51:43,717 - NewHireOut - org.pentaho.di.core.exception.KettleDatabaseException: 
+Unable to get database metadata from this database connection
+	at org.pentaho.di.job.Job.run (Job.java:363)
+	at org.pentaho.di.job.Job.execute (Job.java:443)
+	at org.pentaho.di.job.Job.execute (Job.java:728)
+	at org.pentaho.di.job.Job.execute (Job.java:728)
+	at org.pentaho.di.job.Job.execute (Job.java:728)
+	at org.pentaho.di.job.Job.execute (Job.java:589)
+	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute (JobEntryTrans.java:1034)
+	at org.pentaho.di.trans.Trans.execute (Trans.java:504)
+	at org.pentaho.di.trans.Trans.prepareExecution (Trans.java:906)
+	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose (TableOutput.java:708)
+	at org.pentaho.di.core.database.Database.rollback (Database.java:713)
+	at org.pentaho.di.core.database.Database.rollback (Database.java:724)
+	at org.pentaho.di.core.database.Database.getDatabaseMetaData (Database.java:3101)
+
+	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3105)
+	at org.pentaho.di.core.database.Database.rollback(Database.java:724)
+	at org.pentaho.di.core.database.Database.rollback(Database.java:713)
+	at org.pentaho.di.trans.steps.tableoutput.TableOutput.dispose(TableOutput.java:708)
+	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:906)
+	at org.pentaho.di.trans.Trans.execute(Trans.java:504)
+	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1034)
+	at org.pentaho.di.job.Job.execute(Job.java:589)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:443)
+	at org.pentaho.di.job.Job.run(Job.java:363)
+Caused by: java.lang.NullPointerException
+	at org.pentaho.di.core.database.Database.getDatabaseMetaData(Database.java:3101)
+	... 12 more
+
+INFO  24-10 16:51:43,717 - Get exportData - Finished reading query, closing connection.
+ERROR 24-10 16:51:43,718 - STechToYellow - Unable to prepare for execution of the transformation
+ERROR 24-10 16:51:43,718 - STechToYellow - org.pentaho.di.core.exception.KettleException: 
+We failed to initialize at least one step.  Execution can not begin!
+
+
+	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:932)
+	at org.pentaho.di.trans.Trans.execute(Trans.java:504)
+	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1034)
+	at org.pentaho.di.job.Job.execute(Job.java:589)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:728)
+	at org.pentaho.di.job.Job.execute(Job.java:443)
+	at org.pentaho.di.job.Job.run(Job.java:363)
+
+INFO  24-10 16:51:43,719 - RunYellowToSTech - Finished job entry [STechToYellow] (result=[false])
+INFO  24-10 16:51:43,719 - RunYellowToSTech - Finished job entry [SetClientKey] (result=[false])
+INFO  24-10 16:51:43,719 - RunYellowToSTech - Finished job entry [Set variables] (result=[false])
+INFO  24-10 16:51:43,719 - RunYellowToSTech - Job execution finished
+INFO  24-10 16:51:43,720 - Kitchen - Finished!
+ERROR 24-10 16:51:43,720 - Kitchen - Finished with errors
+INFO  24-10 16:51:43,720 - Kitchen - Start=2013/10/24 16:51:38.794, Stop=2013/10/24 16:51:43.720
+INFO  24-10 16:51:43,720 - Kitchen - Processing ended after 4 seconds.
+
+2013-10-24 16:51:44: eHCM Export - NewHire_Export_Handler_eHCMKettle (6) - Successfully Completed

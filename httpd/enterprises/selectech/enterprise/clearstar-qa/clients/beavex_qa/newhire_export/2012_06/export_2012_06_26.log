@@ -1,0 +1,12 @@
+2012-06-26 16:13:50: 
+
+New Hire Export executed from batch_payroll_export.php
+2012-06-26 16:13:50:  - Process Step: Batch Payroll Export (92) - BatchPayrollExport
+2012-06-26 16:13:50: Beginning export group associated with process step 92
+2012-06-26 16:13:50: Applications to be processed: 430
+2012-06-26 16:13:50: Payroll Export - NewHire_Export_Handler_ADPCsvFtp (1) - Started
+2012-06-26 16:13:55:  (NewHire_Export_Handler_ADPCsvFtp) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_06/EMP8XPBq.csv has been successfully placed on svr-ftp.ercdataplus.com as EMP8XPBq.csv for user erctest ( Attempt 1 ).
+2012-06-26 16:13:56: Payroll Export - NewHire_Export_Handler_ADPCsvFtp (1) - Successfully Completed
+2012-06-26 16:13:56: Output Report - NewHire_Export_Handler_EmailAuditPdf (2) - Started
+2012-06-26 16:13:56:  (NewHire_Export_Handler_EmailAuditPdf) - The file /selectech/enterprise/clearstar-qa/clients/beavex_qa/payroll_export/2012_06/2012_06_26_email_confirmation.pdf has been successfully emailed to debbie.flynn@ercdataplus.com, brent.flynn@ercdataplus.com, ellen.hanington@ercdataplus.com
+2012-06-26 16:13:56: Output Report - NewHire_Export_Handler_EmailAuditPdf (2) - Successfully Completed

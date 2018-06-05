@@ -1,0 +1,42 @@
+----audit_log_boundary--20100727_09:36:41--b496da305a00d5ddcf755ab3fb825bed
+GET /admin/dashboard.php?ERCSESSID=d7t1m1c969sn0m1s0tpnebm8u3 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.10) Gecko/20100504 Firefox/3.5.10 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/select_client_db.php?ERCSESSID=d7t1m1c969sn0m1s0tpnebm8u3
+Cookie: __utma=99073226.55764818.1151425257.1279222882.1279286972.4; __utmz=99073226.1279217971.2.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utmc=99073226
+
+----audit_log_boundary--20100727_09:36:41--b496da305a00d5ddcf755ab3fb825bed--
+----audit_log_boundary--20100727_09:36:41--847cc944753537ff692f0ddab100e702
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=d7t1m1c969sn0m1s0tpnebm8u3 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.10) Gecko/20100504 Firefox/3.5.10 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/dashboard.php?ERCSESSID=d7t1m1c969sn0m1s0tpnebm8u3
+Cookie: __utma=99073226.55764818.1151425257.1279222882.1279286972.4; __utmz=99073226.1279217971.2.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utmc=99073226
+
+----audit_log_boundary--20100727_09:36:41--847cc944753537ff692f0ddab100e702--
+----audit_log_boundary--20100727_09:36:42--4e6793eb00404be6af4c3352129f3d7f
+GET /admin/folder_navigation.php?scr=content&tab=0&ERCSESSID=d7t1m1c969sn0m1s0tpnebm8u3 HTTP/1.1
+Host: svs-stage.ercdataplus.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.10) Gecko/20100504 Firefox/3.5.10 (.NET CLR 3.5.30729)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://svs-stage.ercdataplus.com/admin/folder_navigation.php?scr=body&ERCSESSID=d7t1m1c969sn0m1s0tpnebm8u3
+Cookie: __utma=99073226.55764818.1151425257.1279222882.1279286972.4; __utmz=99073226.1279217971.2.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utmc=99073226
+
+----audit_log_boundary--20100727_09:36:42--4e6793eb00404be6af4c3352129f3d7f--

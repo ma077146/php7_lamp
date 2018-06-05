@@ -1,0 +1,117 @@
+----audit_log_boundary--20111212_14:14:17--d3e4593bd3f6231de595df6163ec4e0c
+GET /admin/dashboard.php?ERCSESSID=3fnmjphi9m2utfdtkbjgbm07v1 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=3fnmjphi9m2utfdtkbjgbm07v1
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1848334908.1322492078.1323442687.1323704172.14; __utmz=99073226.1323358409.12.8.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; __utmc=99073226
+
+----audit_log_boundary--20111212_14:14:17--d3e4593bd3f6231de595df6163ec4e0c--
+----audit_log_boundary--20111212_14:14:19--b38e43b0ba97f3fe0fdab343da603519
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=3fnmjphi9m2utfdtkbjgbm07v1 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.1848334908.1322492078.1323442687.1323704172.14; __utmz=99073226.1323358409.12.8.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; __utmc=99073226
+
+----audit_log_boundary--20111212_14:14:19--b38e43b0ba97f3fe0fdab343da603519--
+----audit_log_boundary--20111212_14:14:24--e6e52f2dd0cdbde86dfa106d8d39a57d
+POST /admin/new_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=3fnmjphi9m2utfdtkbjgbm07v1
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: multipart/form-data; boundary=---------------------------7db35417100b56
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 1717
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1848334908.1322492078.1323442687.1323704172.14; __utmz=99073226.1323358409.12.8.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; __utmc=99073226
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="wizardKey"
+
+jLV55L7s0Yz
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="ERCSESSID"
+
+3fnmjphi9m2utfdtkbjgbm07v1
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="firstName"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="lastName"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="hireDate_month"
+
+0
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="hireDate_day"
+
+0
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="hireDate_year"
+
+0
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="ssn"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="locationId"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="positionId"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="phoneNumber_area"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="phoneNumber_local1"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="phoneNumber_local2"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="emailAddress"
+
+
+-----------------------------7db35417100b56
+Content-Disposition: form-data; name="wizardAction"
+
+Cancel
+-----------------------------7db35417100b56--
+----audit_log_boundary--20111212_14:14:24--e6e52f2dd0cdbde86dfa106d8d39a57d--
+----audit_log_boundary--20111212_14:14:24--dd4c08e625884aadfd6d3a8282c5da79
+GET /admin/employee_list.php?qrt=NEW&ERCSESSID=3fnmjphi9m2utfdtkbjgbm07v1 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=3fnmjphi9m2utfdtkbjgbm07v1
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.1848334908.1322492078.1323442687.1323704172.14; __utmz=99073226.1323358409.12.8.utmcsr=saferplacesinc.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_list.php; __utmc=99073226
+
+----audit_log_boundary--20111212_14:14:24--dd4c08e625884aadfd6d3a8282c5da79--

@@ -1,0 +1,13 @@
+----audit_log_boundary--20170512_15:46:39--f5aba474e5c0f62939b259f108255dc9
+GET /admin/dashboard.php? HTTP/1.1
+Host: i9.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: PHPSESSID=r633br5o7gqu803la9g6nb5mc1
+
+----audit_log_boundary--20170512_15:46:39--f5aba474e5c0f62939b259f108255dc9--

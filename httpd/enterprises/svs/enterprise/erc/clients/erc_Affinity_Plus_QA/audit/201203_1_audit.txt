@@ -1,0 +1,377 @@
+----audit_log_boundary--20120301_09:35:08--d830ac02d7d471e29813b30a4a095ac9
+GET /admin/dashboard.php?ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:35:08--d830ac02d7d471e29813b30a4a095ac9--
+----audit_log_boundary--20120301_09:35:56--99fb055e09bb31677d817dd8f962dfdd
+GET /admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:35:56--99fb055e09bb31677d817dd8f962dfdd--
+----audit_log_boundary--20120301_09:36:22--2c5a514b7e69d01469bee229614f0ba1
+POST /admin/new_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php?wizardAction=NEW&wizard=Employee&ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: multipart/form-data; boundary=---------------------------7dc20916204e6
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 1749
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="wizardStep"
+
+0
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="wizardKey"
+
+29U6OVb64Il7s
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="ERCSESSID"
+
+ujl4ukenpni3lluteri00k98p5
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="firstName"
+
+Scott
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="lastName"
+
+Kunz
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="hireDate_month"
+
+3
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="hireDate_day"
+
+1
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="hireDate_year"
+
+2012
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="ssn"
+
+123456789
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="locationId"
+
+1
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="positionId"
+
+1
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="phoneNumber_area"
+
+
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="phoneNumber_local1"
+
+
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="phoneNumber_local2"
+
+
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="emailAddress"
+
+scott.kunz@ercdataplus.com
+-----------------------------7dc20916204e6
+Content-Disposition: form-data; name="wizardAction"
+
+Next
+-----------------------------7dc20916204e6--
+----audit_log_boundary--20120301_09:36:22--2c5a514b7e69d01469bee229614f0ba1--
+----audit_log_boundary--20120301_09:36:25--d43832a1440a784c636b1f6ff4a8549a
+POST /admin/new_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/new_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: multipart/form-data; boundary=---------------------------7dc1ba19204e6
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 488
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-----------------------------7dc1ba19204e6
+Content-Disposition: form-data; name="wizardStep"
+
+1
+-----------------------------7dc1ba19204e6
+Content-Disposition: form-data; name="wizardKey"
+
+29U6OVb64Il7s
+-----------------------------7dc1ba19204e6
+Content-Disposition: form-data; name="ERCSESSID"
+
+ujl4ukenpni3lluteri00k98p5
+-----------------------------7dc1ba19204e6
+Content-Disposition: form-data; name="wizardAction"
+
+Finish
+-----------------------------7dc1ba19204e6--
+----audit_log_boundary--20120301_09:36:25--d43832a1440a784c636b1f6ff4a8549a--
+----audit_log_boundary--20120301_09:36:26--9227f30933d406bafa81bc0ab30d960c
+GET /admin/employee_management.php?id=8&dTab=forms&formSelect=1&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:36:26--9227f30933d406bafa81bc0ab30d960c--
+----audit_log_boundary--20120301_09:36:33--3d2013c045f85b52a56b810f1970a82f
+GET /admin/form_wizard.php?wizardAction=ADD&eid=8&fid=3&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:36:33--3d2013c045f85b52a56b810f1970a82f--
+----audit_log_boundary--20120301_09:36:36--49116f523d686bc51d6326ee1fae24a5
+POST /admin/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php?wizardAction=ADD&eid=8&fid=3&ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 93
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=0&wizardKey=d1jNdOA1prt1H&ERCSESSID=ujl4ukenpni3lluteri00k98p5&wizardAction=Finish
+----audit_log_boundary--20120301_09:36:36--49116f523d686bc51d6326ee1fae24a5--
+----audit_log_boundary--20120301_09:36:41--ddafc0ad435526ee487b2b08afc8a011
+GET /admin/employee_management.php?id=8&dTab=forms&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:36:41--ddafc0ad435526ee487b2b08afc8a011--
+----audit_log_boundary--20120301_09:37:23--488bb6ab39a677b7c83fb5cf8eee96cf
+POST /employee/invitation_login.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/invitation_login.php?kvtURfqcXlGB3hiVJ1h33CIVJ2CNB4n1SVJ1nB3hQ1k6hLw8eWJ3Y1VJ1Y3
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 81
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&lastName=kunz&ssn=123456789&formAction=Login
+----audit_log_boundary--20120301_09:37:23--488bb6ab39a677b7c83fb5cf8eee96cf--
+----audit_log_boundary--20120301_09:37:23--d16a96ec0d1dc360e3c87f27cf875c59
+GET /employee/form_wizard.php?wizardAction=NEW&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/invitation_login.php?kvtURfqcXlGB3hiVJ1h33CIVJ2CNB4n1SVJ1nB3hQ1k6hLw8eWJ3Y1VJ1Y3
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:37:23--d16a96ec0d1dc360e3c87f27cf875c59--
+----audit_log_boundary--20120301_09:37:30--316e5940918de31a4f293202451eef9f
+POST /employee/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php?wizardAction=NEW&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 90
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=0&wizardKey=eS90aNhGp5Em&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&wizardAction=Next
+----audit_log_boundary--20120301_09:37:30--316e5940918de31a4f293202451eef9f--
+----audit_log_boundary--20120301_09:37:45--14a726adc01e9e2d7b8476c03a56f7a1
+POST /employee/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 291
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=1&wizardKey=eS90aNhGp5Em&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&first_name=Scott&last_name=Kunz&middle_initial=&maiden_name=&address=50+Washington&apt_num=&city=Norwalk&state=CT&zip_code=06854&birth_date_month=3&birth_date_day=24&birth_date_year=1976&ssn=123456789&wizardAction=Next
+----audit_log_boundary--20120301_09:37:45--14a726adc01e9e2d7b8476c03a56f7a1--
+----audit_log_boundary--20120301_09:37:48--c2ba5913eedc4e524806c8712d18fe9b
+POST /employee/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 197
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=2&wizardKey=eS90aNhGp5Em&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&citizen_status=4&alien_id_6=&alien_id_7=&work_auth_date_month=0&work_auth_date_day=0&work_auth_date_year=0&wizardAction=Next
+----audit_log_boundary--20120301_09:37:48--c2ba5913eedc4e524806c8712d18fe9b--
+----audit_log_boundary--20120301_09:37:53--5c9a6ac571f1f84033c23e1abaa31983
+POST /employee/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 1570
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=3&wizardKey=eS90aNhGp5Em&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&employee_signature=55_77_56_76-56_76_57_75-57_75_53_74-53_74_52_74-52_74_46_74-46_74_47_71-47_71_60_54-60_54_70_35-70_35_78_24-78_24_79_22-79_22_79_21-79_21_77_21-77_21_75_21-75_21_73_21-73_21_70_24-70_24_67_29-67_29_63_33-63_33_61_40-61_40_57_46-57_46_56_53-56_53_56_58-56_58_56_65-56_65_59_74-59_74_64_81-64_81_70_86-70_86_78_93-78_93_85_96-85_96_94_96-94_96_104_94-104_94_113_89-113_89_119_84-119_84_124_80-124_80_127_74-127_74_127_71-127_71_123_67-123_67_118_64-118_64_111_62-111_62_104_61-104_61_98_61-98_61_93_61-93_61_88_63-88_63_87_64-87_64_86_65-86_65_87_65-87_65_91_65-91_65_99_66-99_66_110_66-110_66_124_64-124_64_151_58-151_58_160_56-160_56_166_53-166_53_165_53-165_53_163_55-163_55_160_57-160_57_158_60-158_60_155_62-155_62_154_65-154_65_154_66-154_66_158_66-158_66_161_65-161_65_166_62-166_62_185_49-185_49_188_45-188_45_187_42-187_42_186_42-186_42_185_42-185_42_184_42-184_42_179_46-179_46_173_53-173_53_166_63-166_63_166_74-166_74_164_84-164_84_166_90-166_90_173_92-173_92_190_94-190_94_208_94-208_94_231_92-231_92_258_85-258_85_286_73-286_73_325_58-325_58_329_50-329_50_310_44-310_44_297_44-297_44_282_46-282_46_268_55-268_55_261_67-261_67_256_79-256_79_257_85-257_85_263_89-263_89_273_93-273_93_288_96-288_96_305_96-305_96_321_96-321_96_338_96-338_96_351_94-351_94_354_91-354_91_355_90-355_90_353_89-353_89_350_88-350_88_346_88-346_88_341_85-341_85_336_85-336_85_333_85-333_85_331_90-331_90_337_98-337_98_343_103-&employee_signature_date=2012-03-01+09%3A37%3A52&wizardAction=Next
+----audit_log_boundary--20120301_09:37:53--5c9a6ac571f1f84033c23e1abaa31983--
+----audit_log_boundary--20120301_09:37:56--dbcbe58a347d67c4300da5d5754a1b50
+POST /employee/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 243
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=4&wizardKey=eS90aNhGp5Em&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&preparer_status=0&preparer_name=&preparer_street_address=&preparer_city=&preparer_state=&preparer_zip_code=&preparer_signature=&preparer_signature_date=&wizardAction=Next
+----audit_log_boundary--20120301_09:37:56--dbcbe58a347d67c4300da5d5754a1b50--
+----audit_log_boundary--20120301_09:37:57--ad6ab5561caecd28c3bc420ff3c53bf8
+POST /employee/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/employee/form_wizard.php
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 92
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=5&wizardKey=eS90aNhGp5Em&ERCSESSID=0coctee9vtrra7b6s3gmbjgc40&wizardAction=Finish
+----audit_log_boundary--20120301_09:37:57--ad6ab5561caecd28c3bc420ff3c53bf8--
+----audit_log_boundary--20120301_09:38:05--799085660bbfb727087cd751a58b66a5
+GET /admin/employee_list.php?filter=stored&view=stored&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=8&dTab=forms&ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:38:05--799085660bbfb727087cd751a58b66a5--
+----audit_log_boundary--20120301_09:38:11--052704850d08f65e9de95fb5d1fc4419
+GET /admin/employee_management.php?id=8&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/employee_list.php?filter=stored&view=stored&ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:38:11--052704850d08f65e9de95fb5d1fc4419--
+----audit_log_boundary--20120301_09:38:15--6546f40391098f4e6cc00e68620e4ee2
+POST /admin/employee_management.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/employee_management.php?id=8&ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 72
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+ERCSESSID=ujl4ukenpni3lluteri00k98p5&id=8&efid=&dTab=forms&buttonAction=
+----audit_log_boundary--20120301_09:38:15--6546f40391098f4e6cc00e68620e4ee2--
+----audit_log_boundary--20120301_09:38:16--9e1384b042ca544af385907b92f57996
+GET /admin/form_wizard.php?efid=8&fsid=2&wizardAction=NEW&ERCSESSID=ujl4ukenpni3lluteri00k98p5 HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20120301_09:38:16--9e1384b042ca544af385907b92f57996--
+----audit_log_boundary--20120301_09:38:19--ffa3335989b3140efd656b3b2fc18ae3
+POST /admin/form_wizard.php HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/form_wizard.php?efid=8&fsid=2&wizardAction=NEW&ERCSESSID=ujl4ukenpni3lluteri00k98p5
+Accept-Language: en-us
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Content-Length: 89
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: gk_gamebox_tpl=gk_gamebox; __utma=99073226.2067388779.1304705303.1330024209.1330029646.18; __utmz=99073226.1304705303.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+wizardStep=0&wizardKey=duL02F050q5&ERCSESSID=ujl4ukenpni3lluteri00k98p5&wizardAction=Next
+----audit_log_boundary--20120301_09:38:19--ffa3335989b3140efd656b3b2fc18ae3--

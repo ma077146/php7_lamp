@@ -1,0 +1,13 @@
+----audit_log_boundary--20130611_14:53:20--d6953590f71689e52d686e45d4963215
+GET /admin/dashboard.php?ERCSESSID=ijj2e6vh4o56pb0rh85m1f2jh7 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: https://svs-qa.ercdataplus.com/admin/select_client.php?ERCSESSID=ijj2e6vh4o56pb0rh85m1f2jh7
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MDDRJS)
+Accept-Encoding: gzip, deflate
+Host: svs-qa.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: SESS68a6869fcb59422ccb59998d2d57d6c5=dm0fqgk68q70mmrdg58cgarb81; __utma=99073226.987626380.1370610685.1370610685.1370881001.2; __utmz=99073226.1370881001.2.2.utmcsr=inquirehire.ercdataplus.com|utmccn=(referral)|utmcmd=referral|utmcct=/admin/applicant_management.php
+
+----audit_log_boundary--20130611_14:53:20--d6953590f71689e52d686e45d4963215--

@@ -1,0 +1,40 @@
+----audit_log_boundary--20100402_08:43:17--77453c9369a0772594a15feb3a3deeff
+GET /admin/dashboard.php?ERCSESSID=sdsed08ogiarsgg43m57tbq0t3 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: http://svs-stage.ercdataplus.com/admin/select_client_db.php?ERCSESSID=sdsed08ogiarsgg43m57tbq0t3
+Accept-Language: en-us
+UA-CPU: x86
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: svs-stage.ercdataplus.com
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=99073226.709107112.1264616664.1269879771.1269970825.5; __utmz=99073226.1264616664.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20100402_08:43:17--77453c9369a0772594a15feb3a3deeff--
+----audit_log_boundary--20100402_08:43:18--81ea746ba93136a60355bf427481610a
+GET /admin/folder_navigation.php?scr=body&ERCSESSID=sdsed08ogiarsgg43m57tbq0t3 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: http://svs-stage.ercdataplus.com/admin/dashboard.php?ERCSESSID=sdsed08ogiarsgg43m57tbq0t3
+Accept-Language: en-us
+UA-CPU: x86
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: svs-stage.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.709107112.1264616664.1269879771.1269970825.5; __utmz=99073226.1264616664.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20100402_08:43:18--81ea746ba93136a60355bf427481610a--
+----audit_log_boundary--20100402_08:43:18--308615479d2d05080f8559475c77e6ff
+GET /admin/folder_navigation.php?scr=content&tab=1&ERCSESSID=sdsed08ogiarsgg43m57tbq0t3 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, application/x-shockwave-flash, application/x-ms-application, application/x-ms-xbap, application/vnd.ms-xpsdocument, application/xaml+xml, */*
+Referer: http://svs-stage.ercdataplus.com/admin/folder_navigation.php?scr=body&ERCSESSID=sdsed08ogiarsgg43m57tbq0t3
+Accept-Language: en-us
+UA-CPU: x86
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Host: svs-stage.ercdataplus.com
+Connection: Keep-Alive
+Cookie: __utma=99073226.709107112.1264616664.1269879771.1269970825.5; __utmz=99073226.1264616664.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+----audit_log_boundary--20100402_08:43:18--308615479d2d05080f8559475c77e6ff--

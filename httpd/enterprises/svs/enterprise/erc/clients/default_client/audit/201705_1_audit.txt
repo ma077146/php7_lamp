@@ -1,0 +1,13 @@
+----audit_log_boundary--20170508_07:58:09--21539052382bd416213c879983f67042
+GET /admin/dashboard.php?ERCSESSID=g94dilb9qb470dmnhj3ddq0oo0 HTTP/1.1
+Host: i9.fedora.erc.local
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Referer: https://i9.fedora.erc.local/admin/select_client.php?ERCSESSID=g94dilb9qb470dmnhj3ddq0oo0
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+
+----audit_log_boundary--20170508_07:58:09--21539052382bd416213c879983f67042--

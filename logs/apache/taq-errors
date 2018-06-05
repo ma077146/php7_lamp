@@ -1,0 +1,7 @@
+[Tue Jun 05 16:42:12.471940 2018] [ssl:warn] [pid 6] AH01906: taq.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:42:12.680550 2018] [ssl:warn] [pid 6] AH01906: taq.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:44:51.070193 2018] [ssl:warn] [pid 6] AH01906: taq.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:44:51.132735 2018] [ssl:warn] [pid 6] AH01906: taq.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:52:27.356161 2018] [ssl:warn] [pid 6] AH01906: taq.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:52:27.487266 2018] [ssl:warn] [pid 6] AH01906: taq.local:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Jun 05 16:52:47.392124 2018] [php7:notice] [pid 9] [client 192.168.99.1:61491] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /usr/share/pear/HTTP/Request.php on line 412

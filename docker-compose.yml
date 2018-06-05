@@ -1,0 +1,43 @@
+version: '3'
+
+services:
+    httpd:
+      build: ./httpd/
+      ports:
+        - 80:80
+        - 443:443
+        - 9000:9000
+      restart: always
+      depends_on:
+        - mysql
+      networks:
+        - default
+      tmpfs:
+        - /var/www/html/var/cache:exec,mode=777
+        - /var/www/html/var/log:exec,mode=777
+      volumes:
+        - ./repos:/var/www
+        - ./logs/apache:/var/log/apache2
+    mysql:
+      build: ./mysql/
+      environment:
+        MYSQL_DATABASE: project
+        MYSQL_USER: admin
+        MYSQL_PASSWORD: secret
+        MYSQL_ROOT_PASSWORD: password
+      ports:
+        - 3306:3306
+      networks:
+        - default
+      volumes:
+        - ./logs/mysql:/var/log/mysql
+        # Put .sql / .sql.gz to this folder to create new db every time
+        - ./data:/docker-entrypoint-initdb.d
+        # or use persistent Database
+        - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
+
+networks:
+  default:
