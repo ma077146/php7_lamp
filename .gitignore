@@ -1,3 +1,5 @@
-httpd/repos/*
-/mysql/data/*
+httpd/repos/
+httpd/enterprises/
+**/logs
+/mysql/data/
 

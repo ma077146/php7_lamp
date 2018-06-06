@@ -1,9 +1,0 @@
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
-[Tue Jun 05 16:42:12.684899 2018] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.29 (Ubuntu) PHP/7.2.5-0ubuntu0.18.04.1 OpenSSL/1.1.0g configured -- resuming normal operations
-[Tue Jun 05 16:42:12.686687 2018] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
-[Tue Jun 05 16:44:51.133294 2018] [core:warn] [pid 6] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
-[Tue Jun 05 16:44:51.136026 2018] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.29 (Ubuntu) PHP/7.2.5-0ubuntu0.18.04.1 OpenSSL/1.1.0g configured -- resuming normal operations
-[Tue Jun 05 16:44:51.137516 2018] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
-[Tue Jun 05 16:52:27.491434 2018] [mpm_prefork:notice] [pid 6] AH00163: Apache/2.4.29 (Ubuntu) PHP/7.2.5-0ubuntu0.18.04.1 OpenSSL/1.1.0g configured -- resuming normal operations
-[Tue Jun 05 16:52:27.496956 2018] [core:notice] [pid 6] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
