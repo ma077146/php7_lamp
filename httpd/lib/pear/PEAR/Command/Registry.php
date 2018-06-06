@@ -98,9 +98,9 @@ installed package.'
      *
      * @access public
      */
-    function PEAR_Command_Registry(&$ui, &$config)
+    function __construct(&$ui, &$config)
     {
-        parent::PEAR_Command_Common($ui, $config);
+        parent::__construct($ui, $config);
     }
 
     function _sortinfo($a, $b)
@@ -261,7 +261,7 @@ installed package.'
                 require_once 'PEAR/PackageFile.php';
             }
 
-            $pkg = &new PEAR_PackageFile($this->config, $this->_debug);
+            $pkg = new PEAR_PackageFile($this->config, $this->_debug);
             PEAR::staticPushErrorHandling(PEAR_ERROR_RETURN);
             $info = &$pkg->fromAnyFile($params[0], PEAR_VALIDATE_NORMAL);
             PEAR::staticPopErrorHandling();
@@ -433,7 +433,7 @@ installed package.'
                 require_once 'PEAR/PackageFile.php';
             }
 
-            $pkg = &new PEAR_PackageFile($this->config, $this->_debug);
+            $pkg = new PEAR_PackageFile($this->config, $this->_debug);
             PEAR::staticPushErrorHandling(PEAR_ERROR_RETURN);
             $obj = &$pkg->fromAnyFile($params[0], PEAR_VALIDATE_NORMAL);
             PEAR::staticPopErrorHandling();

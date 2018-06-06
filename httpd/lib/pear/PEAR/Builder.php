@@ -63,7 +63,7 @@ class PEAR_Builder extends PEAR_Common
      *
      * @access public
      */
-    function PEAR_Builder(&$ui)
+    function __construct(&$ui)
     {
         parent::PEAR_Common();
         $this->setFrontendObject($ui);
@@ -79,7 +79,7 @@ class PEAR_Builder extends PEAR_Common
             $pkg = $descfile;
             $descfile = $pkg->getPackageFile();
         } else {
-            $pf = &new PEAR_PackageFile($this->config, $this->debug);
+            $pf = new PEAR_PackageFile($this->config, $this->debug);
             $pkg = &$pf->fromPackageFile($descfile, PEAR_VALIDATE_NORMAL);
             if (PEAR::isError($pkg)) {
                 return $pkg;
@@ -277,7 +277,7 @@ class PEAR_Builder extends PEAR_Common
                 $this->addTempFile($dir);
             }
         } else {
-            $pf = &new PEAR_PackageFile($this->config);
+            $pf = new PEAR_PackageFile($this->config);
             $pkg = &$pf->fromPackageFile($descfile, PEAR_VALIDATE_NORMAL);
             if (PEAR::isError($pkg)) {
                 return $pkg;

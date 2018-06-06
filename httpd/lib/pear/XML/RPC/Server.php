@@ -326,9 +326,9 @@ class XML_RPC_Server
      *
      * @return void
      */
-    function XML_RPC_Server($dispMap, $serviceNow = 1, $debug = 0)
+    function __construct($dispMap, $serviceNow = 1, $debug = 0)
     {
-        global $HTTP_RAW_POST_DATA;
+        global $POST_DATA;
 
         if ($debug) {
             $this->debug = 1;
@@ -351,11 +351,11 @@ class XML_RPC_Server
      */
     function serializeDebug()
     {
-        global $XML_RPC_Server_debuginfo, $HTTP_RAW_POST_DATA;
+        global $XML_RPC_Server_debuginfo, $POST_DATA;
 
         if ($this->debug) {
             XML_RPC_Server_debugmsg('vvv POST DATA RECEIVED BY SERVER vvv' . "\n"
-                                    . $HTTP_RAW_POST_DATA
+                                    . $POST_DATA
                                     . "\n" . '^^^ END POST DATA ^^^');
         }
 
@@ -537,12 +537,12 @@ class XML_RPC_Server
      */
     function parseRequest($data = '')
     {
-        global $XML_RPC_xh, $HTTP_RAW_POST_DATA,
+        global $XML_RPC_xh, $POST_DATA,
                 $XML_RPC_err, $XML_RPC_str, $XML_RPC_errxml,
                 $XML_RPC_defencoding, $XML_RPC_Server_dmap;
 
         if ($data == '') {
-            $data = $HTTP_RAW_POST_DATA;
+            $data = $POST_DATA;
         }
 
         $this->encoding = XML_RPC_Message::getEncoding($data);
@@ -653,10 +653,10 @@ class XML_RPC_Server
      */
     function echoInput()
     {
-        global $HTTP_RAW_POST_DATA;
+        global $POST_DATA;
 
         $r = new XML_RPC_Response(0);
-        $r->xv = new XML_RPC_Value("'Aha said I: '" . $HTTP_RAW_POST_DATA, 'string');
+        $r->xv = new XML_RPC_Value("'Aha said I: '" . $POST_DATA, 'string');
         print $r->serialize();
     }
 }

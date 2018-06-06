@@ -26,7 +26,7 @@ class SmartyTest extends PHPUnit_TestCase {
     var $errorlevel;
 
     // constructor of the test suite
-    function SmartyTest($name) {
+    function __construct($name) {
        $this->PHPUnit_TestCase($name);
     }
 

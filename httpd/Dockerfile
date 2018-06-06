@@ -55,6 +55,7 @@ RUN mkdir -p /var/lock/apache2 /var/run/apache2
 RUN mkdir /etc/ssl/dev
 COPY php/php7.ini /etc/php/7.2/apache2/php.ini
 COPY apache/ /etc/apache2/sites-available/
+
 # SSL certificates
 COPY ssl/* /etc/ssl/dev/
 # Library files
@@ -70,15 +71,6 @@ COPY lib/libpdf_php.ini /etc/php5/apache2/conf.d/
 COPY lib/gd.so /usr/lib/php5/20090626/
 # And ensure there is a symlink to libjpeg.so.8 under /usr/lib (it's in the x86_64-linux-gnu folder.
 RUN ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so.8 /usr/lib/libjpeg.so.8
-# Add enterprises/svs directory in root. Don't use a shared volume
-# because you need to be able to change ownership and permissions.
-COPY enterprises/svs /svs
-
-# Add enterprises/selectech directory in root. Don't use a shared volume
-# because you need to be able to change ownership and permissions.
-COPY enterprises/selectech /selectech
-
-
 
 # Set locales
 RUN locale-gen en_US.UTF-8 en_GB.UTF-8

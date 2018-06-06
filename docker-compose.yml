@@ -3,11 +3,12 @@ version: '3'
 services:
     httpd:
       build: ./httpd/
+      image: php7-server:ubuntu-18.04
       ports:
         - 80:80
         - 443:443
         - 9000:9000
-      restart: always
+      # restart: always
       depends_on:
         - mysql
       networks:
@@ -16,10 +17,18 @@ services:
         - /var/www/html/var/cache:exec,mode=777
         - /var/www/html/var/log:exec,mode=777
       volumes:
-        - ./repos:/var/www
         - ./logs/apache:/var/log/apache2
+        - ./httpd/apache:/etc/apache2/sites-available
+        - ./httpd/repos:/var/www
+        - ./httpd/enterprises/selectech:/selectech
+        - ./httpd/enterprises/svs:/svs
+      extra_hosts:
+        - "i9.local:192.168.99.100"
+        - "taq.local:192.168.99.100"
+        - "wfm.local:192.168.99.100"  
     mysql:
       build: ./mysql/
+      image: php7-db:mysql-5.6.40
       environment:
         MYSQL_DATABASE: project
         MYSQL_USER: admin

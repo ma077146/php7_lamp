@@ -2,4 +2,5 @@ httpd/repos/
 httpd/enterprises/
 **/logs
 /mysql/data/
-
+httpd/repos/Yellow-PreHire
+.idea/

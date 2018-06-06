@@ -165,8 +165,9 @@ class Mail_mimeDecode extends PEAR
      * @param string The input to decode
      * @access public
      */
-    function Mail_mimeDecode($input)
+    function __construct($input)
     {
+        parent::__construct();
         list($header, $body)   = $this->_splitBodyHeader($input);
 
         $this->_input          = $input;
@@ -337,7 +338,7 @@ class Mail_mimeDecode extends PEAR
 						$encoding = isset($content_transfer_encoding) ? $content_transfer_encoding['value'] : '7bit';
 						$return->body = ($this->_decode_bodies ? $this->_decodeBody($body, $encoding) : $body);
 					}
-                    $obj = &new Mail_mimeDecode($body);
+                    $obj = new Mail_mimeDecode($body);
                     $return->parts[] = $obj->decode(array('include_bodies' => $this->_include_bodies,
 					                                      'decode_bodies'  => $this->_decode_bodies,
 														  'decode_headers' => $this->_decode_headers));
@@ -621,7 +622,11 @@ class Mail_mimeDecode extends PEAR
         $input = preg_replace("/=\r?\n/", '', $input);
 
         // Replace encoded characters
-		$input = preg_replace('/=([a-f0-9]{2})/ie', "chr(hexdec('\\1'))", $input);
+		$input = preg_replace_callback('/=([a-f0-9]{2})/i',
+            function() {
+		    return "chr(hexdec('\\1'))";},
+            $input
+        );
 
         return $input;
     }

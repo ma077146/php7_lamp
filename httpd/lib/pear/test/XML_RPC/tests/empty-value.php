@@ -51,7 +51,7 @@ if ('1.5.3' != '@'.'package_version'.'@') {
     require_once '../Server.php';
 }
 
-$GLOBALS['HTTP_RAW_POST_DATA'] = <<<EOPOST
+$GLOBALS['POST_DATA'] = <<<EOPOST
 <?xml version="1.0"?>
 <methodCall>
  <methodName>allgot</methodName>

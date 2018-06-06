@@ -133,7 +133,7 @@ class Mail_mimePart
     *
     * @access public
     */
-    function Mail_mimePart($body = '', $params = array())
+    function __construct($body = '', $params = array())
     {
         if (!defined('MAIL_MIMEPART_CRLF')) {
             define(

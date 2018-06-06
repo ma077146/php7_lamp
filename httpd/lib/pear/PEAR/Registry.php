@@ -131,10 +131,10 @@ class PEAR_Registry extends PEAR
      *
      * @access public
      */
-    function PEAR_Registry($pear_install_dir = PEAR_INSTALL_DIR, $pear_channel = false,
+    function __construct($pear_install_dir = PEAR_INSTALL_DIR, $pear_channel = false,
                            $pecl_channel = false)
     {
-        parent::PEAR();
+        parent::__construct();
         $this->setInstallDir($pear_install_dir);
         $this->_pearChannel = $pear_channel;
         $this->_peclChannel = $pecl_channel;
@@ -319,7 +319,7 @@ class PEAR_Registry extends PEAR
                 $initializing = true;
                 if (!$this->_config) { // never used?
                     $file = OS_WINDOWS ? 'pear.ini' : '.pearrc';
-                    $this->_config = &new PEAR_Config($this->statedir . DIRECTORY_SEPARATOR .
+                    $this->_config = new PEAR_Config($this->statedir . DIRECTORY_SEPARATOR .
                         $file);
                     $this->_config->setRegistry($this);
                     $this->_config->set('php_dir', $this->install_dir);
@@ -783,11 +783,23 @@ class PEAR_Registry extends PEAR
 
         clearstatcache();
         $rt = get_magic_quotes_runtime();
-        set_magic_quotes_runtime(0);
+        if (version_compare(PHP_VERSION, '5.3.0', '<')) {
+            set_magic_quotes_runtime(0);
+        }
+        else {
+            ini_set('magic_quotes_runtime', 0);
+        }
+
         $fsize = filesize($this->filemap);
         fclose($fp);
         $data = file_get_contents($this->filemap);
-        set_magic_quotes_runtime($rt);
+        if (version_compare(PHP_VERSION, '5.3.0', '<')) {
+            set_magic_quotes_runtime($rt);
+        }
+        else {
+            ini_set('magic_quotes_runtime', $rt);
+        }
+
         $tmp = unserialize($data);
         if (!$tmp && $fsize > 7) {
             return $this->raiseError('PEAR_Registry: invalid filemap data', PEAR_REGISTRY_ERROR_FORMAT, null, null, $data);
@@ -1137,11 +1149,23 @@ class PEAR_Registry extends PEAR
         }
 
         $rt = get_magic_quotes_runtime();
-        set_magic_quotes_runtime(0);
+        if (version_compare(PHP_VERSION, '5.3.0', '<')) {
+            set_magic_quotes_runtime(0);
+        }
+        else {
+            ini_set('magic_quotes_runtime', 0);
+        }
+
         clearstatcache();
         $this->_closePackageFile($fp);
         $data = file_get_contents($this->_packageFileName($package, $channel));
-        set_magic_quotes_runtime($rt);
+        if (version_compare(PHP_VERSION, '5.3.0', '<')) {
+            set_magic_quotes_runtime($rt);
+        }
+        else {
+            ini_set('magic_quotes_runtime', $rt);
+        }
+
         $data = unserialize($data);
         if ($key === null) {
             return $data;
@@ -1176,11 +1200,23 @@ class PEAR_Registry extends PEAR
         }
 
         $rt = get_magic_quotes_runtime();
-        set_magic_quotes_runtime(0);
+        if (version_compare(PHP_VERSION, '5.3.0', '<')) {
+            set_magic_quotes_runtime(0);
+        }
+        else {
+            ini_set('magic_quotes_runtime', 0);
+        }
+
         clearstatcache();
         $this->_closeChannelFile($fp);
         $data = file_get_contents($this->_channelFileName($channel));
-        set_magic_quotes_runtime($rt);
+        if (version_compare(PHP_VERSION, '5.3.0', '<')) {
+            set_magic_quotes_runtime($rt);
+        }
+        else {
+            ini_set('magic_quotes_runtime', $rt);
+        }
+
         $data = unserialize($data);
         return $data;
     }
@@ -1447,7 +1483,7 @@ class PEAR_Registry extends PEAR
 
         $a = $this->_config;
         if (!$a) {
-            $this->_config = &new PEAR_Config;
+            $this->_config = new PEAR_Config;
             $this->_config->set('php_dir', $this->statedir);
         }
 
@@ -1455,7 +1491,7 @@ class PEAR_Registry extends PEAR
             require_once 'PEAR/PackageFile.php';
         }
 
-        $pkg = &new PEAR_PackageFile($this->_config);
+        $pkg = new PEAR_PackageFile($this->_config);
         $pf = &$pkg->fromArray($info);
         return $pf;
     }
