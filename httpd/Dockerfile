@@ -61,17 +61,12 @@ COPY ssl/* /etc/ssl/dev/
 # Library files
 COPY lib/pear /usr/share/pear
 #Ubuntu 18.04 can also look for these files in /usr/share/php
-COPY lib/pear /usr/share/php
+RUN ln -s /usr/share/pear/* /usr/share/php/
 COPY lib/Smarty-2.6.18 /usr/local/lib/php/Smarty-2.6.18
-COPY lib/libpdf_php.so /usr/lib/php5/20090626/
-COPY lib/libpdf_php.ini /etc/php5/apache2/conf.d/
-# The default gd library installed with php (php5-gd) isn't the whole enchilada.
-# We have to replace it with the "gd-bundled" version to access some image functions.
-# Note: this is a trick to avoid having to recompile php with it. For our current version
-# of php (5.3.10) taken from rpmfind.net (php-gd-bundled-5.2.4-1mdv2008.0.ppc.rpm).
-# See https://nossie.addicts.nl/php5-gd.html
-COPY lib/gd.so /usr/lib/php5/20090626/
-# And ensure there is a symlink to libjpeg.so.8 under /usr/lib (it's in the x86_64-linux-gnu folder.
+COPY lib/libpdf_php.so /usr/lib/php/20170718/
+COPY lib/libpdf_php.ini /etc/php/7.2/apache2/conf.d/
+
+# Ensure there is a symlink to libjpeg.so.8 under /usr/lib (it's in the x86_64-linux-gnu folder.
 RUN ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so.8 /usr/lib/libjpeg.so.8
 
 # Set locales
