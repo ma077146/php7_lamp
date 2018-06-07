@@ -60,6 +60,8 @@ COPY apache/ /etc/apache2/sites-available/
 COPY ssl/* /etc/ssl/dev/
 # Library files
 COPY lib/pear /usr/share/pear
+#Ubuntu 18.04 can also look for these files in /usr/share/php
+COPY lib/pear /usr/share/php
 COPY lib/Smarty-2.6.18 /usr/local/lib/php/Smarty-2.6.18
 COPY lib/libpdf_php.so /usr/lib/php5/20090626/
 COPY lib/libpdf_php.ini /etc/php5/apache2/conf.d/
