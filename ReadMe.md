@@ -1,28 +1,32 @@
 # Initial Setup
 
-ASSUMPTIONS:
+##ASSUMPTIONS:
 1.  You have already installed Docker Toolbox for Windows.
 2.  You have either used Kitmatic or Docker Quick Start Terminal to create a Docker VM
 3.  You know how to ask questions if question 1 or 2 have you befuddled.
-4.  In your Windows/System32/drivers/etc/hosts file, you already have the below:
+4.  In your Windows/System32/drivers/etc/hosts file, you already have the below entries:
 
     192.168.99.100 taq.local
+    
     192.168.99.100 i9.local
+    
     192.168.99.100 wfm.local
 
 5.  If you don't have the above, make it so!
 
-You can set this new dev environment up in any directory.  I placed it in the same directory as the old php_dev_envs.
+You can set this new dev environment up in any directory.  I placed it in the same directory as the old
+php_dev_envs.
 
 If this is your first attempt at setting up a PHP7 dev environment, C:/Users/<your-name>/docker is a good place!
 
 The contents of the httpd/apache directory will be same regardless of the developer.
 
-The contents of enterprises/svs. enterprises/selectech, and mysql/data will differ if you already have an existing local
-environment set up.  We'll change these below.  They are included in the .gitignore file, so any changes you make locally
+The contents of enterprises/svs, enterprises/selectech, and mysql/data will differ if you already have an
+existing local environment set up.  We'll change these below.  They are included in the .gitignore file,
+so any changes you make locally
 won't be added back to the repository.
 
--- Clone the PHP7 dev envs repo
+### Clone the PHP7 dev envs repo
 Go (cd) to the directory where you want the new PHP7 dev envs.
 1. Type 'git clone git@github.com:ma077146/php7_lamp.git' and hit enter.
 2. Create a directory called "repos" in the httpd directory.
@@ -32,9 +36,16 @@ Go (cd) to the directory where you want the new PHP7 dev envs.
 5. Copy your enterprises/selectech data into the httpd/enterprises/selectech directory.
 6. Create a  directory called "data" in the mysql directory.
 7. Copy your mysql/data files (directories only, no files!) into the mysql/data directory.
+
+TASK:
+
+    [a] cd into the httpd/enterprises directory
+    [b] chmod -R 777 svs
+    [c] chmod -R 777 selectech
+    
 ANOTHER NOTE: If you don't have an existing dev environment, ask another developer to help you for this part.
 
--- Build the new dev envs
+### Build the new dev envs
 If you don't already, you're going to learn to love docker compose and Dockerfile.  You literally have one thing to
 do for the build.  Ready?
 1. In a terminal, cd into your php7_lamp directory.
@@ -54,7 +65,7 @@ mapruitt@MP-PF0X255B-LT MINGW64 ~/docker/php7_lamp (master)
 
 
 # Database updates
--- Update MySQL
+### Update MySQL
 We need to do a mysql_upgrade to get to MySQL 5.6.40, and we'll need to change the database address from localhost to
 192.168.99.100.
 
@@ -68,7 +79,7 @@ Find the Kitematic application which was installed with Docker Toolbox, and open
 3. Type "mysql_upgrade --force -u root -p" and hit enter.
 4. Type "password" for password.
 
--- Change DB address from localhost to 192.168.99.100
+## Change DB address from localhost to 192.168.99.100
 1. While still in the terminal, type 'mysql -u root -p;' and hit enter.
 2. Type 'password' and hit enter.
 3. Type 'UPDATE selectech_central.enterprise SET system_db_address = '192.168.99.100';' and hit enter.
@@ -84,7 +95,7 @@ It would be a good idea to make a backup of all of your databases, including mys
 At this point, you should have a fully functional local dev environment.  Point your browser to https://taq.local
 or https://i9.local and see if you can log in.
 
-IT WOULD REALLY BE WORTH YOUR TIME TO READ THIS NEXT PART!
+#IT WOULD REALLY BE WORTH YOUR TIME TO READ THIS NEXT PART!
 
 To stop your setup, you can go to the php7_lamp directory and type 'docker-compose stop' and hit enter.
 To start it, go to the same place and type 'docker-compose start'.
@@ -99,7 +110,7 @@ Here is what you need to know.
 - the docker volume mysql_data was created for your setup.
 - while the data will persist on your local, it's your responsibility to periodically back it up.
 
--- Install PHP7 and Composer on Windows 10
+## Install PHP7 and Composer on Windows 10
 At the time of this writing, it's June 6, 2018. It's time for you to do this.
 
 Here is a link to a really good article about how to do it right.
