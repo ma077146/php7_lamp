@@ -110,6 +110,43 @@ Here is what you need to know.
 - the docker volume mysql_data was created for your setup.
 - while the data will persist on your local, it's your responsibility to periodically back it up.
 
+## Before you get busy doing something else.....
+Make a dumpfile of your current databases.  This will be for your client related databases; don't worry about
+the MySQL database.  It's part of the docker container, and easy enough to get back if it gets messed up.
+
+I use MySQL Workbench, so I used the mysqldump tool included.
+
+Set up a data export (Choose "Export to Self-Contained File", check "Create Dump in a single Transaction", and
+"Include Create Schema").
+
+Click "Start Export" and watch for your results.  If you get no errors, you're good.  If you get errors (missing
+tables, etc.) fix them.  Repeat this process until you have no errors and can successfully make a mysqldump for your
+client data.
+
+Usually, this is saved into User/<username>/Documents/dumps with whatever name you gave it.  Find it, zip it, and
+move the zipped file to php7_lamp/mysql/dumps. The .zip file will save your precious disk space (you're welcome).
+Delete the original file.
+
+You can use this file to restore your client data if you ever have to rebuild your containers.  Unzip the .zip file
+and import it using your database tool.
+
+## For Pro's Only!
+Backup your database directories to your local hard drive.
+
+From your favorite terminal (with the docker containers up and running, of course):
+
+[1] docker ps -a
+
+[2] copy the container ID for the mysql database container
+
+[3] in a terminal type 'docker cp <containerID>:/var/lib/mysql/ /my_directory/' and hit enter.
+
+The individual database directories, including mysql and performance schema will be copied to your local drive
+from the docker volume.
+
+You can replace the contents of /mysql/data with these directories, and if you rebuild your containers, you'll start
+with current data!
+
 ## Install PHP7 and Composer on Windows 10
 At the time of this writing, it's June 6, 2018. It's time for you to do this.
 
