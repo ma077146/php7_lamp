@@ -63,7 +63,7 @@ COPY lib/pear /usr/share/pear
 #Ubuntu 18.04 can also look for these files in /usr/share/php
 RUN ln -s /usr/share/pear/* /usr/share/php/
 COPY lib/Smarty-2.6.18 /usr/local/lib/php/Smarty-2.6.18
-COPY lib/libpdf_php.so /usr/lib/php/20170718/
+COPY lib/php_pdflib.so /usr/lib/php/20170718/
 COPY lib/libpdf_php.ini /etc/php/7.2/apache2/conf.d/
 
 # Ensure there is a symlink to libjpeg.so.8 under /usr/lib (it's in the x86_64-linux-gnu folder.
