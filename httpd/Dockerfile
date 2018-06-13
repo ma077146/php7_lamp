@@ -98,6 +98,9 @@ ENV APACHE_LOG_DIR /var/log/apache2
 ENV APACHE_LOCK_DIR /var/lock/apache2
 ENV APACHE_PID_FILE /var/run/apache2.pid
 
+# Set the ServerName
+RUN echo "ServerName PSY-PHP7-Dev-Env" >> /etc/apache2/apache2.conf
+
 EXPOSE 80 443 9000
 
 # WORKDIR /var/www/html
