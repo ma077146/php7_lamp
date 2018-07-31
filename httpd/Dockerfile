@@ -45,6 +45,7 @@ RUN apt-get update && apt-get install -yq \
     npm \
     zip unzip \
     locales \
+    poppler-utils\
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Install composer
