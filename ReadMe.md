@@ -23,8 +23,7 @@ The contents of the httpd/apache directory will be same regardless of the develo
 
 The contents of enterprises/svs, enterprises/selectech, and mysql/data will differ if you already have an
 existing local environment set up.  We'll change these below.  They are included in the .gitignore file,
-so any changes you make locally
-won't be added back to the repository.
+so any changes you make locally won't be added back to the repository.
 
 ### Clone the PHP7 dev envs repo
 Go (cd) to the directory where you want the new PHP7 dev envs.
@@ -46,8 +45,7 @@ TASK:
 ANOTHER NOTE: If you don't have an existing dev environment, ask another developer to help you for this part.
 
 ### Build the new dev envs
-If you don't already, you're going to learn to love docker compose and Dockerfile.  You literally have one thing to
-do for the build.  Ready?
+If you don't already, you're going to learn to love docker compose and Dockerfile.  You literally have one thing to do for the build.  Ready?
 1. In a terminal, cd into your php7_lamp directory.
 2. Type 'docker-compose up -d' and hit enter.
 3. This will take awhile, perhaps, you should get a favorite beverage, return a phone call, etc.
@@ -66,11 +64,9 @@ mapruitt@MP-PF0X255B-LT MINGW64 ~/docker/php7_lamp (master)
 
 # Database updates
 ### Update MySQL
-We need to do a mysql_upgrade to get to MySQL 5.6.40, and we'll need to change the database address from localhost to
-192.168.99.100.
+We need to do a mysql_upgrade to get to MySQL 5.6.40, and we'll need to change the database address from localhost to 192.168.99.100.
 
-In any docker container, "localhost" refers to anything inside that container.  Since our MySQL database is in another
-docker container, we need to reference if by it's ip address and port.
+In any docker container, "localhost" refers to anything inside that container.  Since our MySQL database is in another docker container, we need to reference if by it's ip address and port.
 
 Find the Kitematic application which was installed with Docker Toolbox, and open in.
 
@@ -87,8 +83,7 @@ Find the Kitematic application which was installed with Docker Toolbox, and open
 5. Type 'UPDATE clrstar_system.client SET database_address = '192.168.99.100';' and hit enter.
 6. Type 'UPDATE svs_erc_system.client SET database_address = '192.168.99.100';' and hit enter.
 
-Use MySQL Workbench or other tool of your choice to reach your data at 192.168.99.100, port = 3306, user = root,
-and password = password.
+Use MySQL Workbench or other tool of your choice to reach your data at 192.168.99.100, port = 3306, user = root, and password = password.
 
 It would be a good idea to make a backup of all of your databases, including mysql, sooner rather than later.
 
@@ -103,8 +98,7 @@ To restart, go to the same place and type 'docker-compose restart'.
 
 Unless you're very comfortable with Docker and docker compose, don't run any additional commands.
 
-The correct way to store database data on your local host is in a docker volume.  If you don't know what that is,
-it's ok, just know it's part of the docker virtual machine on your host (laptop) where data is persistently stored.
+The correct way to store database data on your local host is in a docker volume.  If you don't know what that is, it's ok, just know it's part of the docker virtual machine on your host (laptop) where data is persistently stored.
 
 Here is what you need to know.
 - the docker volume mysql_data was created for your setup.
@@ -119,16 +113,11 @@ I use MySQL Workbench, so I used the mysqldump tool included.
 Set up a data export (Choose "Export to Self-Contained File", check "Create Dump in a single Transaction", and
 "Include Create Schema").
 
-Click "Start Export" and watch for your results.  If you get no errors, you're good.  If you get errors (missing
-tables, etc.) fix them.  Repeat this process until you have no errors and can successfully make a mysqldump for your
-client data.
+Click "Start Export" and watch for your results.  If you get no errors, you're good.  If you get errors (missing tables, etc.) fix them.  Repeat this process until you have no errors and can successfully make a mysqldump for your client data.
 
-Usually, this is saved into User/<username>/Documents/dumps with whatever name you gave it.  Find it, zip it, and
-move the zipped file to php7_lamp/mysql/dumps. The .zip file will save your precious disk space (you're welcome).
-Delete the original file.
+Usually, this is saved into User/<username>/Documents/dumps with whatever name you gave it.  Find it, zip it, and move the zipped file to php7_lamp/mysql/dumps. The .zip file will save your precious disk space (you're welcome). Delete the original file.
 
-You can use this file to restore your client data if you ever have to rebuild your containers.  Unzip the .zip file
-and import it using your database tool.
+You can use this file to restore your client data if you ever have to rebuild your containers.  Unzip the .zip file and import it using your database tool.
 
 ## For Pro's Only!
 Backup your database directories to your local hard drive.
@@ -144,8 +133,7 @@ From your favorite terminal (with the docker containers up and running, of cours
 The individual database directories, including mysql and performance schema will be copied to your local drive
 from the docker volume.
 
-You can replace the contents of /mysql/data with these directories, and if you rebuild your containers, you'll start
-with current data!
+You can replace the contents of /mysql/data with these directories, and if you rebuild your containers, you'll start with current data!
 
 ## Install PHP7 and Composer on Windows 10
 At the time of this writing, it's June 6, 2018. It's time for you to do this.
