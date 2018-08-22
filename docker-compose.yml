@@ -28,7 +28,7 @@ services:
         - "wfm.local:192.168.99.100"  
     mysql:
       build: ./mysql/
-      image: php7-db:mysql-5.6.40
+      image: php7-db:mysql-5.7.23
       environment:
         MYSQL_DATABASE: project
         MYSQL_USER: admin
