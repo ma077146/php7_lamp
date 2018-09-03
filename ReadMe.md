@@ -64,11 +64,16 @@ mapruitt@MP-PF0X255B-LT MINGW64 ~/docker/php7_lamp (master)
 
 # Database updates
 ### Update MySQL
-We need to do a mysql_upgrade to get to MySQL 5.6.40, and we'll need to change the database address from localhost to 192.168.99.100.
+We need to do a mysql_upgrade to get to MySQL 5.7.23, and we'll need to change the 
+database address from localhost to 192.168.99.100.
 
-In any docker container, "localhost" refers to anything inside that container.  Since our MySQL database is in another docker container, we need to reference if by it's ip address and port.
+In any docker container, "localhost" refers to anything inside that container.  
+Since our MySQL database is in another docker container, we need to reference if
+by it's ip address and port.
 
 Find the Kitematic application which was installed with Docker Toolbox, and open in.
+
+NOTE: If the steps below don't work, try the next set of 6 steps first.
 
 1. From Kitmatic, click mysql container in left column.
 2. Click "Exec" button.
@@ -128,7 +133,7 @@ From your favorite terminal (with the docker containers up and running, of cours
 
 [2] copy the container ID for the mysql database container
 
-[3] in a terminal type 'docker cp <containerID>:/var/lib/mysql/ /my_directory/' and hit enter.
+[3] in a terminal type 'docker cp <containerID>:/var/lib/mysql/ c:/Users/your-name/my_directory/' and hit enter.
 
 The individual database directories, including mysql and performance schema will be copied to your local drive
 from the docker volume.
