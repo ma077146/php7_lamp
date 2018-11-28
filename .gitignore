@@ -1,6 +1,7 @@
 httpd/repos/
 httpd/enterprises/
 **/logs
+/mysql/backup
 /mysql/data/
 /mysql/dumps/*.zip
 /mysql/dumps/*.sql
